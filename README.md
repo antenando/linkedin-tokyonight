@@ -1,0 +1,66 @@
+# LinkedIn - Tokyo Night Storm
+
+A dark [Tokyo Night Storm](https://github.com/enkia/tokyo-night-vscode-theme) theme for
+[linkedin.com](https://www.linkedin.com). Built for [Stylus](https://github.com/openstyles/stylus).
+
+**[Install](https://raw.githubusercontent.com/antenando/linkedin-tokyonight/main/linkedin-tokyonight.user.css)**
+· with Stylus installed, opening that link offers to install it.
+
+## Screenshots
+
+Without the style:
+
+![LinkedIn without the userstyle](screenshots/before.png)
+
+With it:
+
+![LinkedIn with the Tokyo Night Storm userstyle](screenshots/after.png)
+
+## What it does
+
+LinkedIn uses two colour systems at the same time. The style remaps both, so every page
+follows the theme whatever the LinkedIn display setting is.
+
+- **Named tokens** (`--color-background-canvas`, `--color-text`, ...) on the older pages.
+  The main roles (page, cards, text, links, buttons) are set by hand. The other tokens are
+  converted from light to dark by the generator.
+- **Hashed tokens** (`--_5fa42b79`, ...) on the newer pages. These pick their colour with
+  `light-dark()`, so the style forces `color-scheme: dark` and remaps the palette under
+  them. Greys go to a Tokyo Night grey ramp, hues to the nearest Tokyo Night accent at a
+  matching lightness.
+
+## Settings
+
+Configurable from the Stylus style settings:
+
+| Setting | Default |
+|---|---|
+| Page background | `#1a1b26` |
+| Card background | `#24283b` |
+| Body text | `#c0caf5` |
+| Links and actions | `#7aa2f7` |
+
+The whole grey ramp is derived from these through `color-mix()`, so retinting the
+background or the text retints every grey on the site.
+
+## When LinkedIn changes its CSS
+
+The hashed token names can change when LinkedIn ships a new build. The symptom is that the
+newer pages go back to LinkedIn's own colours. To fix it:
+
+```sh
+python tools/linkedin-tokyonight-gen.py
+```
+
+The script downloads the current stylesheets from LinkedIn's public login and signup pages
+and rewrites only the blocks between the `GENERATED` markers. Tokens set by hand outside
+those blocks are kept. Bump `@version` after, or Stylus keeps the old copy.
+
+## Requirements
+
+A browser with `color-mix()` and `light-dark()` support: Chrome 123+, Edge 123+,
+Firefox 120+, Safari 17.5+.
+
+## License
+
+MIT
