@@ -10,9 +10,14 @@ public LinkedIn pages and rewrites the GENERATED blocks in the user style.
 Run it again when LinkedIn rotates the hashed names (symptom: the newer
 pages, such as the feed, go back to LinkedIn's own colours).
 
+Signed-in pages add a third set of hashed names that no public page loads.
+Collect those with probe.js (run it with the style turned off) and save the
+DUMP section of its report as tools/dumps/<page>.txt.
+
 Usage: python linkedin-tokyonight-gen.py [--dry-run]
 """
 import colorsys
+import glob
 import os
 import re
 import sys
@@ -143,7 +148,8 @@ def map_light(name, c):
     """A colour chosen for a light UI: invert it for a dark one"""
     r, g, b, a = c
     h, l, s = hls(r, g, b)
-    if "on-dark" in name or "inverse" in name:
+    # on-dark, inverse and *-dark tokens are already meant for a dark surface
+    if re.search(r"-dark(-|$)", name) or "inverse" in name:
         return map_dark(c)
     if (r, g, b) == (0, 0, 0) and a < 0.999:
         if any(k in name for k in ("scrim", "shadow", "overlay")):
@@ -188,6 +194,29 @@ def hashed_block(css):
     return out
 
 
+def dump_block(skip):
+    """Palette colours seen only on signed-in pages, from probe.js reports.
+
+    Signed-in pages load bundles that the public pages do not, and those carry
+    their own hashed names. A report lists them. Only the first report that
+    names a token counts, oldest file first, so a later report taken with the
+    style on cannot feed Tokyo Night values back in
+    """
+    files = sorted(glob.glob(os.path.join(HERE, "dumps", "*.txt")), key=os.path.getmtime)
+    seen, out = set(), []
+    for path in files:
+        for line in open(path, encoding="utf-8"):
+            m = re.match(r"(--_?[0-9a-f]{8}):\s*(.+?);?\s*$", line)
+            if not m or m.group(1) in skip or m.group(1) in seen:
+                continue
+            c = parse_color(m.group(2))
+            if c is None:
+                continue
+            seen.add(m.group(1))
+            out.append(f"  {m.group(1)}: {map_dark(c)} !important;")
+    return files, out
+
+
 def splice(text, tag, lines):
     begin, end = f"/* GENERATED:{tag}:BEGIN */", f"/* GENERATED:{tag}:END */"
     i, j = text.index(begin) + len(begin), text.index(end)
@@ -206,11 +235,15 @@ def main():
                                       lambda c: "light-dark(" in c)
     named = named_block(named_css, skip)
     hashed = hashed_block(hashed_css)
-    print(f"named:  {len(named):4d} tokens from {named_url}")
-    print(f"hashed: {len(hashed):4d} tokens from {hashed_url}")
+    hashed_names = {line.split(":")[0].strip() for line in hashed}
+    dump_files, signed_in = dump_block(skip | hashed_names)
+    print(f"named:     {len(named):4d} tokens from {named_url}")
+    print(f"hashed:    {len(hashed):4d} tokens from {hashed_url}")
+    print(f"signed-in: {len(signed_in):4d} tokens from {len(dump_files)} report(s) in tools/dumps/")
 
     text = splice(text, "NAMED", named)
     text = splice(text, "HASHED", hashed)
+    text = splice(text, "SIGNEDIN", signed_in)
     if "--dry-run" in sys.argv:
         return
     with open(STYLE, "w", encoding="utf-8", newline="\n") as f:

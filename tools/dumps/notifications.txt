@@ -1,0 +1,952 @@
+--b69a12ef: #2A1245
+--_39d89e92: light-dark(#FFDDD3, #5D392F)
+--a82f9f88: #FFF8FF
+--_8d7e2e9c: #E1F9D5
+--_604ca6c8: rgb(209 96 203 / 0.3)
+--c4a81ea1: light-dark(#523A51, #FDC2B1)
+--_498d46c0: #65684E
+--_80a33818: #FCFAFF
+--color-button-label-tertiary-emphasis: #7aa2f7
+--b55e230d: #F6FBFF
+--color-progress-loading: #7aa2f7
+--color-data-label-caution: #24283b
+--_2542c6ba: rgb(190 123 106 / 0.1)
+--c7e9d1c0: light-dark(#1F1F1F, #E4E4E4)
+--a917c831: rgb(168 113 234 / 0.3)
+--_964cfdf2: light-dark(#F8FAFD, #293037)
+--_976472aa: #c0caf5
+--_56a9f7cb: light-dark(rgb(224 104 71 / 0.2), rgb(224 104 71 / 0.25))
+--color-input-date-label-checked-hover: #24283b
+--_9a756f4d: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-label-current: #24283b
+--_0b1a4de1: light-dark(#5C3B09, #F9C982)
+--_413c518d: light-dark(#004182, #AAD6FF)
+--_24c68cbf: #c0caf5
+--bb194253: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--_0cdc115f: light-dark(rgb(97 108 32 / 0.3), rgb(133 148 47 / 0.3))
+--c5eaa759: #013726
+--ff5bf1e3: rgb(149 139 123 / 0.25)
+--_2e523e57: rgb(255 255 255 / 0.75)
+--_2fec1bbe: #293037
+--b869a7b5: light-dark(#44712E, #A7E18B)
+--b95c0cac: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--color-action: #7aa2f7
+--_28217223: #FDF9F8
+--_8ff29b27: light-dark(#666666, #B2B2B2)
+--_929bef20: #FFC1CA
+--_433a6545: light-dark(#0A66C2, #71B7FB)
+--_4d31e08d: #E0C7FC
+--_875ead2a: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-label-current-hover: #24283b
+--bac4202a: light-dark(#004C33, #74E5C0)
+--ca138506: rgb(243 83 107 / 0.15)
+--b7ec64aa: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--d3b87c40: rgb(243 83 107 / 0.35)
+--_93e5ba02: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.35))
+--c74e8e9e: #1A707E
+--a2cb891a: #F3536B
+--color-pill-container-count: #24283b
+--c2d60458: #003CE0
+--_33bec02e: #c0caf5
+--_319b9157: light-dark(#FFFFFF, #FFFFFF)
+--c8cea00b: #616C20
+--color-link-active: #7dcfff
+--d366f2b0: light-dark(#616C20, #85942F)
+--color-button-container-primary: #7aa2f7
+--color-pill-indicator-checked-hover: #24283b
+--_2b548ea0: rgb(190 123 106 / 0.3)
+--c820f156: light-dark(#FCE0B6, #6E6558)
+--_02e7391c: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_683802f0: rgb(0 0 0 / 0.89)
+--color-data-label-positive: #24283b
+--color-text-brand: #7aa2f7
+--_3c830e69: #5D392F
+--_266d2d35: #bb9af7
+--_4ff0af0e: light-dark(#0A66C2, #DDE7F1)
+--_5bde1278: rgb(51 153 168 / 0.2)
+--_0d0ae2b6: light-dark(#FFEFEA, #412922)
+--fa96de2e: #211F1C
+--_386a0eb0: light-dark(#FFFFFF, #FFFFFF)
+--_8b119452: rgb(0 0 0 / 0.03)
+--a2eeb162: #c0caf5
+--e172f6cd: #24331C
+--_739265bf: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--_4615e00c: rgb(138 143 108 / 0.1)
+--a4f7bef6: #FADED6
+--_522589de: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--ee76d96d: #512012
+--e5ad8508: light-dark(#1F1F1F, #E4E4E4)
+--a17b5aa6: rgb(172 125 169 / 0.25)
+--_8589e505: light-dark(#762812, #FDEFEC)
+--b608ba38: #D9CCE7
+--_707c287e: light-dark(#E9A53F, #E9A53F)
+--_61b2a793: light-dark(#1A707E, #94DDE8)
+--bba66868: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--c297ebf8: light-dark(#FCE0B6, #523A51)
+--_922e6862: #F8FAFD
+--color-button-container-primary-active: #7dcfff
+--_2b77fe06: light-dark(#711C6D, #F8EFF8)
+--c8e48f60: light-dark(#FFFFFF, #FFFFFF)
+--_112537a7: #71B7FB
+--_5a04f77c: rgb(123 147 112 / 0.1)
+--f4739374: rgb(209 96 203 / 0.2)
+--b8ca6029: rgb(246 155 129 / 0.3)
+--_3a7c689d: light-dark(#0A66C2, #AAD6FF)
+--e9e2b5ab: light-dark(#1A707E, #D5E8EA)
+--e98c9bd5: light-dark(#D8E9CF, #3A4535)
+--e3c3f834: #56687A
+--d6353b99: rgb(0 0 0 / 0.16)
+--_23d50691: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_375069fd: #8443CE
+--bcd5db01: #EBE9E9
+--color-button-icon-primary-hover: #24283b
+--_37271f6b: light-dark(rgb(0 0 0 / 0), rgb(0 0 0 / 0))
+--d0d18b66: #2962FF
+--_401715a5: rgb(123 147 112 / 0.2)
+--_4d4ff6c2: rgb(0 0 0 / 0.56)
+--_86addaf3: rgb(133 148 47 / 0.1)
+--cbc3dbb0: light-dark(#F7EFFF, #493D57)
+--dda2a03d: #E0EAA2
+--_284af372: rgb(195 125 22 / 0.15)
+--aad623d6: #FE9958
+--_06b4182b: light-dark(#E0EAA2, #65684E)
+--b7c38046: #BBEDF5
+--_54325c25: light-dark(#C37D16, #F9C982)
+--color-input-icon-error: #f7768e
+--_2ce66266: light-dark(#EA95E5, #CEA5CC)
+--_2c138134: #F8F7F7
+--_51c0d56e: rgb(149 139 123 / 0.15)
+--color-button-icon-primary: #24283b
+--e263fc1b: light-dark(rgb(140 140 140 / 0.2), rgb(0 0 0 / 0.45))
+--_8024bf70: #F0FDF9
+--e5e2faa5: rgb(0 0 0 / 0.58)
+--_9e713387: light-dark(rgb(168 113 234 / 0.3), rgb(200 161 246 / 0.3))
+--d1733f00: #8F8C8A
+--color-shadow-border: rgb(0 0 0 / 0.16)
+--be56c493: #c0caf5
+--babae1d9: rgb(0 0 0 / 0.92)
+--_0e42d4c6: light-dark(rgb(92 59 9 / 0.3), rgb(249 201 130 / 0.3))
+--_88136b9a: rgb(178 178 178 / 0.3)
+--_6a892378: light-dark(#DDF7FB, #364547)
+--bcef7d8d: #424242
+--_877b6f5c: #c0caf5
+--_73de492c: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.3))
+--_36b745c7: #FBFAFB
+--color-data-sequential-c-7: #7aa2f7
+--_5b9a870c: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--dbf303d5: light-dark(#C37D16, #C37D16)
+--color-input-indicator-checked-hover: #24283b
+--_229cb1f7: #1a1b26
+--_6974fe34: light-dark(#FFFFFF, #1B1F23)
+--b5e9b2bf: light-dark(#523A51, #FDC2B1)
+--ea643587: #092C8F
+--f0a78564: #2D3118
+--_1b121beb: light-dark(#CBD978, #8A8F6C)
+--_08c882e6: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 100%
+--c6e7df7b: #FCDAFA
+--_8a3368fd: light-dark(#666666, #B2B2B2)
+--color-background-canvas: #1a1b26
+--f6d78a50: #F8F9FC
+--_62f14159: #c0caf5
+--color-container-alert: #f7768e
+--_82d2d049: rgb(0 0 0 / 0.56)
+--e0a6556c: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--_1800aac8: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--color-container-new: #7aa2f7
+--_14277a6f: light-dark(#FFFFFF, #FFFFFF)
+--e0917be0: #788FA5
+--b8d28713: light-dark(#715E86, #D9CCE7)
+--_238d19be: light-dark(#5C3B09, #F9C982)
+--_5e031b45: light-dark(#004C33, #74E5C0)
+--color-link-hover: #7dcfff
+--e43f350b: #BED1FE
+--_30ab2b88: rgb(15 159 111 / 0.3)
+--color-button-overlay-container-loading: #1a1b26
+--_91961441: rgb(255 255 255 / 0)
+--_4eaefc3a: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_2fd65f89: rgb(255 255 255 / 0.9)
+--_53a24251: #321811
+--color-text-shift-on-dark-flip: #c0caf5
+--c50d619d: rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.16)) 25%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.4)) 50%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.6)) 75%
+--_48b7ea93: light-dark(rgb(66 66 66 / 0.85), rgb(66 66 66 / 0.85))
+--_94ea96f6: light-dark(rgb(120 143 165 / 0.2), rgb(120 143 165 / 0.25))
+--_21937dc7: #c0caf5
+--_8e9b1d60: light-dark(rgb(255 255 255 / 0.45), rgb(255 255 255 / 0.45))
+--_8805dd36: #BBB1A1
+--e78fe0a7: rgb(0 0 0 / 0.84)
+--_5099381f: #24283b
+--dbdc57d4: light-dark(#711C6D, #F6C0F3)
+--ed3f6f32: light-dark(#592099, #E0C7FC)
+--color-brand-alt: #c0caf5
+--e07f4a50: #915907
+--_973a053b: rgb(249 201 130 / 0.3)
+--_4c778622: rgb(51 153 168 / 0.35)
+--_1e8eddd0: light-dark(#EAE2F3, #493D57)
+--color-input-helper-error: #f7768e
+--_51847ae2: rgb(0 0 0 / 0.45)
+--_768feb8f: light-dark(#EDF3F8, #293037)
+--dabeced9: light-dark(#702F03, #FFC5A0)
+--b6ad1a75: #3399A8
+--_545a2a31: rgb(168 113 234 / 0.15)
+--a629502a: rgb(97 108 32 / 0.3)
+--_0fec9cce: rgb(120 143 165 / 0.15)
+--_3c6f2609: #F9C982
+--_78517ea1: light-dark(#B2B2B2, #666666)
+--color-label-checked: #24283b
+--_7e60096a: light-dark(#FCE0B6, #474139)
+--_918e90e3: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--_015b301f: rgb(243 83 107 / 0.2)
+--_8374064d: rgb(0 0 0 / 0.84)
+--c8c00c79: rgb(140 140 140 / 0.2)
+--df963fd0: rgb(255 255 255 / 0.45)
+--_0a2a7808: #412922
+--_54d97fa1: light-dark(#FDC2B1, #BE7B6A)
+--_61838dc7: #F69B81
+--_4957f15f: light-dark(#702F03, #FFC5A0)
+--_1e40d410: #E06A1A
+--_3e48025a: #1B2021
+--_5f29bacd: rgb(0 0 0 / 0.9)
+--a816c612: rgb(172 125 169 / 0.15)
+--color-button-overlay-label-hover: #24283b
+--color-logo-brand-alt: #c0caf5
+--cc4a89a3: rgb(255 255 255 / 0.96)
+--_7560626b: rgb(224 106 26 / 0.1)
+--ab5bfd88: #1a1b26
+--_91cfed41: light-dark(rgb(255 255 255 / 0.6), rgb(140 140 140 / 0.25))
+--_649d20ff: light-dark(#3F4618, #CBD978)
+--bf39cf63: light-dark(#F69B81, #E0A494)
+--d6cad881: rgb(224 106 26 / 0.3)
+--_1eeadca8: rgb(255 255 255 / 0.39)
+--_6438f47a: #c0caf5
+--_0bda8fae: #8A8F6C
+--_49b73f7e: #1a1b26
+--_4efd4f53: light-dark(#71B7FB, #9EB5CA)
+--_53dbc12d: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--fcf5ad42: light-dark(#E4E4E4, #38434F)
+--bfa9957b: #c0caf5
+--def98395: light-dark(rgb(140 140 140 / 0.4), rgb(140 140 140 / 0.45))
+--_923072ce: rgb(113 145 150 / 0.25)
+--_43874294: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--c8ca3d00: #A871EA
+--color-element-shift-on-dark-flip: #c0caf5
+--ab2f2baa: light-dark(#C37D16, #F9C982)
+--_50c6f444: rgb(113 145 150 / 0.1)
+--_469d7a55: #EDF3F8
+--_9e91edad: #114951
+--_1854d845: light-dark(rgb(209 96 203 / 0.2), rgb(209 96 203 / 0.25))
+--_1a7891d2: #BE7B6A
+--_6dbacdd1: rgb(224 104 71 / 0.25)
+--cd74abef: #32416C
+--_1b9a71ee: light-dark(#C37D16, #F9C982)
+--_14b1a00b: light-dark(#B24020, #F69B81)
+--_484cb581: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--_2e8048f0: rgb(55 143 233 / 0.1)
+--_08baf7f9: rgb(153 131 177 / 0.3)
+--_37aa95f0: light-dark(#FCE0B6, #474139)
+--_09c25e9a: light-dark(rgb(140 140 140 / 0.1), rgb(140 140 140 / 0.15))
+--_2d59dede: light-dark(#FFDDD3, #8F5849)
+--_1edca938: rgb(200 161 246 / 0.3)
+--_85d556f1: light-dark(#E4E4E4, #666666)
+--_19f92009: #F0F6CB
+--_708ac402: #B2B2B2
+--_9f795785: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_1eb89352: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--d976b3d1: rgb(15 159 111 / 0.15)
+--_241e487d: light-dark(#702F03, #FFC5A0)
+--bf8a306b: #004182
+--_3e4848bf: light-dark(rgb(120 143 165 / 0.1), rgb(120 143 165 / 0.15))
+--_6e535f80: rgb(255 255 255 / 0.03)
+--_7591f50e: light-dark(#A734A1, #F1DFF0)
+--_17a47e65: #5C8DFF
+--f65e4e3f: light-dark(#44712E, #A7E18B)
+--_23c9831c: light-dark(#1F1F1F, #E4E4E4)
+--abc288a1: light-dark(#114951, #94DDE8)
+--f5b8242f: #0A2037
+--a70ca683: light-dark(#8443CE, #EAE2F3)
+--_48545a9c: #F9FCE4
+--aa89f97a: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--d6484a44: rgb(26 112 126 / 0.3)
+--_6b3c956c: rgb(66 66 66 / 0.85)
+--_14a1562b: rgb(120 143 165 / 0.25)
+--c00d61fc: light-dark(#56687A, #9EB5CA)
+--color-pill-container-count-hover: #24283b
+--_513d6a90: #C8A1F6
+--color-background-brand-accent-5: #1a1b26
+--color-data-divergent-status-a-7: #f7768e
+--_24f9cf57: #C2D3E4
+--_1446ca83: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_640757ef: rgb(95 155 65 / 0.2)
+--color-container-brand: #7aa2f7
+--_9bb0129f: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 100%
+--_3611d5fc: #9EB5CA
+--color-button-overlay-container-border-hover: rgb(0 0 0 / 0.9)
+--_619065d0: #2A3127
+--c35ccdb6: light-dark(#FFFFFF, #FFFFFF)
+--bd54ecd8: light-dark(#715E86, #D9CCE7)
+--_867ee1bf: rgb(140 140 140 / 0.35)
+--e6b95e2e: rgb(120 143 165 / 0.3)
+--_50f47bc7: light-dark(#F8EFF8, #3A2A39)
+--_89a66fe6: rgb(224 104 71 / 0.1)
+--a01c52b4: light-dark(#F2F2F2, #424242)
+--f2e96a73: rgb(224 104 71 / 0.2)
+--_38f97e68: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--_1aae7801: rgb(138 143 108 / 0.35)
+--_2586a84d: rgb(255 255 255 / 0.37)
+--_6b7ddb6a: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-data-progress-accent-2: #f7768e
+--cb125d67: light-dark(#8C8C8C, #D1D1D1)
+--fe1a4a31: light-dark(rgb(224 106 26 / 0.1), rgb(224 106 26 / 0.15))
+--_07f62337: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--fdd8c7e1: #2A2929
+--a9882eee: #EBF1FF
+--cecd1cf4: light-dark(#FFFFFF, #FFFFFF)
+--color-entity-ghost-background: #1a1b26
+--_2b989db0: #8F5849
+--f98789ad: light-dark(#FFFFFF, #FFFFFF)
+--_98cc4601: #D160CB
+--a2a021f6: rgb(113 145 150 / 0.35)
+--color-data-icon-negative: #f7768e
+--_3c8957c2: rgb(209 96 203 / 0.15)
+--ca78f515: #343232
+--_5a5fc9cc: rgb(190 123 106 / 0.35)
+--_320d2cb7: rgb(140 140 140 / 0.1)
+--_100d2d55: light-dark(rgb(255 255 255 / 0.3), rgb(255 255 255 / 0.3))
+--_5fa42b79: #c0caf5
+--_6820347e: #FFC5A0
+--_29fe38a7: #402B0C
+--color-scrim: rgb(0 0 0 / 0.6)
+--_87613d4a: light-dark(#3F4618, #F1F3E5)
+--_1e07149a: light-dark(rgb(168 113 234 / 0.1), rgb(168 113 234 / 0.15))
+--a9b4a7da: rgb(0 0 0 / 0.58)
+--a08be1dd: light-dark(#B2B2B2, #B2B2B2)
+--color-button-overlay-container-hover: rgb(0 0 0 / 0.9)
+--_42a8b58a: rgb(95 155 65 / 0.3)
+--a830dc05: #715E86
+--_66c0402e: #F9FBF8
+--_57d45e52: light-dark(#8C8C8C, #B2B2B2)
+--b601fb27: light-dark(rgb(133 148 47 / 0.2), rgb(133 148 47 / 0.25))
+--cb78fc9e: #F8EFF8
+--ab9c073e: light-dark(rgb(0 65 130 / 0.3), rgb(170 214 255 / 0.3))
+--fa3bd62f: light-dark(#1F1F1F, #E4E4E4)
+--color-action-active: #7dcfff
+--_3bf372fc: #2F3027
+--_61c432ed: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--_554e22da: light-dark(#FCFAFF, #332C3C)
+--_4625be24: #E0A494
+--_3140e71a: rgb(123 147 112 / 0.25)
+--_0f25b5f1: #222E4E
+--_420d0cbb: #592099
+--df61e819: rgb(224 104 71 / 0.3)
+--c5db62da: rgb(133 148 47 / 0.3)
+--_9420eb3b: light-dark(#F6C0F3, #AC7DA9)
+--_179d5360: #AD4601
+--_31c68155: light-dark(rgb(224 104 71 / 0.3), rgb(246 155 129 / 0.3))
+--_05fb2d5a: #c0caf5
+--color-text-negative: #f7768e
+--bbedcc99: light-dark(#000000, #FFFFFF)
+--e36d85d2: rgb(138 143 108 / 0.2)
+--color-canvas-tint: #24283b
+--_88cea680: light-dark(#FFFFFF, #FFFFFF)
+--_06f30ca1: light-dark(#0A66C2, #71B7FB)
+--_73dcc529: light-dark(#1F1F1F, #E4E4E4)
+--_881b0995: light-dark(#FFFFFF, #666666)
+--_0a068248: light-dark(rgb(255 255 255 / 0.3), rgb(255 255 255 / 0.3))
+--ccaec1f2: #004C33
+--_4ba486a6: #4A65B0
+--_962ba94b: #c0caf5
+--color-badge-label: #24283b
+--e568d7bc: #958B7B
+--f1da8b34: light-dark(rgb(140 140 140 / 0.3), rgb(178 178 178 / 0.3))
+--ff11d566: rgb(243 83 107 / 0.3)
+--e89ed3b7: #E06847
+--color-data-icon-accent-2: #f7768e
+--_62afb203: light-dark(#8A0015, #FFC1CA)
+--f8b02ed5: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--_3da4bf75: light-dark(#CB112D, #FD93A3)
+--_0cb3084a: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--a1b17250: rgb(0 0 0 / 0.45)
+--_96694a73: #EDF2FD
+--_70dc18dc: #CBD978
+--color-button-container-secondary-emphasis-border: #7aa2f7
+--_5396351d: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--bc77009f: #c0caf5
+--_6e234f99: rgb(209 96 203 / 0.1)
+--color-icon-accent-2: #f7768e
+--_8f90c6ae: #EEFDFF
+--color-button-container-primary-hover: #7dcfff
+--_7580c89c: #474139
+--_820fd5f2: light-dark(#A734A1, #EA95E5)
+--_22c4f789: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_922d836e: rgb(0 0 0 / 0.47)
+--f609ff17: light-dark(#004182, #EDF3F8)
+--_3cc8252c: rgb(0 0 0 / 0.45)
+--_781780ff: #24283b
+--_5a7e94b3: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--f1b86ba3: #c0caf5
+--_07280fb9: light-dark(#FFFFFF, #FFFFFF)
+--_93fd2e57: #5C3B09
+--_8e7ff1c4: light-dark(rgb(255 255 255 / 0), rgb(0 0 0 / 0))
+--_4a69b034: #5EC0CF
+--f4287163: #640312
+--_18beb6ab: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.35))
+--_9ade9331: light-dark(#EDF4EA, #2A3127)
+--f50324d6: rgb(140 140 140 / 0.25)
+--ce7eda09: light-dark(#FFEFE5, #4C240A)
+--_951b5d20: light-dark(#FAFAFA, #666666)
+--_66f9fb5e: #FCE0B6
+--_3babea0f: #9FBA91
+--color-link-visited: #bb9af7
+--color-link: #7aa2f7
+--_4d476e01: #414335
+--_73dcc334: #38434F
+--_4711eee6: #EDF4EA
+--fddf7ce9: light-dark(#94DDE8, #719196)
+--_9000082d: #D6CEC2
+--abfe3eb6: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--b3e28519: #2F2F2F
+--_80b451ac: light-dark(#01754F, #37C898)
+--de9970ea: #251C24
+--_3fc653fb: rgb(224 106 26 / 0.2)
+--d5416b0e: #DAE3F6
+--_3e2dffae: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--f4f7d142: light-dark(#F4F2EE, #000000)
+--_4dcb1554: #9BB1E9
+--dfca8e99: rgb(95 155 65 / 0.35)
+--_6a63316d: light-dark(#F0F6CB, #414335)
+--bc81a4f1: #378FE9
+--_80a7473d: light-dark(#E9F4F6, #283132)
+--df40488b: light-dark(rgb(209 96 203 / 0.1), rgb(209 96 203 / 0.15))
+--_6e816a97: light-dark(#5C3B09, #F4F2EE)
+--_4d5017d8: #151414
+--d0e4174e: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_89acf0bb: rgb(172 125 169 / 0.1)
+--_68615d84: rgb(0 0 0 / 0.6)
+--_597b1574: light-dark(#B24020, #FADED6)
+--d8c802a8: rgb(234 149 229 / 0.3)
+--_931a1675: #E9F4F6
+--_5156200a: #EA95E5
+--_43167201: light-dark(#616C20, #E2E7CA)
+--color-input-date-label-checked: #24283b
+--_4d27c378: light-dark(#F6FBFF, #181D2A)
+--color-input-handle-disabled: #24283b
+--_92ca1fce: light-dark(#FFFFFF, #1B1F23)
+--_6d77c232: light-dark(#FCE0B6, #523A51)
+--_4e83db86: light-dark(#523A51, #FDC2B1)
+--color-background-scrim: rgb(0 0 0 / 0.6)
+--color-logo-brand: #7aa2f7
+--_0ae65709: rgb(224 106 26 / 0.25)
+--_219dbc6e: #DDE7F1
+--d7fb29ad: #6D6A69
+--color-button-overlay-label-loading: rgb(0 0 0 / 0.3)
+--_41c0c81c: light-dark(#AAD6FF, #788FA5)
+--_79d77000: light-dark(#E8F3FF, #38434F)
+--_2cb9ecd7: rgb(0 0 0 / 0.08)
+--_698cb672: light-dark(#FCDAFA, #80597E)
+--adbebd75: rgb(0 0 0 / 0.6)
+--a5104854: #3A4535
+--_20b76f9d: light-dark(#3F4618, #CBD978)
+--dbebff19: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--f1913291: rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0)) 100%
+--color-button-overlay-container-active: rgb(0 0 0 / 0.9)
+--_125c182f: #F1F3E5
+--_135065fd: light-dark(rgb(51 153 168 / 0.2), rgb(51 153 168 / 0.25))
+--color-canvas: #1a1b26
+--_656368cf: light-dark(#378FE9, #C2D3E4)
+--_7d093e53: light-dark(rgb(0 0 0 / 0.16), rgb(0 0 0 / 0.3))
+--_983267f0: rgb(55 143 233 / 0.2)
+--d7cdf987: light-dark(#C37D16, #F9C982)
+--_214f423b: #523A51
+--fc47e6e7: #24283b
+--_1b436966: rgb(153 131 177 / 0.15)
+--_44e42bf5: rgb(168 113 234 / 0.1)
+--_426f7f64: #410911
+--_7b1105ba: light-dark(#A871EA, #D9CCE7)
+--d5ee0c85: #51164E
+--_29e97265: light-dark(rgb(0 0 0 / 0.45), rgb(255 255 255 / 0.45))
+--e7fd60f8: #FBFAF8
+--_2f06cc45: rgb(92 59 9 / 0.3)
+--b4547c55: #3A2A39
+--_7a0310b6: #D5E8EA
+--_64c65c71: #BDABD2
+--_26a70cf3: #c0caf5
+--color-input-indicator-checked: #24283b
+--c43adee0: #EDDEFE
+--e6cf2e78: light-dark(#616C20, #ACBA5F)
+--_89fdff06: light-dark(#80597E, #FFDDD3)
+--ced9d169: rgb(168 113 234 / 0.25)
+--_55d9df2f: #c0caf5
+--f88ecb7e: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--c2186e28: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--c3ae1374: #5F9B41
+--ad3e7cff: #FDEFEC
+--_4a1692be: #94B2FF
+--b8bd6503: rgb(0 0 0 / 0.8)
+--color-background-canvas-dark: #c0caf5
+--c6e524b5: #053059
+--d295ff9a: #D8E9CF
+--color-button-overlay-container-disabled: rgb(0 0 0 / 0.08)
+--_8057935a: rgb(133 148 47 / 0.15)
+--_229c907c: light-dark(rgb(55 143 233 / 0.2), rgb(55 143 233 / 0.25))
+--_4fe9a909: #A7E18B
+--_1817b1c5: rgb(255 255 255 / 0.09)
+--_154b288d: #B24020
+--_2ab4489e: rgb(243 83 107 / 0.1)
+--_13e8eafb: rgb(149 139 123 / 0.3)
+--b34b1864: light-dark(#0A66C2, #71B7FB)
+--e7172b53: light-dark(rgb(55 143 233 / 0.1), rgb(55 143 233 / 0.15))
+--color-pill-icon-checked: #24283b
+--_30962c7a: #1a1b26
+--_88ccb49e: rgb(0 0 0 / 0.04)
+--_1bbc94d8: #5A6B51
+--de839530: light-dark(rgb(243 83 107 / 0.2), rgb(243 83 107 / 0.25))
+--_12d5c17c: rgb(120 143 165 / 0.1)
+--_27904650: #762812
+--_18fe1936: light-dark(rgb(15 159 111 / 0.1), rgb(15 159 111 / 0.15))
+--eb8f17fd: rgb(255 255 255 / 0.91)
+--_870a89e2: light-dark(#FDFAF5, #322F29)
+--_431dc5f6: light-dark(#762812, #FDC2B1)
+--_93bbcbf6: rgb(55 143 233 / 0.25)
+--_7114c0d0: light-dark(#004182, #AAD6FF)
+--_1c21edf7: rgb(140 140 140 / 0.15)
+--color-text-accent-2: #f7768e
+--_407659c4: light-dark(rgb(243 83 107 / 0.1), rgb(243 83 107 / 0.15))
+--_6832598b: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--a9200389: #01754F
+--_12e0f4be: light-dark(#004182, #AAD6FF)
+--_3d147d17: #332C3C
+--_3d15793c: #37C898
+--_50ea6c2d: light-dark(#424242, #D1D1D1)
+--ad9b1804: light-dark(#56687A, #C2D3E4)
+--color-data-label-neutral: #24283b
+--color-button-overlay-label: #24283b
+--e2709cc4: #FFEDFE
+--_44c8f1e2: rgb(123 147 112 / 0.3)
+--b2cd5a7f: #2E4921
+--_7ef14dcd: light-dark(#BBEDF5, #526A6E)
+--_49d3c362: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--_80236a0e: #c0caf5
+--d1cf58e0: rgb(95 155 65 / 0.15)
+--color-container-accent-2: #f7768e
+--_8316e780: light-dark(#CEE7FF, #56687A)
+--_113b5d34: light-dark(#114951, #E9F4F6)
+--b3a77331: light-dark(#FFF9F7, #412922)
+--_760462c0: light-dark(#C37D16, #E9A53F)
+--b81c2970: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--_209ff4e6: light-dark(#71B7FB, #6D8AD5)
+--a913d6d5: light-dark(#EDDEFE, #715E86)
+--ea3fe853: #FFEFE5
+--_2406e42b: light-dark(#AAD6FF, #4A65B0)
+--_317c5191: #F4F2EE
+--color-container-negative: #f7768e
+--_37d4f329: #181D2A
+--_52b4cdbd: light-dark(#8443CE, #C8A1F6)
+--_23599ba1: #341232
+--_97bfd530: #0A66C2
+--fbc5ee71: rgb(15 159 111 / 0.25)
+--_6d86eaa1: light-dark(#01754F, #37C898)
+--_8c30aecb: light-dark(rgb(0 0 0 / 0.45), rgb(255 255 255 / 0.45))
+--a590d270: #24283b
+--_7e5da684: light-dark(#762812, #FDC2B1)
+--ec430382: rgb(133 148 47 / 0.35)
+--cf97a5dc: light-dark(rgb(140 140 140 / 0.4), rgb(140 140 140 / 0.45))
+--_9e611052: light-dark(#004C33, #74E5C0)
+--_9c5ca5b0: rgb(133 148 47 / 0.2)
+--bc076384: rgb(153 131 177 / 0.2)
+--color-input-switch-ios-indicator: #24283b
+--_3b0aa89c: light-dark(#592099, #F4F1F8)
+--_21eba8ed: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--f96ec761: light-dark(#FCE0B6, #523A51)
+--b32307fb: rgb(0 0 0 / 0.16)
+--d3dbdc97: #CB112D
+--b7f1ed78: #FBFAFC
+--_961e10ad: light-dark(#915907, #E9A53F)
+--e4f05312: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_1d5285fc: #FFF9F7
+--a169757e: #061E61
+--deeab475: light-dark(#D1D1D1, #8C8C8C)
+--_7fa93364: rgb(149 139 123 / 0.35)
+--_00210a2d: light-dark(rgb(0 0 0 / 0.3), rgb(0 0 0 / 0.6))
+--_390c23eb: light-dark(#F9FCE4, #2F3027)
+--e8ac014c: #1D201B
+--bdeca2e6: light-dark(#E06847, #F4C7BB)
+--c35e66e7: #c0caf5
+--_4db40e3a: #FFF9F5
+--_847f575d: #221D26
+--_96235287: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--fce242b5: #c0caf5
+--_3279aea1: #c0caf5
+--_6c378110: light-dark(rgb(209 96 203 / 0.3), rgb(234 149 229 / 0.3))
+--color-pill-icon-checked-hover: #24283b
+--adc80f05: #F1DFF0
+--d7aab481: #271D10
+--_531d4458: #1B1F23
+--_8b57e317: rgb(0 0 0 / 0.03)
+--_41618dcb: light-dark(#592099, #E0C7FC)
+--_35fd1078: light-dark(#8443CE, #C8A1F6)
+--_84db7520: light-dark(rgb(26 112 126 / 0.3), rgb(51 153 168 / 0.3))
+--ee4224cb: #FFDBE1
+--_7fc9c25f: light-dark(rgb(140 140 140 / 0.1), rgb(140 140 140 / 0.15))
+--ea94beac: #D7E3FE
+--_437b0127: light-dark(#3399A8, #BCD6DA)
+--_179f5a71: #FFDDD3
+--f6277c06: #D6FAEE
+--_6d0da09e: light-dark(#0A66C2, #FFFFFF)
+--_32c519c4: rgb(0 0 0 / 0)
+--_5fe3ea74: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_45de61fd: light-dark(#E9E3DC, #38434F)
+--_2fc20cc6: light-dark(#F4F1F8, #332C3C)
+--_5334fb8e: light-dark(#F4F2EE, #293037)
+--color-input-switch-ios-indicator-checked: #24283b
+--a08efb3c: light-dark(#FFFFFF, #FFFFFF)
+--_3063739c: rgb(0 0 0 / 0.9)
+--_45cc6ea5: rgb(0 0 0 / 0.3)
+--_8308c7b2: light-dark(#D160CB, #E5C8E4)
+--_7347e31a: #1D1C1B
+--_8739b62b: #44712E
+--_01bac689: rgb(95 155 65 / 0.25)
+--_7722dd23: #F2F2F2
+--f3cb6069: light-dark(#CEE7FF, #32416C)
+--bdb456eb: #FDC2B1
+--_7f9853a0: rgb(15 159 111 / 0.2)
+--a9c686c4: light-dark(#1A707E, #94DDE8)
+--color-button-icon-secondary-emphasis: #7aa2f7
+--_81e87877: #283132
+--_4eb91eef: #FD93A3
+--color-button-overlay-icon: #24283b
+--color-button-fab-container-loading: #1a1b26
+--f8e56785: light-dark(#915907, #F9C982)
+--_6d9f7471: #AAF3DB
+--_4f31dccb: light-dark(#592099, #E0C7FC)
+--b32d3134: rgb(255 255 255 / 0.97)
+--eea5ee0f: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--bcaf4c88: rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.2)) 30%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.8)) 90%
+--_2dd2e8ef: rgb(51 153 168 / 0.3)
+--_26c0752c: rgb(0 0 0 / 0.45)
+--_919ffbc1: #0E343A
+--color-divider-solid: #1a1b26
+--_58237b04: rgb(120 143 165 / 0.35)
+--_0b6b1949: light-dark(#004C33, #74E5C0)
+--b4088c5b: light-dark(#8F5849, #F4C7BB)
+--_08ac7f62: light-dark(#1F1F1F, #E4E4E4)
+--_729d1708: #FFEEF1
+--_5f0bb622: light-dark(rgb(55 143 233 / 0.4), rgb(55 143 233 / 0.45))
+--_8011c55d: light-dark(#D6FAEE, #013726)
+--ef88f1dd: rgb(138 143 108 / 0.3)
+--b9938316: light-dark(#004182, #AAD6FF)
+--a79e224b: rgb(209 96 203 / 0.35)
+--e8e1c484: #1F1F1F
+--_44ab6836: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--d84aaf77: light-dark(#EEFDFF, #283132)
+--reactions-color-text-love: #f7768e
+--color-background-canvas-mobile: #1a1b26
+--_0ddc6a8f: light-dark(#E0C7FC, #9983B1)
+--_0e78a1b7: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--b7a05655: light-dark(#1A707E, #5EC0CF)
+--_2d8fef4d: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_702040e8: light-dark(#004C33, #74E5C0)
+--color-input-label-checked: #24283b
+--_4973cf1e: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--_3a90e712: rgb(55 143 233 / 0.35)
+--color-pill-indicator-checked: #24283b
+--_570dc3b0: #E4E4E4
+--color-canvas-mobile: #1a1b26
+--_292a9489: rgb(168 113 234 / 0.35)
+--_3aa7ba62: light-dark(rgb(195 125 22 / 0.2), rgb(195 125 22 / 0.25))
+--_6c8eeb64: #ACBA5F
+--_4a6bcdbf: light-dark(#D160CB, #EA95E5)
+--_262ded44: light-dark(#01754F, rgb(15 159 111 / 0.15))
+--_7c9f6e55: light-dark(#0A66C2, #71B7FB)
+--bc59494e: light-dark(#FAFAFA, #2F2F2F)
+--b7304b74: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--_03589158: #B0B68C
+--_2af07ecb: light-dark(#F9C982, #958B7B)
+--_2c20f91c: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--color-pill-label-checked-hover: #24283b
+--de8090cf: light-dark(#915907, #E9E3DC)
+--d893a43d: light-dark(rgb(255 255 255 / 0.45), rgb(255 255 255 / 0.45))
+--dde46106: #DDF7FB
+--d3aeeaad: light-dark(#38434F, #C2D3E4)
+--color-button-overlay-icon-disabled: rgb(0 0 0 / 0.3)
+--_402779cf: light-dark(#01754F, #37C898)
+--ee41a73c: light-dark(#1F1F1F, #E4E4E4)
+--_5f0323bf: rgb(95 155 65 / 0.1)
+--b6f048ad: light-dark(#FFFFFF, #FFFFFF)
+--c02213e0: rgb(172 125 169 / 0.35)
+--_47827f64: #FDF0DE
+--_7de7d203: #72706E
+--color-icon-negative: #f7768e
+--ea78d63c: #FFDEC8
+--_7d36f447: light-dark(rgb(15 159 111 / 0.2), rgb(15 159 111 / 0.25))
+--_5b8ae589: light-dark(rgb(0 0 0 / 0.6), rgb(0 0 0 / 0.6))
+--dee03271: #E5C8E4
+--d9a233ea: rgb(113 145 150 / 0.3)
+--_3449e096: rgb(170 214 255 / 0.3)
+--_441bc54a: rgb(140 140 140 / 0.3)
+--b2e76d0b: light-dark(#6E6558, #FFFFFF)
+--_519db979: rgb(from light-dark(#FCE0B6, #51164E) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(#F9C982, #711C6D) r g b / calc(alpha * 1)) 100%
+--feab20cc: rgb(255 255 255 / 0.3)
+--_31140a12: #BCD6DA
+--_0f067603: rgb(0 0 0 / 0.08)
+--_498227e8: #F6C0F3
+--_22a69d3e: light-dark(#B2B2B2, #666666)
+--d16cb7bc: #40176F
+--c08a2934: rgb(190 123 106 / 0.2)
+--_22370170: rgb(255 255 255 / 0.13)
+--_535c2d41: #AAD6FF
+--_81c9994f: rgb(153 131 177 / 0.25)
+--_9819ab51: light-dark(#FDF0DE, #322F29)
+--color-brand: #7aa2f7
+--_71d48acb: rgb(123 147 112 / 0.35)
+--_641a9178: rgb(255 255 255 / 0.6)
+--_474a41a2: light-dark(#FFFFFF, #FFFFFF)
+--_647a9ed3: rgb(255 255 255 / 1)
+--color-button-label-primary-hover: #24283b
+--_1e33d9b5: rgb(51 153 168 / 0.1)
+--b5b21882: light-dark(#E9A53F, #BBB1A1)
+--_111df63c: #702F03
+--_042c0b57: rgb(190 123 106 / 0.25)
+--_303fdc12: #C4D3F2
+--_73e21acb: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-button-icon-tertiary-emphasis: #7aa2f7
+--_0b1f1e8a: rgb(113 145 150 / 0.15)
+--_3fa24390: rgb(138 143 108 / 0.15)
+--_9d189fe0: rgb(0 0 0 / 0.8)
+--dda8b586: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--_586ee88b: rgb(195 125 22 / 0.3)
+--_1e855fe1: light-dark(#523A51, #FDC2B1)
+--_59e2f76b: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--c3d5df82: #6D8AD5
+--_93ae5036: rgb(255 255 255 / 0.82)
+--c09a5b35: rgb(0 0 0 / 0.16)
+--cc0abef1: #F4FDF0
+--_09d2b450: rgb(255 255 255 / 0)
+--b7c7c557: rgb(149 139 123 / 0.1)
+--f2c833d8: #192115
+--color-data-categorical-5: #9ece6a
+--color-data-label-negative: #24283b
+--color-button-overlay-label-disabled: rgb(0 0 0 / 0.3)
+--f8976f04: light-dark(rgb(133 148 47 / 0.1), rgb(133 148 47 / 0.15))
+--bfa31910: rgb(55 143 233 / 0.15)
+--_8718c30b: #1F1E1E
+--e16d5081: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--cc7dae50: light-dark(#A871EA, #C8A1F6)
+--_35665c65: light-dark(#000000, #FFFFFF)
+--_12685c7e: #D8D6D5
+--f485c36a: light-dark(#C37D16, #D6CEC2)
+--e0dd6863: #FFF9FA
+--_79d6b771: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_3eb3010d: light-dark(rgb(224 106 26 / 0.2), rgb(224 106 26 / 0.25))
+--_51373ae0: rgb(0 0 0 / 0)
+--_5d9b16e2: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_8c363a66: rgb(0 0 0 / 0.75)
+--_2b8c291f: light-dark(#01754F, #37C898)
+--e721af02: light-dark(#FFEEF1, #640312)
+--c6f9d3c6: light-dark(#C37D16, #F9C982)
+--c99d6c48: #F6F4F4
+--_94db36e6: #8A0015
+--_9cd22769: light-dark(#DDE7F1, #38434F)
+--color-signal-negative: #f7768e
+--_3c00ccc1: rgb(255 255 255 / 0.49)
+--color-icon-brand: #7aa2f7
+--_99654315: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_91ea6506: #FFEFEA
+--_263937f8: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--_961c4f5e: light-dark(rgb(255 255 255 / 0.3), rgb(255 255 255 / 0.3))
+--dc4a0957: rgb(0 0 0 / 0.47)
+--_3425a3ce: #F4C7BB
+--d85fce6a: light-dark(#004C33, #74E5C0)
+--ff78e98f: #E9E3DC
+--_0dd56962: #EAE2F3
+--d8ecd2e2: rgb(140 140 140 / 0.45)
+--db5056a5: #D1D1D1
+--_1e954071: rgb(140 140 140 / 0.4)
+--bc12c67d: light-dark(#FDF0DE, #474139)
+--_291d5795: rgb(0 0 0 / 0.88)
+--ac5b220f: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 50%
+--_25bf90f3: rgb(172 125 169 / 0.2)
+--_9178d329: #FFFFFF
+--_1411a769: light-dark(#5C3B09, #F9C982)
+--_91acc8ed: rgb(149 139 123 / 0.2)
+--_21abf06f: #80597E
+--dcb905ce: light-dark(#F6FBFF, #293037)
+--_8fb18819: light-dark(#E06847, #F69B81)
+--_854f9c7e: rgb(55 143 233 / 0.4)
+--_010495d5: light-dark(#FCE0B6, #523A51)
+--_1a31418e: light-dark(#000000, #000000)
+--_2d31fac5: #0B2226
+--color-data-container-negative: #f7768e
+--_38b40e8d: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--_9caea286: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.3))
+--b0d6eaf7: #526A6E
+--_2baedb53: light-dark(#71B7FB, #6D8AD5)
+--_143230af: #2A1C18
+--color-attachment-label: #24283b
+--f3cacac5: #E8F3FF
+--c4c9d11e: light-dark(#B24020, #FDC2B1)
+--_30b83a69: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--color-attachment-icon: #24283b
+--d29d3587: light-dark(#FFDEC8, #702F03)
+--eb7cbc1c: #FAFAFA
+--_59c40902: rgb(120 143 165 / 0.2)
+--e454c2e5: rgb(243 83 107 / 0.25)
+--_7881fd73: #6E6558
+--_9e35a4ca: #0F9F6F
+--c9e232e0: light-dark(#E4E4E4, #424242)
+--_6d4ba36b: rgb(209 96 203 / 0.25)
+--f79b72ea: light-dark(rgb(15 159 111 / 0.1), rgb(15 159 111 / 0.15))
+--_5bf2813f: rgb(224 104 71 / 0.35)
+--d27e231c: #F4F1F8
+--df82908a: rgb(123 147 112 / 0.15)
+--_5577a992: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--b9683976: light-dark(#666666, #E4E4E4)
+--_23ea4b5b: rgb(224 106 26 / 0.15)
+--fb695b73: light-dark(#38434F, #C2D3E4)
+--_2055e32a: light-dark(#1F1F1F, #E4E4E4)
+--f2c673a9: rgb(153 131 177 / 0.1)
+--_3ff8a240: rgb(0 0 0 / 0.89)
+--_37ea6f78: light-dark(#ACBA5F, #B0B68C)
+--color-input-label-error: #f7768e
+--_8c99185d: light-dark(#CB112D, #FD93A3)
+--color-button-overlay-icon-hover: #24283b
+--color-input-container-border-error: #f7768e
+--color-shadow: rgb(0 0 0 / 0.3)
+--_4a0c8a0c: light-dark(#711C6D, #F6C0F3)
+--_1dc35d9c: #1a1b26
+--_48c2582b: light-dark(rgb(255 255 255 / 0), rgb(0 0 0 / 0))
+--_11772033: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--_66a8e194: rgb(224 104 71 / 0.15)
+--color-button-label-secondary-emphasis: #7aa2f7
+--_31c9182a: #E9A53F
+--_3e557906: #322F29
+--fe3392cd: #94DDE8
+--color-data-divergent-status-b-7: #7aa2f7
+--d5778df2: #493D57
+--_31eca799: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--_6e8a2f03: rgb(153 131 177 / 0.35)
+--color-logo-brand-lockup-alt: #c0caf5
+--_96b77c2a: rgb(224 106 26 / 0.35)
+--_78ed2a22: light-dark(#1A707E, #3399A8)
+--d36b579a: #AC7DA9
+--_4a97f982: #4C240A
+--_0e6a7098: light-dark(#85942F, #CFD5AF)
+--color-button-label-primary: #24283b
+--_2a72d624: light-dark(#AAF3DB, #004C33)
+--_75a1f5bc: light-dark(#523A51, #E5C8E4)
+--_813d55b0: #022419
+--_5ba0532e: #FAFBF5
+--bd909f71: #2F1A0D
+--a9a2464c: #CFD5AF
+--_28f3a063: light-dark(#8A0015, #FFC1CA)
+--color-label-checked-hover: #24283b
+--e5d52c27: #74E5C0
+--f47608e4: light-dark(#0A66C2, #71B7FB)
+--_489d2fd1: rgb(190 123 106 / 0.15)
+--_1534398a: #C7F0B2
+--_2ceb65d9: rgb(51 153 168 / 0.25)
+--color-container-primary: #7aa2f7
+--df2308d2: light-dark(rgb(55 143 233 / 0.3), rgb(55 143 233 / 0.35))
+--_014f8b5d: #CEE7FF
+--_09e89f5a: light-dark(#004182, #AAD6FF)
+--abe2dda8: #85942F
+--reactions-color-text-like: #7aa2f7
+--color-data-progress-negative: #f7768e
+--bce4536f: #A734A1
+--_9e901c69: light-dark(#FFF8FF, #3A2A39)
+--bc76f03a: #F7EFFF
+--a0f4d29a: light-dark(#FFEFEA, #5D392F)
+--_75db0332: light-dark(rgb(195 125 22 / 0.1), rgb(195 125 22 / 0.15))
+--_68ab7155: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_3f9301c5: #9983B1
+--_92e89462: light-dark(#E4E4E4, #424242)
+--cd289a93: light-dark(#F1DFF0, #523A51)
+--_52c3ed82: #719196
+--_4190943b: light-dark(#AAF3DB, #004C33)
+--_72d4506b: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 75%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0)) 100%
+--_91773da3: light-dark(rgb(55 143 233 / 0.2), rgb(55 143 233 / 0.25))
+--cf7dd679: rgb(113 145 150 / 0.2)
+--color-input-label-checked-hover: #24283b
+--_795d71b3: rgb(15 159 111 / 0.35)
+--b7bffb01: rgb(255 255 255 / 0.51)
+--_8da6d796: rgb(255 255 255 / 0.04)
+--_046df7af: #7B9370
+--feeaf5e0: light-dark(#FFFFFF, #FFFFFF)
+--_553337cd: light-dark(#F2F2F2, #424242)
+--_51f8b743: light-dark(#F9C982, #F9C982)
+--d0f9f89d: rgb(0 0 0 / 0.75)
+--fadc4c62: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_377c6bfb: #1F1F1C
+--_9b2537ba: #c0caf5
+--_43c3dc8a: light-dark(#C8A1F6, #BDABD2)
+--_61ba2fe8: #24283b
+--e72c4f5d: light-dark(rgb(168 113 234 / 0.2), rgb(168 113 234 / 0.25))
+--color-background-canvas-tint: #24283b
+--_8985247a: rgb(0 0 0 / 0.88)
+--ed2c192c: light-dark(#523A51, #FDC2B1)
+--c5034668: #000000
+--_20f210f0: rgb(0 0 0 / 0.3)
+--_0def10bf: light-dark(#592099, #E0C7FC)
+--color-surface: #24283b
+--_20e45487: rgb(168 113 234 / 0.2)
+--_5a990b2e: rgb(138 143 108 / 0.25)
+--_6840bdf8: rgb(from light-dark(#FDF0DE, #523A51) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(#FCE0B6, #51164E) r g b / calc(alpha * 1)) 100%
+--f324bb42: #c0caf5
+--_7e833cf4: rgb(172 125 169 / 0.3)
+--_9ff8e09a: rgb(0 0 0 / 0)
+--ffd9e40b: rgb(55 143 233 / 0.45)
+--color-text-solid: #c0caf5
+--_719c4dc6: #666666
+--_198e80f3: light-dark(#E8F3FF, #222E4E)
+--_03251885: #711C6D
+--_219a90ac: #24283b
+--_64b38b21: light-dark(#424242, #F2F2F2)
+--c0acf64e: #C0D8B4
+--e5155c32: rgb(0 0 0 / 0.92)
+--_6b0d8d8c: light-dark(#FFFFFF, #1B1F23)
+--a00e1dc8: rgb(15 159 111 / 0.1)
+--color-background-scrim-dark: rgb(0 0 0 / 0.9)
+--color-pill-label-checked: #24283b
+--_92d052e0: #8A8785
+--f57b9c8d: #FDFAF5
+--_1eb6b417: #F5FBFC
+--_32b62edd: #1E2110
+--color-button-overlay-container: rgb(0 0 0 / 0.75)
+--bfc03626: #FAFBFF
+--d87a3fbe: light-dark(#D5E8EA, #364547)
+--_56e8268c: #C37D16
+--_9fb0da7e: #c0caf5
+--_9f376a9e: #CEA5CC
+--_23706486: light-dark(rgb(51 153 168 / 0.1), rgb(51 153 168 / 0.15))
+--_04af9fe7: rgb(195 125 22 / 0.25)
+--b2ebb72a: #3F4618
+--_705cdcb7: light-dark(#666666, #B2B2B2)
+--_525fadda: rgb(51 153 168 / 0.15)
+--_08d0f8d3: #98B8BD
+--_6dec5cea: rgb(0 0 0 / 0.04)
+--_12bfe1d7: #E2E7CA
+--_99ee65af: #7dcfff
+--_3dc14a8d: #c0caf5
+--_74af986b: rgb(55 143 233 / 0.3)
+--e8525d83: #81C360
+--_330e9e67: light-dark(rgb(15 159 111 / 0.2), rgb(15 159 111 / 0.25))
+--a56a0acd: rgb(0 0 0 / 0.16)
+--_7fd94409: #364547
+--color-background-container: #24283b
+--_7dfa4f1c: light-dark(#C37D16, #F9C982)
+--_225fc098: rgb(195 125 22 / 0.1)
+--cc7ba43a: #8C8C8C
+--e69a7599: light-dark(#AD4601, #FE9958)
+--_39af3d4f: rgb(0 0 0 / 0)
+--color-text: #c0caf5
+--b54ca72e: light-dark(#FFFFFF, #FFFFFF)
+--ddb0a6cb: #FFFFFF
+--_102b2c81: light-dark(#5EC0CF, #98B8BD)
+--_2497ce8e: light-dark(rgb(224 104 71 / 0.1), rgb(224 104 71 / 0.15))
+--_9cf90f18: rgb(133 148 47 / 0.25)
+--f707bcb6: light-dark(#FFEDFE, #523A51)
+--_713c30e9: rgb(0 65 130 / 0.3)
+--_335e4c29: light-dark(#FFDBE1, #8A0015)
+--_1f12af6f: light-dark(#114951, #94DDE8)
+--_6994efba: light-dark(#0F9F6F, #74E5C0)
+--_25564fc8: light-dark(#F9C982, #F9C982)
+--_91d36f6c: rgb(195 125 22 / 0.35)
+--e8cf8a77: rgb(195 125 22 / 0.2)

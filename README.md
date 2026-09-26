@@ -53,7 +53,12 @@ python tools/linkedin-tokyonight-gen.py
 ```
 
 The script downloads the current stylesheets from LinkedIn's public login and signup pages
-and rewrites only the blocks between the `GENERATED` markers. Tokens set by hand outside
+and rewrites only the blocks between the `GENERATED` markers.
+
+Signed-in pages load bundles that no public page loads, and those use a third set of
+hashed names. To collect them, turn the style off, open the page that looks wrong, paste
+`tools/probe.js` into the DevTools console, and save the `DUMP` section of the downloaded
+report as `tools/dumps/<page>.txt`. The generator reads every file in that folder. Tokens set by hand outside
 those blocks are kept. Bump `@version` after, or Stylus keeps the old copy.
 
 ## Requirements
