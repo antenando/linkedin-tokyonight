@@ -6,20 +6,27 @@ A dark [Tokyo Night Storm](https://github.com/enkia/tokyo-night-vscode-theme) th
 **[Install](https://raw.githubusercontent.com/antenando/linkedin-tokyonight/main/linkedin-tokyonight.user.css)**
 · with Stylus installed, opening that link offers to install it.
 
+**Turn on LinkedIn's own dark mode too:** Me → Settings & Privacy → Display → Dark mode.
+Some newer LinkedIn components only switch their text colours under LinkedIn's dark mode
+attribute, which a stylesheet cannot set. With LinkedIn in light mode, those components
+(for example the "Manage my network" list) show dark text on the dark theme.
+
 ## Screenshots
 
-Without the style:
+Messaging, with the notification badge in neon red (names, photos and messages blurred):
 
-![LinkedIn without the userstyle](screenshots/before.png)
+![LinkedIn messaging with the Tokyo Night Storm userstyle](screenshots/messaging.jpg)
 
-With it:
+The sign-in page without the style, then with it:
 
-![LinkedIn with the Tokyo Night Storm userstyle](screenshots/after.png)
+![LinkedIn sign-in without the userstyle](screenshots/before.png)
+
+![LinkedIn sign-in with the Tokyo Night Storm userstyle](screenshots/after.png)
 
 ## What it does
 
 LinkedIn uses two colour systems at the same time. The style remaps both, so every page
-follows the theme whatever the LinkedIn display setting is.
+follows the theme.
 
 - **Named tokens** (`--color-background-canvas`, `--color-text`, ...) on the older pages.
   The main roles (page, cards, text, links, buttons) are set by hand. The other tokens are
@@ -67,8 +74,11 @@ and rewrites only the blocks between the `GENERATED` markers.
 
 Signed-in pages load bundles that no public page loads, and those use a third set of
 hashed names. To collect them, turn the style off, open the page that looks wrong, paste
-`tools/probe.js` into the DevTools console, and save the `DUMP` section of the downloaded
-report as `tools/dumps/<page>.txt`. The generator reads every file in that folder. Tokens set by hand outside
+`tools/probe.js` into the DevTools console (or a DevTools Snippet, which the console noise
+from LinkedIn cannot disturb), and save the `DUMP` section of the downloaded report under
+the same name in `tools/dumps/`. The name starts with the date, `YYYY-MM-DD-<page>.txt`.
+The generator reads every report in date order. It ignores hashed names from reports older
+than 14 days, since LinkedIn has renamed them by then. Tokens set by hand outside
 those blocks are kept. Bump `@version` after, or Stylus keeps the old copy.
 
 ## Requirements

@@ -12,7 +12,7 @@ pages, such as the feed, go back to LinkedIn's own colours).
 
 Signed-in pages add a third set of hashed names that no public page loads.
 Collect those with probe.js (run it with the style turned off) and save the
-DUMP section of its report as tools/dumps/<page>.txt.
+DUMP section of its report as tools/dumps/YYYY-MM-DD-<page>.txt.
 
 Usage: python linkedin-tokyonight-gen.py [--dry-run]
 """
@@ -21,6 +21,7 @@ import glob
 import os
 import re
 import sys
+import time
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -198,31 +199,56 @@ def hashed_block(css):
     return out
 
 
+# LinkedIn renames hashed tokens on every build, usually within days, so a
+# report's hashed names are dead weight after this long. Named tokens are
+# stable and are read from every report whatever its age
+HASHED_MAX_AGE_DAYS = 14
+
+
+def own_colours(text):
+    """The literal colours the style itself emits: the accents and the
+    defaults of its @var colour settings (page, card, text, link, badge).
+
+    A report taken with the style on shows these for any token LinkedIn
+    derives from one the style retints, and LinkedIn never ships them. A
+    setting changed away from its default cannot be known here, which is why
+    reports must be taken with the style off or at default settings
+    """
+    defaults = re.findall(r"^@var\s+color\s+\S+\s+\"[^\"]*\"\s+(#[0-9a-fA-F]{6})", text, re.M)
+    return {parse_color(h)[:3] for h in defaults} | set(ACCENT_RGB.values())
+
+
 def is_hashed(name):
     """Hashed names never contain a hyphen: --_5fa42b79, --m6fbar, --auybiw"""
     bare = name[2:].lstrip("_")
     return "-" not in bare and bare not in ("white", "black")
 
 
-def dump_block(skip):
+def dump_block(skip, own):
     """Colours seen only on signed-in pages, from probe.js reports.
 
     Signed-in pages load bundles that the public pages do not: more hashed
     palettes, and the older app's named tokens (--white, --voyager-*). Hashed
     ones are palette colours picked by light-dark(), so they map as dark.
-    Named ones hold the light theme, so they invert. Only the first report
-    that names a token counts, oldest file first, so a later report taken
-    with the style on cannot feed Tokyo Night values back in
+    Named ones hold the light theme, so they invert. The first report that
+    names a token wins, in date order. Values equal to the style's own
+    colours are skipped, so a report taken with the style on at default
+    settings cannot feed Tokyo Night back in as if LinkedIn had shipped it
     """
-    files = sorted(glob.glob(os.path.join(HERE, "dumps", "*.txt")), key=os.path.getmtime)
+    # reports are named YYYY-MM-DD-<page>.txt: file times do not survive a
+    # git clone, so the date in the name is what orders and ages them
+    files = sorted(glob.glob(os.path.join(HERE, "dumps", "*.txt")))
     seen, hashed, named = set(), [], []
     for path in files:
+        m = re.match(r"(\d{4}-\d{2}-\d{2})-", os.path.basename(path))
+        taken = time.mktime(time.strptime(m.group(1), "%Y-%m-%d")) if m else 0
+        fresh = time.time() - taken < HASHED_MAX_AGE_DAYS * 86400
         for line in open(path, encoding="utf-8"):
             m = re.match(r"(--[\w-]+):\s*(.+?);?\s*$", line)
             if not m or m.group(1) in skip or m.group(1) in seen:
                 continue
             name, c = m.group(1), parse_color(m.group(2))
-            if c is None:
+            if c is None or (is_hashed(name) and not fresh) or c[:3] in own:
                 continue
             seen.add(name)
             if is_hashed(name):
@@ -251,7 +277,7 @@ def main():
     named = named_block(named_css, skip)
     hashed = hashed_block(hashed_css)
     public = {line.split(":")[0].strip() for line in named + hashed}
-    dump_files, signed_in, signed_in_named = dump_block(skip | public)
+    dump_files, signed_in, signed_in_named = dump_block(skip | public, own_colours(text))
     named += signed_in_named
     print(f"named:     {len(named):4d} tokens, {len(signed_in_named)} of them from signed-in reports")
     print(f"hashed:    {len(hashed):4d} tokens from {hashed_url}")

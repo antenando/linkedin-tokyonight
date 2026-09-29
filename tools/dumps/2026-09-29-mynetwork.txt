@@ -1,0 +1,1164 @@
+--auyfc: light-dark(color-mix(in srgb, #24283b 25%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auyh4: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--m6fi5: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), #c0caf5)
+--m6fbm: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--color-new: #7aa2f7
+--m6fg9: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--artdeco-button-primary-inverse-hover-background-color: #c0caf5
+--b55e230d: #c0caf5
+--color-button-label-tertiary-emphasis: #7aa2f7
+--auycj: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--color-data-label-caution: #24283b
+--color-shadow-on-dark: rgb(0 0 0 / 0.6)
+--auyhu: light-dark(color-mix(in srgb, #24283b 40%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auyi3: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 96%, #1a1b26))
+--artdeco-reset-link-color-blue7: #7aa2f7
+--color-label-current: #24283b
+--m6fhp: light-dark(color-mix(in srgb, color-mix(in srgb, #9ece6a 40%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 30%, transparent))
+--auybk: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--color-presence-indicator-offline: #24283b
+--auyfn: light-dark(color-mix(in srgb, #c0caf5 45%, transparent), color-mix(in srgb, #c0caf5 45%, transparent))
+--auyfm: light-dark(color-mix(in srgb, #c0caf5 30%, transparent), color-mix(in srgb, #c0caf5 30%, transparent))
+--auyfi: light-dark(#c0caf5, #c0caf5)
+--auya6: light-dark(color-mix(in srgb, #bb9af7 56%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--m6fg2: light-dark(color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 15%, transparent))
+--m6fbjs: #c0caf5
+--m6fcu: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--color-action: #7aa2f7
+--_28217223: #c0caf5
+--m6ff8: light-dark(color-mix(in srgb, #bb9af7 40%, #1a1b26), color-mix(in srgb, #bb9af7 64%, #c0caf5))
+--auydk: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--color-background-offset: #1a1b26
+--color-label-current-hover: #24283b
+--m6fc3: light-dark(#c0caf5, #24283b)
+--voyager-color-background-attachment-ppt: #f7768e
+--color-link-active: #7dcfff
+--auydu: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-button-container-primary: #7aa2f7
+--auyjn: light-dark(color-mix(in srgb, #7aa2f7 68%, #c0caf5), color-mix(in srgb, #7aa2f7 80%, #1a1b26))
+--m6fag: light-dark(color-mix(in srgb, #7aa2f7 51%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auydn: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fea: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auyir: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 35%, transparent))
+--_8b119452: rgb(0 0 0 / 0.03)
+--m6ffi: light-dark(#c0caf5, #c0caf5)
+--color-logo-mono: #c0caf5
+--m6fa7: light-dark(color-mix(in srgb, #bb9af7 64%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--auycx: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--auyh7: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 25%, transparent))
+--color-accent-2: #f7768e
+--_922e6862: #c0caf5
+--auyix: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 15%, transparent))
+--m6fbn: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--color-border-gap-on-dark: rgb(0 0 0 / 0.6)
+--m6fdh: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--auyg3: light-dark(color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 25%, transparent))
+--m6fbfi: #c0caf5
+--auyhe: light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6f5: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 62%, #c0caf5))
+--auyjd: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyaj: light-dark(color-mix(in srgb, #7aa2f7 84%, #c0caf5), color-mix(in srgb, #7aa2f7 85%, #c0caf5))
+--m6ff2: light-dark(color-mix(in srgb, #7dcfff 24%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--auyb1: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--post-color-icon-promoted-ct-neutral-on-dark: #c0caf5
+--auyer: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--auybm: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auyci: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--d6353b99: rgb(0 0 0 / 0.16)
+--auydj: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyw: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--auyau: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 51%, #c0caf5))
+--m6fd1: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fer: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--m6fij: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 15%, transparent))
+--color-input-icon-error: #f7768e
+--color-button-icon-primary: #24283b
+--m6fbbh: #24283b
+--auyda: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fgh: light-dark(color-mix(in srgb, #ff9e64 54%, #c0caf5), #24283b)
+--m6fb5: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent))
+--e5e2faa5: rgb(0 0 0 / 0.58)
+--auybem: #c0caf5
+--color-shadow-border: rgb(0 0 0 / 0.16)
+--auyba1: #1a1b26
+--auybe2: #c0caf5
+--babae1d9: rgb(0 0 0 / 0.92)
+--m6f3: light-dark(#7dcfff, color-mix(in srgb, #24283b 25%, #c0caf5))
+--color-background-solid-disabled: #1a1b26
+--auyiu: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--m6fjn: light-dark(color-mix(in srgb, #7aa2f7 68%, #c0caf5), color-mix(in srgb, #7aa2f7 80%, #1a1b26))
+--color-input-indicator-checked-hover: #24283b
+--m6fz: light-dark(color-mix(in srgb, #7dcfff 50%, #c0caf5), #24283b)
+--auybhh: #7dcfff
+--auyga: light-dark(color-mix(in srgb, #9ece6a 47%, #1a1b26), color-mix(in srgb, #9ece6a 84%, #c0caf5))
+--f6d78a50: #c0caf5
+--m6fbkf: rgb(0 0 0 / 0.84)
+--color-container-alert: #f7768e
+--voyager-color-background-comment: #1a1b26
+--color-container-new: #7aa2f7
+--auyhx: light-dark(color-mix(in srgb, #ff9e64 31%, #1a1b26), color-mix(in srgb, #ff9e64 71%, #c0caf5))
+--artdeco-button-primary-inverse-static-background-color: #c0caf5
+--auyi9: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--auyhk: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--color-link-hover: #7dcfff
+--auyef: light-dark(#c0caf5, #c0caf5)
+--auyej: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--auybki: rgb(0 0 0 / 0.92)
+--m6fcf: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 68%, #1a1b26))
+--color-button-overlay-container-border-loading: rgb(0 0 0 / 0)
+--color-text-shift-on-dark-flip: #c0caf5
+--m6fcv: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 35%, transparent))
+--m6fcd: light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--voyager-color-background-overlay-active: rgb(0 0 0 / 0.9)
+--m6fbj: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), #c0caf5)
+--_5099381f: #24283b
+--m6fbf: light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--auyht: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 26%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #c0caf5) 30%, transparent))
+--auybkf: rgb(0 0 0 / 0.84)
+--m6ffz: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--m6fio: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--color-input-helper-error: #f7768e
+--m6fes: light-dark(rgb(0 0 0 / 0.6), rgb(0 0 0 / 0.6))
+--_51847ae2: rgb(0 0 0 / 0.45)
+--m6fid: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 15%, transparent))
+--m6fao: light-dark(color-mix(in srgb, #bb9af7 49%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fam: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 52%, #c0caf5))
+--auygd: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #bb9af7 67%, #c0caf5))
+--m6ffm: light-dark(color-mix(in srgb, #c0caf5 30%, transparent), color-mix(in srgb, #c0caf5 30%, transparent))
+--color-label-checked: #24283b
+--m6fad: light-dark(color-mix(in srgb, #f7768e 65%, #1a1b26), color-mix(in srgb, #f7768e 57%, #c0caf5))
+--artdeco-reset-base-get-color-black: #c0caf5
+--_8374064d: rgb(0 0 0 / 0.84)
+--auyd9: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fdy: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--messenger-color-background-input-message-active: #1a1b26
+--m6fei: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--_5f29bacd: rgb(0 0 0 / 0.9)
+--m6fhy: light-dark(color-mix(in srgb, #ff9e64 31%, #1a1b26), color-mix(in srgb, #ff9e64 71%, #c0caf5))
+--m6fbj5: rgb(0 0 0 / 0)
+--auyic: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auybj: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), #c0caf5)
+--color-logo-brand-alt: #c0caf5
+--m6fe7: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--auybb: light-dark(color-mix(in srgb, #bb9af7 40%, #1a1b26), color-mix(in srgb, #bb9af7 51%, #c0caf5))
+--voyager-color-background-coachmark: #24283b
+--auyex: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyji: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auyc4: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auybt: light-dark(#c0caf5, #1a1b26)
+--auyfh: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--m6fjj: light-dark(rgb(0 0 0 / 0.16), rgb(0 0 0 / 0.3))
+--voyager-color-background-attachment-ai: #f7768e
+--m6fi6: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--color-indicator-knockout: #24283b
+--m6fba0: #24283b
+--auyiq: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 25%, transparent))
+--m6fy: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auybbh: #24283b
+--auybw: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auydv: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fhd: light-dark(color-mix(in srgb, #f7768e 69%, #1a1b26), color-mix(in srgb, #f7768e 75%, #c0caf5))
+--auyf3: light-dark(color-mix(in srgb, #7dcfff 24%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--m6fbdv: #bb9af7
+--auyjl: light-dark(color-mix(in srgb, #7aa2f7 58%, #c0caf5), color-mix(in srgb, #7aa2f7 46%, #1a1b26))
+--auyah: light-dark(color-mix(in srgb, #7aa2f7 58%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auybh9: #24283b
+--m6fjr: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fe0: light-dark(#c0caf5, #c0caf5)
+--black-a100: #c0caf5
+--m6fh9: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyfz: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--m6fdg: light-dark(color-mix(in srgb, #c0caf5 30%, transparent), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fdc: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auyfg: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auybf0: #1a1b26
+--m6fgz: light-dark(color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 25%, transparent))
+--data-viz-color-accent-5: #9ece6a
+--color-background-brand-accent-5: #1a1b26
+--color-data-divergent-status-a-7: #f7768e
+--m6fa9: light-dark(#bb9af7, color-mix(in srgb, #bb9af7 67%, #c0caf5))
+--m6fh3: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--color-container-brand: #7aa2f7
+--m6fig: light-dark(color-mix(in srgb, #f7768e 69%, #1a1b26), color-mix(in srgb, #f7768e 75%, #c0caf5))
+--auybjt: #c0caf5
+--m6fep: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--auybke: rgb(0 0 0 / 0.8)
+--color-data-progress-accent-2: #f7768e
+--m6fe3: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-entity-ghost-background: #1a1b26
+--m6fb3: light-dark(rgb(0 0 0 / 0), rgb(0 0 0 / 0))
+--color-element-solid-shift-on-dark-flip: #c0caf5
+--m6fem: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--auyi5: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), #c0caf5)
+--m6fcq: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyoz: rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.2)) 30%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.8)) 90%
+--_98cc4601: #bb9af7
+--color-data-icon-negative: #f7768e
+--m6fa9h: #c0caf5
+--auyes: light-dark(rgb(0 0 0 / 0.6), rgb(0 0 0 / 0.6))
+--auyfo: light-dark(color-mix(in srgb, #c0caf5 45%, transparent), color-mix(in srgb, #c0caf5 45%, transparent))
+--m6fby: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 35%, transparent))
+--m6fba1: #1a1b26
+--auyi7: light-dark(color-mix(in srgb, #9ece6a 47%, #1a1b26), color-mix(in srgb, #9ece6a 84%, #c0caf5))
+--m6fot: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 100%
+--auya9z: rgb(0 0 0 / 0.45)
+--color-scrim: rgb(0 0 0 / 0.6)
+--m6fgy: light-dark(color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 15%, transparent))
+--m6fc2: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auyag: light-dark(color-mix(in srgb, #7aa2f7 51%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auyhf: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), #c0caf5)
+--_66c0402e: #c0caf5
+--auyii: light-dark(color-mix(in srgb, #f7768e 39%, #1a1b26), color-mix(in srgb, #f7768e 62%, #c0caf5))
+--color-button-overlay-container-border-disabled: rgb(0 0 0 / 0)
+--color-background-overlay: rgb(0 0 0 / 0.75)
+--m6fg4: light-dark(color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 15%, transparent))
+--voyager-color-qr-code: #c0caf5
+--auyhz: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 15%, transparent))
+--m6ffk: light-dark(#c0caf5, #c0caf5)
+--auybc: light-dark(#c0caf5, #24283b)
+--m6ffe: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--color-background-container-dark-tint: #24283b
+--m6f1: light-dark(color-mix(in srgb, #7dcfff 66%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auycz: light-dark(rgb(0 0 0 / 0.45), color-mix(in srgb, #c0caf5 45%, transparent))
+--color-canvas-tint: #24283b
+--auyhv: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 25%, #c0caf5) 30%, transparent))
+--auyc1: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auybh: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fhu: light-dark(color-mix(in srgb, #24283b 40%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--m6f8: light-dark(color-mix(in srgb, #f7768e 51%, #c0caf5), color-mix(in srgb, #f7768e 40%, #1a1b26))
+--auyhl: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 36%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 68%, #c0caf5) 30%, transparent))
+--m6fjh: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--m6fci: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--m6fi9: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--auyd5: light-dark(#c0caf5, color-mix(in srgb, #24283b 70%, #c0caf5))
+--artdeco-button-primary-default-hover-color: #24283b
+--auyf1: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), #7dcfff)
+--auyiy: light-dark(color-mix(in srgb, #73daca 71%, #c0caf5), color-mix(in srgb, #73daca 16%, #1a1b26))
+--auyba0: #24283b
+--auyec: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auyaq: light-dark(color-mix(in srgb, #bb9af7 61%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--color-button-container-secondary-emphasis-border: #7aa2f7
+--m6fjp: light-dark(color-mix(in srgb, #7aa2f7 84%, #c0caf5), color-mix(in srgb, #7aa2f7 96%, #c0caf5))
+--m6fej: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--color-icon-accent-2: #f7768e
+--m6fbs: light-dark(#c0caf5, #24283b)
+--_781780ff: #24283b
+--auyfe: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--stories-color-element-content-consumption-indicator-fill: #24283b
+--auyv: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--_4a69b034: #7dcfff
+--voyager-color-background-comment-v3: #1a1b26
+--lbp-color-label-knockout: #24283b
+--m6fiu: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--m6fe5: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--auyiv: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auya3: light-dark(color-mix(in srgb, #9ece6a 23%, #1a1b26), color-mix(in srgb, #9ece6a 55%, #c0caf5))
+--auyee: light-dark(#c0caf5, #c0caf5)
+--m6fjd: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auybdv: #bb9af7
+--color-link-visited: #bb9af7
+--auye1: light-dark(#c0caf5, #c0caf5)
+--m6far: light-dark(color-mix(in srgb, #bb9af7 73%, #c0caf5), color-mix(in srgb, #bb9af7 80%, #c0caf5))
+--auyc8: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--voyager-color-action-on-dark: #c0caf5
+--m6fek: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyc5: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--voyager-color-background-input-search-on-dark-active: #24283b
+--auyg5: light-dark(color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 25%, transparent))
+--auya9h: #c0caf5
+--m6fhn: light-dark(color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 73%, #c0caf5) 30%, transparent))
+--auyjm: light-dark(color-mix(in srgb, #7aa2f7 51%, #c0caf5), color-mix(in srgb, #7aa2f7 30%, #1a1b26))
+--_68615d84: rgb(0 0 0 / 0.6)
+--artdeco-reset-forms-select-focus-border-color: #7aa2f7
+--m6fef: light-dark(#c0caf5, #c0caf5)
+--auyd0: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6feb: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--color-input-date-label-checked: #24283b
+--auyfd: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auybi: light-dark(color-mix(in srgb, #ff9e64 44%, #1a1b26), color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fi7: light-dark(color-mix(in srgb, #9ece6a 47%, #1a1b26), color-mix(in srgb, #9ece6a 84%, #c0caf5))
+--auybv: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 15%, transparent))
+--voyager-color-background-overlay: rgb(0 0 0 / 0.6)
+--post-color-text-promoted-ct-1: #7aa2f7
+--color-background-scrim: rgb(0 0 0 / 0.6)
+--auye9: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--m6fe9: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--m6ff1: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), #7dcfff)
+--m6fbe2: #c0caf5
+--color-button-overlay-label-loading: rgb(0 0 0 / 0.3)
+--m6fcx: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fjc: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--auyck: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fel: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fhh: light-dark(color-mix(in srgb, color-mix(in srgb, #7dcfff 44%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 30%, transparent))
+--color-background-knockout-hover: #24283b
+--color-button-overlay-container-active: rgb(0 0 0 / 0.9)
+--auya94: #c0caf5
+--coach-color-background-prompt: #1a1b26
+--auya9x: rgb(0 0 0 / 0.16)
+--live-color-background-like: #24283b
+--auybj3: #24283b
+--m6fi2: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--auygs: light-dark(color-mix(in srgb, #bb9af7 57%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fh5: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auyi1: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--m6fh8: light-dark(color-mix(in srgb, #73daca 52%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auybjr: #c0caf5
+--auyc2: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auyce: light-dark(color-mix(in srgb, #ff9e64 96%, #1a1b26), color-mix(in srgb, #ff9e64 96%, #1a1b26))
+--m6fjo: light-dark(#c0caf5, color-mix(in srgb, #7aa2f7 13%, #1a1b26))
+--m6fgs: light-dark(color-mix(in srgb, #bb9af7 57%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--color-background-canvas-dark: #1a1b26
+--color-button-overlay-container-disabled: rgb(0 0 0 / 0.08)
+--auyff: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fgj: light-dark(color-mix(in srgb, #f7768e 51%, #c0caf5), color-mix(in srgb, #f7768e 25%, #1a1b26))
+--m6fbt: light-dark(#c0caf5, #1a1b26)
+--m6fim: light-dark(color-mix(in srgb, #f7768e 50%, #c0caf5), color-mix(in srgb, #f7768e 26%, #1a1b26))
+--color-border-gap: #24283b
+--m6fbg: light-dark(color-mix(in srgb, #ff9e64 96%, #1a1b26), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auya8: light-dark(color-mix(in srgb, #bb9af7 79%, #c0caf5), color-mix(in srgb, #bb9af7 82%, #c0caf5))
+--m6fh7: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 25%, transparent))
+--auyaa: light-dark(color-mix(in srgb, #f7768e 67%, #c0caf5), color-mix(in srgb, #f7768e 96%, #1a1b26))
+--m6fgp: light-dark(color-mix(in srgb, #7dcfff 53%, #c0caf5), #24283b)
+--auyh9: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fe4: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fgq: light-dark(color-mix(in srgb, #bb9af7 56%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--color-element-solid-disabled: #24283b
+--auy1: light-dark(color-mix(in srgb, #7dcfff 66%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--m6fiq: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 25%, transparent))
+--m6fa2: light-dark(color-mix(in srgb, #9ece6a 40%, #1a1b26), color-mix(in srgb, #9ece6a 66%, #c0caf5))
+--m6fbp: light-dark(color-mix(in srgb, #24283b 40%, #c0caf5), color-mix(in srgb, #24283b 12%, #c0caf5))
+--_317c5191: #c0caf5
+--m6fbv: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 15%, transparent))
+--m6f7: light-dark(#c0caf5, color-mix(in srgb, #f7768e 25%, #1a1b26))
+--m6fcz: light-dark(rgb(0 0 0 / 0.45), color-mix(in srgb, #c0caf5 45%, transparent))
+--m6fgk: light-dark(color-mix(in srgb, #9ece6a 64%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--auybkc: rgb(0 0 0 / 0.56)
+--voyager-color-background-overlay-hover: rgb(0 0 0 / 0.75)
+--m6fil: light-dark(color-mix(in srgb, #f7768e 55%, #c0caf5), color-mix(in srgb, #f7768e 39%, #1a1b26))
+--m6fbu: light-dark(color-mix(in srgb, #c0caf5 0%, transparent), rgb(0 0 0 / 0))
+--color-input-switch-ios-indicator: #24283b
+--m6fbix: #c0caf5
+--m6faw: light-dark(color-mix(in srgb, #9ece6a 53%, #c0caf5), #24283b)
+--b7f1ed78: #c0caf5
+--m6fhm: light-dark(color-mix(in srgb, #bb9af7 89%, #c0caf5), color-mix(in srgb, #bb9af7 73%, #c0caf5))
+--m6fcr: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fav: light-dark(#1a1b26, #1a1b26)
+--_4db40e3a: #c0caf5
+--m6fa92: rgb(0 0 0 / 0.9)
+--auyfb: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fbc: light-dark(#c0caf5, #24283b)
+--auybu: light-dark(color-mix(in srgb, #c0caf5 0%, transparent), rgb(0 0 0 / 0))
+--auyfy: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #7aa2f7 85%, #c0caf5))
+--color-pill-icon-checked-hover: #24283b
+--_8b57e317: rgb(0 0 0 / 0.03)
+--warm-red-70: #f7768e
+--auyi8: light-dark(color-mix(in srgb, #ff9e64 44%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auybbi: #c0caf5
+--auyie: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--m6foy: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 75%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0)) 100%
+--color-presence-indicator-online: #24283b
+--auyhy: light-dark(color-mix(in srgb, #ff9e64 31%, #1a1b26), color-mix(in srgb, #ff9e64 71%, #c0caf5))
+--auygf: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--auydq: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyfk: light-dark(#c0caf5, #c0caf5)
+--auye8: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fc5: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--_45cc6ea5: rgb(0 0 0 / 0.3)
+--_7347e31a: #24283b
+--m6ff3: light-dark(color-mix(in srgb, #7dcfff 24%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--m6fa9z: rgb(0 0 0 / 0.45)
+--_7722dd23: #c0caf5
+--m6fen: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--color-button-icon-secondary-emphasis: #7aa2f7
+--color-button-overlay-icon: #24283b
+--voyager-color-background-attachment-psd: #7aa2f7
+--auyc9: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fbz: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 40%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 45%, transparent))
+--_26c0752c: rgb(0 0 0 / 0.45)
+--color-divider-solid: #1a1b26
+--auybka: rgb(0 0 0 / 0.45)
+--auyd6: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fbem: #c0caf5
+--color-text-on-dark-flip: #c0caf5
+--m6fg8: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--reactions-color-text-love: #f7768e
+--auydc: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auyao: light-dark(color-mix(in srgb, #bb9af7 49%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auyg6: light-dark(color-mix(in srgb, #bb9af7 10%, transparent), color-mix(in srgb, #bb9af7 15%, transparent))
+--m6fex: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyg1: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--color-input-label-checked: #24283b
+--auye3: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-canvas-mobile: #1a1b26
+--m6ffd: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auybfi: #c0caf5
+--auygz: light-dark(color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 25%, transparent))
+--m6fiz: light-dark(color-mix(in srgb, #73daca 57%, #c0caf5), color-mix(in srgb, #73daca 9%, #1a1b26))
+--auyot: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 100%
+--lbp-color-background: #24283b
+--m6fd5: light-dark(#c0caf5, color-mix(in srgb, #24283b 70%, #c0caf5))
+--m6fii: light-dark(color-mix(in srgb, #f7768e 39%, #1a1b26), color-mix(in srgb, #f7768e 62%, #c0caf5))
+--m6fe8: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--color-button-overlay-icon-disabled: rgb(0 0 0 / 0.3)
+--m6fax: light-dark(color-mix(in srgb, #9ece6a 61%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--auyd2: light-dark(color-mix(in srgb, #24283b 25%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auyad: light-dark(color-mix(in srgb, #f7768e 65%, #1a1b26), color-mix(in srgb, #f7768e 57%, #c0caf5))
+--color-icon-negative: #f7768e
+--m6ffu: light-dark(color-mix(in srgb, #f7768e 38%, #1a1b26), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--m6fw: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fh2: light-dark(color-mix(in srgb, #ff9e64 52%, #c0caf5), color-mix(in srgb, #ff9e64 20%, #1a1b26))
+--m6fg0: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 15%, transparent))
+--voyager-color-background-badge-new: #7aa2f7
+--m6fak: light-dark(color-mix(in srgb, #7aa2f7 93%, #1a1b26), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--auygu: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 15%, transparent))
+--auy8: light-dark(color-mix(in srgb, #f7768e 51%, #c0caf5), color-mix(in srgb, #f7768e 40%, #1a1b26))
+--color-brand: #7aa2f7
+--auyhp: light-dark(color-mix(in srgb, color-mix(in srgb, #9ece6a 40%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 30%, transparent))
+--m6fgt: light-dark(color-mix(in srgb, #bb9af7 51%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fet: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 80%, #c0caf5) 85%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 80%, #c0caf5) 85%, transparent))
+--color-button-label-primary-hover: #24283b
+--auyf0: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--m6fv: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--voyager-color-action-stick: #7aa2f7
+--m6fbh9: #24283b
+--color-button-icon-tertiary-emphasis: #7aa2f7
+--auyik: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 25%, transparent))
+--m6fbfj: #c0caf5
+--auyhs: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auygy: light-dark(color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #9ece6a 60%, #1a1b26) 15%, transparent))
+--auyea: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auydr: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fee: light-dark(#c0caf5, #c0caf5)
+--m6fhz: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 15%, transparent))
+--auybam: #c0caf5
+--f2c833d8: #1a1b26
+--color-data-h-3: #1a1b26
+--color-data-label-negative: #24283b
+--color-button-overlay-label-disabled: rgb(0 0 0 / 0.3)
+--m6fdk: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--auybe0: #24283b
+--_8718c30b: #1a1b26
+--color-border-knockout: #24283b
+--auybfj: #c0caf5
+--auyg0: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 15%, transparent))
+--_51373ae0: rgb(0 0 0 / 0)
+--m6fhb: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 15%, transparent))
+--auyg8: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--m6ffo: light-dark(color-mix(in srgb, #c0caf5 45%, transparent), color-mix(in srgb, #c0caf5 45%, transparent))
+--m6fjk: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--color-signal-negative: #f7768e
+--color-icon-brand: #7aa2f7
+--auye7: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--auyy: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auybj7: rgb(0 0 0 / 0.04)
+--dc4a0957: rgb(0 0 0 / 0.47)
+--m6fa9x: rgb(0 0 0 / 0.16)
+--_291d5795: rgb(0 0 0 / 0.88)
+--m6fbke: rgb(0 0 0 / 0.8)
+--m6fbh: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #24283b 12%, #c0caf5))
+--_9178d329: #c0caf5
+--auybp: light-dark(color-mix(in srgb, #24283b 40%, #c0caf5), color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fdz: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--color-data-container-negative: #f7768e
+--m6fhj: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 81%, #c0caf5) 30%, transparent))
+--post-color-icon-promoted-ct-1: #7aa2f7
+--auyaf: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fe6: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--color-attachment-label: #24283b
+--auyox: rgb(from light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #bb9af7 26%, #1a1b26)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #bb9af7 40%, #1a1b26)) r g b / calc(alpha * 1)) 100%
+--auyas: light-dark(color-mix(in srgb, #bb9af7 89%, #c0caf5), color-mix(in srgb, #bb9af7 65%, #c0caf5))
+--m6fg6: light-dark(color-mix(in srgb, #bb9af7 10%, transparent), color-mix(in srgb, #bb9af7 15%, transparent))
+--auybkd: rgb(0 0 0 / 0.58)
+--m6fhx: light-dark(color-mix(in srgb, #ff9e64 31%, #1a1b26), color-mix(in srgb, #ff9e64 71%, #c0caf5))
+--eb7cbc1c: #c0caf5
+--m6fo1: rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0)) 100%
+--auyhi: light-dark(color-mix(in srgb, #f7768e 96%, #1a1b26), color-mix(in srgb, #f7768e 81%, #c0caf5))
+--m6ffh: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auygw: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 15%, transparent))
+--auyhr: light-dark(color-mix(in srgb, #bb9af7 30%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 79%, #c0caf5) 30%, transparent))
+--lime-60: #9ece6a
+--color-button-overlay-icon-hover: #24283b
+--auybfg: #24283b
+--m6fi3: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 96%, #1a1b26))
+--auydz: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--color-button-label-secondary-emphasis: #7aa2f7
+--_3e557906: #24283b
+--auya4: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--auyct: light-dark(color-mix(in srgb, #c0caf5 0%, transparent), rgb(0 0 0 / 0))
+--color-search-input-background: #1a1b26
+--auygm: light-dark(color-mix(in srgb, #7aa2f7 58%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fhk: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--m6fc9: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--auyba2: #c0caf5
+--auyfu: light-dark(color-mix(in srgb, #f7768e 38%, #1a1b26), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auydx: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--color-logo-brand-lockup-alt: #c0caf5
+--color-data-categorical-tint-4: #1a1b26
+--color-button-label-primary: #24283b
+--auyar: light-dark(color-mix(in srgb, #bb9af7 73%, #c0caf5), color-mix(in srgb, #bb9af7 80%, #c0caf5))
+--_5ba0532e: #c0caf5
+--auyje: light-dark(color-mix(in srgb, #ff9e64 31%, #1a1b26), color-mix(in srgb, #ff9e64 71%, #c0caf5))
+--m6fbi7: #c0caf5
+--color-label-knockout: #24283b
+--auycp: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--color-container-primary: #7aa2f7
+--m6fa5: light-dark(color-mix(in srgb, #bb9af7 50%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auyf7: light-dark(color-mix(in srgb, #bb9af7 68%, #1a1b26), color-mix(in srgb, #bb9af7 79%, #c0caf5))
+--reactions-color-text-like: #7aa2f7
+--auygc: light-dark(color-mix(in srgb, #24283b 55%, #c0caf5), color-mix(in srgb, #bb9af7 65%, #c0caf5))
+--auygb: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--auyd1: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fbd6: #c0caf5
+--auya91: rgb(0 0 0 / 0.75)
+--auyi6: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auyg9: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--color-data-h-2: #1a1b26
+--m6fb7: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6ff4: light-dark(color-mix(in srgb, #bb9af7 88%, #1a1b26), color-mix(in srgb, #bb9af7 73%, #c0caf5))
+--_61ba2fe8: #24283b
+--color-background-canvas-tint: #24283b
+--_8985247a: rgb(0 0 0 / 0.88)
+--c5034668: #1a1b26
+--color-surface: #24283b
+--m6f4: light-dark(color-mix(in srgb, #7dcfff 68%, #1a1b26), color-mix(in srgb, #7dcfff 73%, #c0caf5))
+--m6fd4: light-dark(#c0caf5, #24283b)
+--warm-gray-20: #1a1b26
+--m6fbka: rgb(0 0 0 / 0.45)
+--m6faz: light-dark(color-mix(in srgb, #9ece6a 92%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--auybix: #c0caf5
+--m6ffs: light-dark(color-mix(in srgb, #f7768e 65%, #1a1b26), color-mix(in srgb, #f7768e 81%, #c0caf5))
+--auyat: light-dark(color-mix(in srgb, #bb9af7 88%, #1a1b26), color-mix(in srgb, #bb9af7 56%, #c0caf5))
+--color-text-solid: #c0caf5
+--color-background-knockout: #24283b
+--auye6: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--auyg7: light-dark(color-mix(in srgb, #bb9af7 20%, transparent), color-mix(in srgb, #bb9af7 25%, transparent))
+--auyeq: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--auyb8: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--_219a90ac: #24283b
+--auybj6: rgb(0 0 0 / 0.03)
+--e5155c32: rgb(0 0 0 / 0.92)
+--color-background-scrim-dark: rgb(0 0 0 / 0.9)
+--m6fgg: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--color-pill-label-checked: #24283b
+--m6fov: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 50%
+--f57b9c8d: #c0caf5
+--_1eb6b417: #c0caf5
+--color-button-overlay-container: rgb(0 0 0 / 0.75)
+--m6faf: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--auyja: light-dark(color-mix(in srgb, #f7768e 65%, #1a1b26), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auybhu: rgb(0 0 0 / 0)
+--tw-ring-offset-color: #24283b
+--auyio: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fiv: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--m6fou: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 100%
+--auyan: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fds: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auybhw: #c0caf5
+--m6fdn: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyca: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auygp: light-dark(color-mix(in srgb, #7dcfff 53%, #c0caf5), #24283b)
+--auyb3: light-dark(rgb(0 0 0 / 0), rgb(0 0 0 / 0))
+--m6ffp: light-dark(color-mix(in srgb, #ff9e64 44%, #1a1b26), color-mix(in srgb, #ff9e64 96%, #1a1b26))
+--voyager-color-action-on-dark-hover: #c0caf5
+--m6fca: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fau: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 51%, #c0caf5))
+--auydh: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--ddb0a6cb: #c0caf5
+--m6fft: light-dark(color-mix(in srgb, #f7768e 38%, #1a1b26), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--m6fh0: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 25%, transparent))
+--m6fdj: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-coach-prompt-contextual-background-hover: #1a1b26
+--auyfr: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fdd: light-dark(#c0caf5, #c0caf5)
+--a82f9f88: #c0caf5
+--m6fgw: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 15%, transparent))
+--m6fgr: light-dark(color-mix(in srgb, #bb9af7 51%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fbda: #c0caf5
+--m6fik: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 25%, transparent))
+--m6fdb: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--_80a33818: #c0caf5
+--color-progress-loading: #7aa2f7
+--auy6: light-dark(color-mix(in srgb, #7dcfff 24%, #1a1b26), color-mix(in srgb, #7dcfff 53%, #c0caf5))
+--m6fb0: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fb1: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auye5: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--color-input-date-label-checked-hover: #24283b
+--m6fbce: #c0caf5
+--auybkg: rgb(0 0 0 / 0.88)
+--auyfl: light-dark(#c0caf5, #c0caf5)
+--auyjh: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auyi0: light-dark(color-mix(in srgb, #bb9af7 88%, #1a1b26), color-mix(in srgb, #bb9af7 73%, #c0caf5))
+--m6fcc: light-dark(#c0caf5, #c0caf5)
+--auyb9: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--color-background-container-dark: #24283b
+--auyhq: light-dark(#bb9af7, color-mix(in srgb, #bb9af7 79%, #c0caf5))
+--auybgx: #c0caf5
+--m6f6: light-dark(color-mix(in srgb, #7dcfff 24%, #1a1b26), color-mix(in srgb, #7dcfff 53%, #c0caf5))
+--auyb2: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auygq: light-dark(color-mix(in srgb, #bb9af7 56%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fgd: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #bb9af7 67%, #c0caf5))
+--m6fiw: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 25%, transparent))
+--m6fc7: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-pill-container-count: #24283b
+--m6fbcd: #1a1b26
+--m6fja: light-dark(color-mix(in srgb, #f7768e 65%, #1a1b26), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auyh0: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #1a1b26) 25%, transparent))
+--color-pill-indicator-checked-hover: #24283b
+--m6ffx: light-dark(color-mix(in srgb, #9ece6a 23%, #1a1b26), color-mix(in srgb, #9ece6a 92%, #c0caf5))
+--auycu: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--m6feu: light-dark(rgb(0 0 0 / 0.3), rgb(0 0 0 / 0.6))
+--_683802f0: rgb(0 0 0 / 0.89)
+--color-data-label-positive: #24283b
+--color-text-brand: #7aa2f7
+--m6fd0: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--auya93: #1a1b26
+--auyc6: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fb4: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent))
+--system-gray-30: #1a1b26
+--m6fgx: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 25%, transparent))
+--auydf: light-dark(#c0caf5, #c0caf5)
+--auybi7: #c0caf5
+--m6ffy: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #7aa2f7 85%, #c0caf5))
+--m6fgn: light-dark(color-mix(in srgb, #7aa2f7 52%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fgu: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 15%, transparent))
+--m6fbkg: rgb(0 0 0 / 0.88)
+--auyeb: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fbq: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 12%, #c0caf5))
+--color-button-container-primary-active: #7dcfff
+--auyhm: light-dark(color-mix(in srgb, #bb9af7 89%, #c0caf5), color-mix(in srgb, #bb9af7 73%, #c0caf5))
+--auyhj: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 81%, #c0caf5) 30%, transparent))
+--auybq: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fbo: light-dark(color-mix(in srgb, #24283b 25%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auydi: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyhg: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 68%, #1a1b26))
+--auyiz: light-dark(color-mix(in srgb, #73daca 57%, #c0caf5), color-mix(in srgb, #73daca 9%, #1a1b26))
+--m6fa3: light-dark(color-mix(in srgb, #9ece6a 23%, #1a1b26), color-mix(in srgb, #9ece6a 55%, #c0caf5))
+--auydt: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auycs: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--color-background-canvas-dark-tint: #24283b
+--m6ff6: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--color-button-icon-primary-hover: #24283b
+--_4d4ff6c2: rgb(0 0 0 / 0.56)
+--m6feh: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fdu: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auybj8: rgb(0 0 0 / 0.08)
+--_2c138134: #c0caf5
+--auydo: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyh8: light-dark(color-mix(in srgb, #73daca 52%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--color-data-e-6: #9ece6a
+--m6fbx: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auyjj: light-dark(rgb(0 0 0 / 0.16), rgb(0 0 0 / 0.3))
+--m6fbgh: #c0caf5
+--auyb5: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent))
+--post-color-background-container-icon-promoted-ct-1: #7aa2f7
+--m6fho: light-dark(color-mix(in srgb, #9ece6a 40%, #1a1b26), color-mix(in srgb, #9ece6a 60%, #1a1b26))
+--m6fbf0: #1a1b26
+--m6fow: rgb(from light-dark(color-mix(in srgb, #ff9e64 54%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #bb9af7 26%, #1a1b26)) r g b / calc(alpha * 1)) 100%
+--m6fc4: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auybg: light-dark(color-mix(in srgb, #ff9e64 96%, #1a1b26), color-mix(in srgb, #24283b 25%, #c0caf5))
+--m6fez: light-dark(#c0caf5, #c0caf5)
+--_36b745c7: #c0caf5
+--auyf8: light-dark(color-mix(in srgb, #bb9af7 40%, #1a1b26), color-mix(in srgb, #bb9af7 64%, #c0caf5))
+--color-data-sequential-c-7: #7aa2f7
+--m6fi1: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--auyif: light-dark(#1a1b26, #c0caf5)
+--m6fbdq: #c0caf5
+--m6fa0: light-dark(color-mix(in srgb, #9ece6a 91%, #1a1b26), color-mix(in srgb, #24283b 40%, #c0caf5))
+--color-background-canvas: #1a1b26
+--m6fd8: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--_82d2d049: rgb(0 0 0 / 0.56)
+--m6fch: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #f7768e 57%, #c0caf5))
+--color-button-overlay-container-loading: #1a1b26
+--artdeco-reset-forms-input-blue: #7aa2f7
+--auyfv: light-dark(color-mix(in srgb, #9ece6a 40%, #1a1b26), color-mix(in srgb, #9ece6a 91%, #1a1b26))
+--auygv: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 25%, transparent))
+--auyd4: light-dark(#c0caf5, #24283b)
+--auyba: light-dark(color-mix(in srgb, #bb9af7 68%, #1a1b26), color-mix(in srgb, #bb9af7 57%, #c0caf5))
+--m6fcb: light-dark(color-mix(in srgb, #73daca 71%, #c0caf5), color-mix(in srgb, #73daca 16%, #1a1b26))
+--auyjk: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--auycm: light-dark(#c0caf5, color-mix(in srgb, #24283b 70%, #c0caf5))
+--m6faa: light-dark(color-mix(in srgb, #f7768e 67%, #c0caf5), color-mix(in srgb, #f7768e 96%, #1a1b26))
+--color-coach-prompt-contextual-background: #1a1b26
+--e78fe0a7: rgb(0 0 0 / 0.84)
+--color-brand-alt: #c0caf5
+--m6faj: light-dark(color-mix(in srgb, #7aa2f7 84%, #c0caf5), color-mix(in srgb, #7aa2f7 85%, #c0caf5))
+--m6fct: light-dark(color-mix(in srgb, #c0caf5 0%, transparent), rgb(0 0 0 / 0))
+--voyager-color-action: #7aa2f7
+--auybkb: rgb(0 0 0 / 0.47)
+--auyoy: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 75%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0)) 100%
+--auycc: light-dark(#c0caf5, #c0caf5)
+--m6fat: light-dark(color-mix(in srgb, #bb9af7 88%, #1a1b26), color-mix(in srgb, #bb9af7 56%, #c0caf5))
+--auya9: light-dark(#bb9af7, color-mix(in srgb, #bb9af7 67%, #c0caf5))
+--auyc7: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auycb: light-dark(color-mix(in srgb, #73daca 71%, #c0caf5), color-mix(in srgb, #73daca 16%, #1a1b26))
+--auyax: light-dark(color-mix(in srgb, #9ece6a 61%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--color-indicator-knockout-hover: #24283b
+--auyg4: light-dark(color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 15%, transparent))
+--m6fhf: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), #c0caf5)
+--m6fg5: light-dark(color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 25%, transparent))
+--m6fix: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 15%, transparent))
+--m6fgf: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--auyd8: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fcp: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auygg: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--auyb0: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fa94: #c0caf5
+--m6fas: light-dark(color-mix(in srgb, #bb9af7 89%, #c0caf5), color-mix(in srgb, #bb9af7 65%, #c0caf5))
+--auyde: light-dark(#c0caf5, #c0caf5)
+--auyh3: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--color-button-overlay-label-hover: #24283b
+--m6foz: rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.2)) 30%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.8)) 90%
+--auybd6: #c0caf5
+--white-a100: #24283b
+--m6fa4: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fbiw: #c0caf5
+--auycv: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 35%, transparent))
+--auyil: light-dark(color-mix(in srgb, #f7768e 55%, #c0caf5), color-mix(in srgb, #f7768e 39%, #1a1b26))
+--m6fbkd: rgb(0 0 0 / 0.58)
+--auye4: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fbl: light-dark(#c0caf5, color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fjg: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--color-element-shift-on-dark-flip: #c0caf5
+--m6ffq: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyev: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), rgb(0 0 0 / 0.45))
+--auybn: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--auyha: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--m6fbfg: #24283b
+--auyei: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--m6fcs: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--auye2: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--auyhb: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 15%, transparent))
+--m6fec: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auybe: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auygh: light-dark(color-mix(in srgb, #ff9e64 54%, #c0caf5), #24283b)
+--m6fa91: rgb(0 0 0 / 0.75)
+--m6fe2: light-dark(rgb(0 0 0 / 0.6), color-mix(in srgb, #c0caf5 60%, transparent))
+--stories-color-element-accent-2-darker: #f7768e
+--auygk: light-dark(color-mix(in srgb, #9ece6a 64%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--auybdq: #c0caf5
+--system-gray-40: #24283b
+--auybf: light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--color-pill-container-count-hover: #24283b
+--auyac: light-dark(color-mix(in srgb, #f7768e 96%, #1a1b26), color-mix(in srgb, #f7768e 66%, #c0caf5))
+--auyib: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fbgx: #c0caf5
+--post-color-background-container-promoted-ct-neutral: #1a1b26
+--auyay: light-dark(color-mix(in srgb, #9ece6a 76%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auygr: light-dark(color-mix(in srgb, #bb9af7 51%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fan: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--color-button-overlay-container-border-hover: rgb(0 0 0 / 0.9)
+--_619065d0: #24283b
+--m6fha: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--m6fie: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--auybhv: #c0caf5
+--m6fjf: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 15%, transparent))
+--color-label-knockout-hover: #24283b
+--auybce: #c0caf5
+--auyft: light-dark(color-mix(in srgb, #f7768e 38%, #1a1b26), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auy3: light-dark(#7dcfff, color-mix(in srgb, #24283b 25%, #c0caf5))
+--m6fbjr: #c0caf5
+--auy5: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 62%, #c0caf5))
+--m6fah: light-dark(color-mix(in srgb, #7aa2f7 58%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--color-data-b-7: #f7768e
+--auyhh: light-dark(color-mix(in srgb, color-mix(in srgb, #7dcfff 44%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 30%, transparent))
+--m6fjq: light-dark(color-mix(in srgb, #7aa2f7 84%, #c0caf5), color-mix(in srgb, #7aa2f7 96%, #c0caf5))
+--m6fbw: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--a9b4a7da: rgb(0 0 0 / 0.58)
+--color-button-overlay-container-hover: rgb(0 0 0 / 0.9)
+--auydg: light-dark(color-mix(in srgb, #c0caf5 30%, transparent), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fap: light-dark(color-mix(in srgb, #bb9af7 54%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--m6fji: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auycq: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fc8: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-action-active: #7dcfff
+--_3bf372fc: #24283b
+--auyov: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 50%
+--stories-color-element-accent-4-darker: #7aa2f7
+--auyfp: light-dark(color-mix(in srgb, #ff9e64 44%, #1a1b26), color-mix(in srgb, #ff9e64 96%, #1a1b26))
+--auybiw: #c0caf5
+--m6fb9: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auygj: light-dark(color-mix(in srgb, #f7768e 51%, #c0caf5), color-mix(in srgb, #f7768e 25%, #1a1b26))
+--color-text-negative: #f7768e
+--color-text-solid-on-dark: #c0caf5
+--auyeu: light-dark(rgb(0 0 0 / 0.3), rgb(0 0 0 / 0.6))
+--auyx: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--auyed: light-dark(#c0caf5, #c0caf5)
+--m6fgl: light-dark(color-mix(in srgb, #9ece6a 54%, #c0caf5), #24283b)
+--auya1: light-dark(color-mix(in srgb, #9ece6a 60%, #1a1b26), color-mix(in srgb, #9ece6a 78%, #c0caf5))
+--auyiw: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 25%, transparent))
+--color-badge-label: #24283b
+--color-loading: #7aa2f7
+--color-data-icon-accent-2: #f7768e
+--m6fbj7: rgb(0 0 0 / 0.04)
+--m6faq: light-dark(color-mix(in srgb, #bb9af7 61%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--auyen: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--m6fbkb: rgb(0 0 0 / 0.47)
+--color-background-overlay-hover: rgb(0 0 0 / 0.9)
+--m6f9: light-dark(color-mix(in srgb, #f7768e 57%, #c0caf5), color-mix(in srgb, #f7768e 67%, #1a1b26))
+--a1b17250: rgb(0 0 0 / 0.45)
+--m6ffv: light-dark(color-mix(in srgb, #9ece6a 40%, #1a1b26), color-mix(in srgb, #9ece6a 91%, #1a1b26))
+--auygl: light-dark(color-mix(in srgb, #9ece6a 54%, #c0caf5), #24283b)
+--m6fjl: light-dark(color-mix(in srgb, #7aa2f7 58%, #c0caf5), color-mix(in srgb, #7aa2f7 46%, #1a1b26))
+--color-border-knockout-hover: #24283b
+--color-button-container-primary-hover: #7dcfff
+--m6fin: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--auybda: #c0caf5
+--_922d836e: rgb(0 0 0 / 0.47)
+--auydb: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--_3cc8252c: rgb(0 0 0 / 0.45)
+--auyjr: light-dark(color-mix(in srgb, #24283b 12%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--artdeco-button-primary-default-static-color: #24283b
+--m6fbe0: #24283b
+--m6fd7: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyby: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 35%, transparent))
+--m6fhw: light-dark(color-mix(in srgb, #ff9e64 52%, #1a1b26), color-mix(in srgb, #ff9e64 90%, #c0caf5))
+--auydy: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--auyc3: light-dark(#c0caf5, #24283b)
+--m6fbj2: #1a1b26
+--auyai: light-dark(color-mix(in srgb, #7aa2f7 68%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--color-link: #7aa2f7
+--messenger-color-background-input-message: #1a1b26
+--m6fga: light-dark(color-mix(in srgb, #9ece6a 47%, #1a1b26), color-mix(in srgb, #9ece6a 84%, #c0caf5))
+--auyco: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fcy: light-dark(rgb(0 0 0 / 0.45), color-mix(in srgb, #c0caf5 45%, transparent))
+--m6fiy: light-dark(color-mix(in srgb, #73daca 71%, #c0caf5), color-mix(in srgb, #73daca 16%, #1a1b26))
+--auyal: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 58%, #c0caf5))
+--auya0: light-dark(color-mix(in srgb, #9ece6a 91%, #1a1b26), color-mix(in srgb, #24283b 40%, #c0caf5))
+--auyip: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--color-background: #24283b
+--auyid: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 15%, transparent))
+--m6fjm: light-dark(color-mix(in srgb, #7aa2f7 51%, #c0caf5), color-mix(in srgb, #7aa2f7 30%, #1a1b26))
+--m6fey: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--reactions-color-content-like: #7aa2f7
+--m6fed: light-dark(#c0caf5, #c0caf5)
+--color-input-handle-disabled: #24283b
+--m6fa6: light-dark(color-mix(in srgb, #bb9af7 56%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--color-logo-brand: #7aa2f7
+--m6fbi: light-dark(color-mix(in srgb, #ff9e64 44%, #1a1b26), color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fbj6: rgb(0 0 0 / 0.03)
+--_2cb9ecd7: rgb(0 0 0 / 0.08)
+--adbebd75: rgb(0 0 0 / 0.6)
+--auyi4: light-dark(#1a1b26, #c0caf5)
+--auybcd: #1a1b26
+--color-icon-knockout-hover: #24283b
+--color-canvas: #1a1b26
+--m6fbib: #c0caf5
+--fc47e6e7: #24283b
+--auy7: light-dark(#c0caf5, color-mix(in srgb, #f7768e 25%, #1a1b26))
+--e7fd60f8: #c0caf5
+--auyds: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auya7: light-dark(color-mix(in srgb, #bb9af7 64%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--color-input-indicator-checked: #24283b
+--m6fba2: #c0caf5
+--m6fg3: light-dark(color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 25%, transparent))
+--auyap: light-dark(color-mix(in srgb, #bb9af7 54%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--b8bd6503: rgb(0 0 0 / 0.8)
+--m6fdq: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fit: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--m6fhc: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 25%, transparent))
+--m6fc6: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fd3: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #24283b 12%, #c0caf5))
+--auyfw: light-dark(color-mix(in srgb, #9ece6a 23%, #1a1b26), color-mix(in srgb, #9ece6a 92%, #c0caf5))
+--auyh1: light-dark(color-mix(in srgb, #ff9e64 60%, #c0caf5), color-mix(in srgb, #ff9e64 31%, #1a1b26))
+--auycl: light-dark(#c0caf5, color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6ffg: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--m6ffc: light-dark(color-mix(in srgb, #24283b 25%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auyew: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fhv: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 25%, #c0caf5) 30%, transparent))
+--color-pill-icon-checked: #24283b
+--auyh6: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 15%, transparent))
+--m6fgi: light-dark(color-mix(in srgb, #f7768e 57%, #c0caf5), color-mix(in srgb, #f7768e 40%, #1a1b26))
+--auybib: #c0caf5
+--_88ccb49e: rgb(0 0 0 / 0.04)
+--m6fd9: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fd6: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--m6fbr: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), #c0caf5)
+--m6ffl: light-dark(#c0caf5, #c0caf5)
+--auyho: light-dark(color-mix(in srgb, #9ece6a 40%, #1a1b26), color-mix(in srgb, #9ece6a 60%, #1a1b26))
+--auygx: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 96%, #1a1b26) 25%, transparent))
+--auya9y: rgb(0 0 0 / 0.3)
+--color-text-accent-2: #f7768e
+--auybz: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 40%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 45%, transparent))
+--auycf: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 68%, #1a1b26))
+--m6fcw: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 40%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 45%, transparent))
+--color-data-label-neutral: #24283b
+--color-button-overlay-label: #24283b
+--auyep: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--auyeh: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fht: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 26%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 80%, #c0caf5) 30%, transparent))
+--color-container-accent-2: #f7768e
+--auyz: light-dark(color-mix(in srgb, #7dcfff 50%, #c0caf5), #24283b)
+--m6fcj: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--auyhc: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 25%, transparent))
+--color-icon-knockout: #24283b
+--m6fx: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--color-container-negative: #f7768e
+--auybr: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), #c0caf5)
+--m6fa9y: rgb(0 0 0 / 0.3)
+--auyfx: light-dark(color-mix(in srgb, #9ece6a 23%, #1a1b26), color-mix(in srgb, #9ece6a 92%, #c0caf5))
+--a590d270: #24283b
+--auyf5: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--auygi: light-dark(color-mix(in srgb, #f7768e 57%, #c0caf5), color-mix(in srgb, #f7768e 40%, #1a1b26))
+--m6fir: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 35%, transparent))
+--auyez: light-dark(#c0caf5, #c0caf5)
+--b32307fb: rgb(0 0 0 / 0.16)
+--_1d5285fc: #c0caf5
+--m6fhr: light-dark(color-mix(in srgb, #bb9af7 30%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 79%, #c0caf5) 30%, transparent))
+--auybj2: #1a1b26
+--m6fab: light-dark(color-mix(in srgb, #f7768e 81%, #c0caf5), color-mix(in srgb, #f7768e 82%, #c0caf5))
+--auyi2: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--auyae: light-dark(color-mix(in srgb, #f7768e 38%, #1a1b26), color-mix(in srgb, #f7768e 51%, #c0caf5))
+--m6fd2: light-dark(color-mix(in srgb, #24283b 25%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auybkh: rgb(0 0 0 / 0.89)
+--auyb6: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fhs: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fbb: light-dark(color-mix(in srgb, #bb9af7 40%, #1a1b26), color-mix(in srgb, #bb9af7 51%, #c0caf5))
+--auy2: light-dark(color-mix(in srgb, #7dcfff 80%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--live-color-background-comment: #1a1b26
+--m6fbk: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--_531d4458: #24283b
+--auy9: light-dark(color-mix(in srgb, #f7768e 57%, #c0caf5), color-mix(in srgb, #f7768e 67%, #1a1b26))
+--auyeo: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--auydd: light-dark(#c0caf5, #c0caf5)
+--auyh5: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auycw: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 40%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 45%, transparent))
+--m6fcg: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--auybl: light-dark(#c0caf5, color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fhe: light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyfq: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--_32c519c4: rgb(0 0 0 / 0)
+--auyel: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6feo: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--color-input-switch-ios-indicator-checked: #24283b
+--auygo: light-dark(color-mix(in srgb, #7dcfff 62%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--_3063739c: rgb(0 0 0 / 0.9)
+--auyfs: light-dark(color-mix(in srgb, #f7768e 65%, #1a1b26), color-mix(in srgb, #f7768e 81%, #c0caf5))
+--auyd7: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fdx: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fih: light-dark(color-mix(in srgb, #f7768e 39%, #1a1b26), color-mix(in srgb, #f7768e 62%, #c0caf5))
+--m6fje: light-dark(color-mix(in srgb, #ff9e64 31%, #1a1b26), color-mix(in srgb, #ff9e64 71%, #c0caf5))
+--m6fe1: light-dark(#c0caf5, #c0caf5)
+--auybkj: #c0caf5
+--m6fbkc: rgb(0 0 0 / 0.56)
+--auye0: light-dark(#c0caf5, #c0caf5)
+--_81e87877: #24283b
+--auyfj: light-dark(#c0caf5, #c0caf5)
+--color-button-fab-container-loading: #1a1b26
+--m6fip: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 84%, #c0caf5))
+--m6fia: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fbkh: rgb(0 0 0 / 0.89)
+--m6fbhu: rgb(0 0 0 / 0)
+--auydl: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--voyager-color-background-coachmark-on-dark: #24283b
+--m6fgc: light-dark(color-mix(in srgb, #24283b 55%, #c0caf5), color-mix(in srgb, #bb9af7 65%, #c0caf5))
+--m6fbhv: #c0caf5
+--e8e1c484: #1a1b26
+--m6fox: rgb(from light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #bb9af7 26%, #1a1b26)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #bb9af7 40%, #1a1b26)) r g b / calc(alpha * 1)) 100%
+--color-background-canvas-mobile: #1a1b26
+--m6fdp: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--auyih: light-dark(color-mix(in srgb, #f7768e 39%, #1a1b26), color-mix(in srgb, #f7768e 62%, #c0caf5))
+--m6fbam: #c0caf5
+--color-pill-indicator-checked: #24283b
+--voyager-color-qr-code-background: #24283b
+--m6fa1: light-dark(color-mix(in srgb, #9ece6a 60%, #1a1b26), color-mix(in srgb, #9ece6a 78%, #c0caf5))
+--color-data-h-4: #24283b
+--auyd3: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fb6: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auybx: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auydm: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--auybs: light-dark(#c0caf5, #24283b)
+--color-data-c-7: #7aa2f7
+--color-pill-label-checked-hover: #24283b
+--auyab: light-dark(color-mix(in srgb, #f7768e 81%, #c0caf5), color-mix(in srgb, #f7768e 82%, #c0caf5))
+--m6fb2: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fic: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--m6fgo: light-dark(color-mix(in srgb, #7dcfff 62%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fis: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 40%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 45%, transparent))
+--m6fbj3: #24283b
+--auyfa: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--m6fda: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6ff7: light-dark(color-mix(in srgb, #bb9af7 68%, #1a1b26), color-mix(in srgb, #bb9af7 79%, #c0caf5))
+--m6ffa: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--auyjb: light-dark(color-mix(in srgb, #24283b 55%, #c0caf5), color-mix(in srgb, #bb9af7 65%, #c0caf5))
+--m6fh4: light-dark(color-mix(in srgb, #73daca 16%, #1a1b26), color-mix(in srgb, #73daca 89%, #c0caf5))
+--auyb4: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 30%, transparent))
+--m6fbe: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--_0f067603: rgb(0 0 0 / 0.08)
+--auyia: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fck: light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fco: light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent))
+--auyf4: light-dark(color-mix(in srgb, #bb9af7 88%, #1a1b26), color-mix(in srgb, #bb9af7 73%, #c0caf5))
+--m6fa93: #1a1b26
+--auycr: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auyak: light-dark(color-mix(in srgb, #7aa2f7 93%, #1a1b26), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--m6fc1: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fdl: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--_647a9ed3: #c0caf5
+--auyf6: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--auydw: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auyem: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--auyaz: light-dark(color-mix(in srgb, #9ece6a 92%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--m6ffw: light-dark(color-mix(in srgb, #9ece6a 23%, #1a1b26), color-mix(in srgb, #9ece6a 92%, #c0caf5))
+--m6fcl: light-dark(#c0caf5, color-mix(in srgb, #24283b 80%, #c0caf5))
+--m6fbjt: #c0caf5
+--auyjo: light-dark(#c0caf5, color-mix(in srgb, #7aa2f7 13%, #1a1b26))
+--m6fgm: light-dark(color-mix(in srgb, #7aa2f7 58%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--_9d189fe0: rgb(0 0 0 / 0.8)
+--auyav: light-dark(#1a1b26, #1a1b26)
+--c09a5b35: rgb(0 0 0 / 0.16)
+--m6fcm: light-dark(#c0caf5, color-mix(in srgb, #24283b 70%, #c0caf5))
+--auyjp: light-dark(color-mix(in srgb, #7aa2f7 84%, #c0caf5), color-mix(in srgb, #7aa2f7 96%, #c0caf5))
+--color-data-categorical-5: #9ece6a
+--color-button-overlay-container-border-active: rgb(0 0 0 / 0)
+--m6fba: light-dark(color-mix(in srgb, #bb9af7 68%, #1a1b26), color-mix(in srgb, #bb9af7 57%, #c0caf5))
+--auyit: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--m6fae: light-dark(color-mix(in srgb, #f7768e 38%, #1a1b26), color-mix(in srgb, #f7768e 51%, #c0caf5))
+--auyf9: light-dark(color-mix(in srgb, #bb9af7 40%, #1a1b26), color-mix(in srgb, #bb9af7 64%, #c0caf5))
+--m6fo0: rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.16)) 25%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.4)) 50%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.6)) 75%
+--color-qr-code-background: #24283b
+--m6fdr: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fev: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), rgb(0 0 0 / 0.45))
+--auyhn: light-dark(color-mix(in srgb, color-mix(in srgb, #bb9af7 89%, #c0caf5) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #bb9af7 73%, #c0caf5) 30%, transparent))
+--m6fbd: light-dark(color-mix(in srgb, #ff9e64 54%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--artdeco-reset-link-color-blue8: #7aa2f7
+--e0dd6863: #c0caf5
+--_8c363a66: rgb(0 0 0 / 0.75)
+--color-element-solid-on-dark: #c0caf5
+--c99d6c48: #c0caf5
+--white: #24283b
+--auya2: light-dark(color-mix(in srgb, #9ece6a 40%, #1a1b26), color-mix(in srgb, #9ece6a 66%, #c0caf5))
+--auybo: light-dark(color-mix(in srgb, #24283b 25%, #c0caf5), color-mix(in srgb, #24283b 25%, #c0caf5))
+--auya92: rgb(0 0 0 / 0.9)
+--m6fdo: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fbkj: #c0caf5
+--m6fbhh: #7dcfff
+--auygn: light-dark(color-mix(in srgb, #7aa2f7 52%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--auyim: light-dark(color-mix(in srgb, #f7768e 50%, #c0caf5), color-mix(in srgb, #f7768e 26%, #1a1b26))
+--m6fde: light-dark(#c0caf5, #c0caf5)
+--m6fhi: light-dark(color-mix(in srgb, #f7768e 96%, #1a1b26), color-mix(in srgb, #f7768e 81%, #c0caf5))
+--m6fac: light-dark(color-mix(in srgb, #f7768e 96%, #1a1b26), color-mix(in srgb, #f7768e 66%, #c0caf5))
+--auyig: light-dark(color-mix(in srgb, #f7768e 69%, #1a1b26), color-mix(in srgb, #f7768e 75%, #c0caf5))
+--m6fcn: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fay: light-dark(color-mix(in srgb, #9ece6a 76%, #c0caf5), color-mix(in srgb, #24283b 70%, #c0caf5))
+--auyet: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 80%, #c0caf5) 85%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 80%, #c0caf5) 85%, transparent))
+--color-attachment-icon: #24283b
+--auyo0: rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.16)) 25%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.4)) 50%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0.6)) 75%
+--color-background-overlay-active: rgb(0 0 0 / 0.9)
+--m6ff5: light-dark(color-mix(in srgb, #bb9af7 56%, #1a1b26), color-mix(in srgb, #bb9af7 61%, #c0caf5))
+--m6fdw: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fbki: rgb(0 0 0 / 0.92)
+--auya90: rgb(0 0 0 / 0.6)
+--color-qr-code: #c0caf5
+--auyhw: light-dark(color-mix(in srgb, #ff9e64 52%, #1a1b26), color-mix(in srgb, #ff9e64 90%, #c0caf5))
+--m6few: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--voyager-color-background-brand-accent-5-tint: #1a1b26
+--auyeg: light-dark(color-mix(in srgb, #c0caf5 30%, transparent), color-mix(in srgb, #c0caf5 30%, transparent))
+--auyou: rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#c0caf5, #24283b) r g b / calc(alpha * 1)) 100%
+--_3ff8a240: rgb(0 0 0 / 0.89)
+--color-input-label-error: #f7768e
+--color-input-container-border-error: #f7768e
+--m6fa90: rgb(0 0 0 / 0.6)
+--color-shadow: rgb(0 0 0 / 0.3)
+--m6fhq: light-dark(#bb9af7, color-mix(in srgb, #bb9af7 79%, #c0caf5))
+--auyij: light-dark(color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #f7768e 95%, #c0caf5) 15%, transparent))
+--color-background-neutral-strong: #1a1b26
+--m6fh6: light-dark(color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 15%, transparent))
+--auyaw: light-dark(color-mix(in srgb, #9ece6a 53%, #c0caf5), #24283b)
+--auydp: light-dark(color-mix(in srgb, #ff9e64 68%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--color-border-grid: #1a1b26
+--blue-70: #7aa2f7
+--m6fhg: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 68%, #1a1b26))
+--auyey: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fge: light-dark(color-mix(in srgb, #f7768e 67%, #1a1b26), color-mix(in srgb, #f7768e 66%, #c0caf5))
+--color-data-divergent-status-b-7: #7aa2f7
+--auyf2: light-dark(color-mix(in srgb, #7dcfff 24%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--m6fg1: light-dark(color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #24283b 40%, #c0caf5) 25%, transparent))
+--auyow: rgb(from light-dark(color-mix(in srgb, #ff9e64 54%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(color-mix(in srgb, #ff9e64 65%, #c0caf5), color-mix(in srgb, #bb9af7 26%, #1a1b26)) r g b / calc(alpha * 1)) 100%
+--auyc0: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--m6fdm: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--color-label-checked-hover: #24283b
+--auyh2: light-dark(color-mix(in srgb, #ff9e64 52%, #c0caf5), color-mix(in srgb, #ff9e64 20%, #1a1b26))
+--color-icon-nav-on-dark-active: #c0caf5
+--auyo1: rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), color-mix(in srgb, #c0caf5 75%, transparent)) r g b / calc(alpha * 0)) 100%
+--color-data-progress-negative: #f7768e
+--m6f2: light-dark(color-mix(in srgb, #7dcfff 80%, #c0caf5), color-mix(in srgb, #24283b 55%, #c0caf5))
+--m6fi4: light-dark(#1a1b26, #c0caf5)
+--system-gray-20: #1a1b26
+--m6fi0: light-dark(color-mix(in srgb, #bb9af7 88%, #1a1b26), color-mix(in srgb, #bb9af7 73%, #c0caf5))
+--auyjf: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, color-mix(in srgb, #73daca 52%, #1a1b26) 15%, transparent))
+--black: #c0caf5
+--m6f0: light-dark(color-mix(in srgb, #7dcfff 55%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--auygt: light-dark(color-mix(in srgb, #bb9af7 51%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fi8: light-dark(color-mix(in srgb, #ff9e64 44%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fai: light-dark(color-mix(in srgb, #7aa2f7 68%, #c0caf5), color-mix(in srgb, #24283b 40%, #c0caf5))
+--m6fdv: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--color-input-label-checked-hover: #24283b
+--auyam: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 52%, #c0caf5))
+--d0f9f89d: rgb(0 0 0 / 0.75)
+--auybjs: #c0caf5
+--_377c6bfb: #1a1b26
+--auyis: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 40%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 93%, #1a1b26) 45%, transparent))
+--m6fib: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--m6fdt: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auycy: light-dark(rgb(0 0 0 / 0.45), color-mix(in srgb, #c0caf5 45%, transparent))
+--m6fb8: light-dark(color-mix(in srgb, #c0caf5 60%, transparent), rgb(0 0 0 / 0.6))
+--m6fgb: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--m6fbj8: rgb(0 0 0 / 0.08)
+--_20f210f0: rgb(0 0 0 / 0.3)
+--auyg2: light-dark(color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 10%, transparent), color-mix(in srgb, color-mix(in srgb, #7dcfff 68%, #1a1b26) 15%, transparent))
+--auy0: light-dark(color-mix(in srgb, #7dcfff 55%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fbj9: rgb(0 0 0 / 0.16)
+--auyhd: light-dark(color-mix(in srgb, #f7768e 69%, #1a1b26), color-mix(in srgb, #f7768e 75%, #c0caf5))
+--reactions-color-content-love: #f7768e
+--auyjg: light-dark(color-mix(in srgb, #73daca 32%, #1a1b26), color-mix(in srgb, #73daca 81%, #1a1b26))
+--auybgh: #c0caf5
+--m6fal: light-dark(color-mix(in srgb, #7aa2f7 63%, #1a1b26), color-mix(in srgb, #7aa2f7 58%, #c0caf5))
+--_9ff8e09a: rgb(0 0 0 / 0)
+--m6ff9: light-dark(color-mix(in srgb, #bb9af7 40%, #1a1b26), color-mix(in srgb, #bb9af7 64%, #c0caf5))
+--auyek: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--auybj5: rgb(0 0 0 / 0)
+--auyb7: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auyjc: light-dark(color-mix(in srgb, #7dcfff 44%, #1a1b26), color-mix(in srgb, #7dcfff 80%, #c0caf5))
+--auycd: light-dark(color-mix(in srgb, #ff9e64 80%, #c0caf5), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fg7: light-dark(color-mix(in srgb, #bb9af7 20%, transparent), color-mix(in srgb, #bb9af7 25%, transparent))
+--m6feq: light-dark(color-mix(in srgb, #7aa2f7 36%, #1a1b26), color-mix(in srgb, #7aa2f7 68%, #c0caf5))
+--m6fdf: light-dark(#c0caf5, #c0caf5)
+--auycg: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #f7768e 67%, #c0caf5))
+--m6fc0: light-dark(#c0caf5, rgb(0 0 0 / 0.9))
+--auya5: light-dark(color-mix(in srgb, #bb9af7 50%, #c0caf5), color-mix(in srgb, #24283b 80%, #c0caf5))
+--bfc03626: #c0caf5
+--color-element-on-dark: #c0caf5
+--auybd: light-dark(color-mix(in srgb, #ff9e64 54%, #c0caf5), color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fhl: light-dark(color-mix(in srgb, color-mix(in srgb, #7aa2f7 36%, #1a1b26) 30%, transparent), color-mix(in srgb, color-mix(in srgb, #7aa2f7 68%, #c0caf5) 30%, transparent))
+--auyjq: light-dark(color-mix(in srgb, #7aa2f7 84%, #c0caf5), color-mix(in srgb, #7aa2f7 96%, #c0caf5))
+--auy4: light-dark(color-mix(in srgb, #7dcfff 68%, #1a1b26), color-mix(in srgb, #7dcfff 73%, #c0caf5))
+--auyge: light-dark(color-mix(in srgb, #f7768e 67%, #1a1b26), color-mix(in srgb, #f7768e 66%, #c0caf5))
+--m6ffj: light-dark(#c0caf5, #c0caf5)
+--m6ffr: light-dark(color-mix(in srgb, #ff9e64 26%, #1a1b26), color-mix(in srgb, #ff9e64 80%, #c0caf5))
+--m6fgv: light-dark(color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 20%, transparent), color-mix(in srgb, color-mix(in srgb, #ff9e64 68%, #1a1b26) 25%, transparent))
+--auybj9: rgb(0 0 0 / 0.16)
+--color-background-neutral-soft: #1a1b26
+--m6fff: light-dark(rgb(0 0 0 / 0.3), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6ff0: light-dark(color-mix(in srgb, #24283b 80%, #c0caf5), color-mix(in srgb, #7aa2f7 69%, #c0caf5))
+--_6dec5cea: rgb(0 0 0 / 0.04)
+--m6fdi: light-dark(rgb(0 0 0 / 0.9), color-mix(in srgb, #c0caf5 90%, transparent))
+--color-button-overlay-container-border: rgb(0 0 0 / 0)
+--m6fbbi: #c0caf5
+--m6ffb: light-dark(#1a1b26, color-mix(in srgb, #24283b 12%, #c0caf5))
+--a56a0acd: rgb(0 0 0 / 0.16)
+--m6fbhw: #c0caf5
+--m6fif: light-dark(#1a1b26, #c0caf5)
+--color-background-container: #24283b
+--m6fce: light-dark(color-mix(in srgb, #ff9e64 96%, #1a1b26), color-mix(in srgb, #ff9e64 96%, #1a1b26))
+--auych: light-dark(color-mix(in srgb, #24283b 70%, #c0caf5), color-mix(in srgb, #f7768e 57%, #c0caf5))
+--_39af3d4f: rgb(0 0 0 / 0)
+--color-text: #c0caf5
+--warm-gray-30: #1a1b26
+--auyin: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fa8: light-dark(color-mix(in srgb, #bb9af7 79%, #c0caf5), color-mix(in srgb, #bb9af7 82%, #c0caf5))
+--auycn: light-dark(#c0caf5, color-mix(in srgb, #24283b 92%, #c0caf5))
+--m6fjb: light-dark(color-mix(in srgb, #24283b 55%, #c0caf5), color-mix(in srgb, #bb9af7 65%, #c0caf5))
+--m6feg: light-dark(color-mix(in srgb, #c0caf5 30%, transparent), color-mix(in srgb, #c0caf5 30%, transparent))
+--m6fh1: light-dark(color-mix(in srgb, #ff9e64 60%, #c0caf5), color-mix(in srgb, #ff9e64 31%, #1a1b26))
+--m6ffn: light-dark(color-mix(in srgb, #c0caf5 45%, transparent), color-mix(in srgb, #c0caf5 45%, transparent))
