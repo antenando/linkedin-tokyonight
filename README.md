@@ -89,3 +89,7 @@ Firefox 120+, Safari 17.5+.
 ## License
 
 MIT
+
+## Releasing
+
+See [RELEASING.md](RELEASING.md) for the release steps and the userstyles.world listing.
