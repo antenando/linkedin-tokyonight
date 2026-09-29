@@ -165,6 +165,10 @@ def map_light(name, c):
         if l >= 0.88:
             return with_alpha("var(--ln-bg)", a)
         return with_alpha(ramp_token(1 - l), a)
+    if l >= 0.85:
+        # pale tints (the selected conversation, soft badges) stay a visible
+        # tint of the card instead of sinking into the page background
+        return with_alpha(f"color-mix(in srgb, var(--ln-{accent_for(h * 360)}) 14%, var(--ln-card))", a)
     return with_alpha(chromatic(h * 360, 1 - l), a)
 
 
@@ -194,27 +198,38 @@ def hashed_block(css):
     return out
 
 
-def dump_block(skip):
-    """Palette colours seen only on signed-in pages, from probe.js reports.
+def is_hashed(name):
+    """Hashed names never contain a hyphen: --_5fa42b79, --m6fbar, --auybiw"""
+    bare = name[2:].lstrip("_")
+    return "-" not in bare and bare not in ("white", "black")
 
-    Signed-in pages load bundles that the public pages do not, and those carry
-    their own hashed names. A report lists them. Only the first report that
-    names a token counts, oldest file first, so a later report taken with the
-    style on cannot feed Tokyo Night values back in
+
+def dump_block(skip):
+    """Colours seen only on signed-in pages, from probe.js reports.
+
+    Signed-in pages load bundles that the public pages do not: more hashed
+    palettes, and the older app's named tokens (--white, --voyager-*). Hashed
+    ones are palette colours picked by light-dark(), so they map as dark.
+    Named ones hold the light theme, so they invert. Only the first report
+    that names a token counts, oldest file first, so a later report taken
+    with the style on cannot feed Tokyo Night values back in
     """
     files = sorted(glob.glob(os.path.join(HERE, "dumps", "*.txt")), key=os.path.getmtime)
-    seen, out = set(), []
+    seen, hashed, named = set(), [], []
     for path in files:
         for line in open(path, encoding="utf-8"):
-            m = re.match(r"(--_?[0-9a-f]{8}):\s*(.+?);?\s*$", line)
+            m = re.match(r"(--[\w-]+):\s*(.+?);?\s*$", line)
             if not m or m.group(1) in skip or m.group(1) in seen:
                 continue
-            c = parse_color(m.group(2))
+            name, c = m.group(1), parse_color(m.group(2))
             if c is None:
                 continue
-            seen.add(m.group(1))
-            out.append(f"  {m.group(1)}: {map_dark(c)} !important;")
-    return files, out
+            seen.add(name)
+            if is_hashed(name):
+                hashed.append(f"  {name}: {map_dark(c)} !important;")
+            else:
+                named.append(f"  {name}: {map_light(name, c)} !important;")
+    return files, hashed, named
 
 
 def splice(text, tag, lines):
@@ -235,11 +250,12 @@ def main():
                                       lambda c: "light-dark(" in c)
     named = named_block(named_css, skip)
     hashed = hashed_block(hashed_css)
-    hashed_names = {line.split(":")[0].strip() for line in hashed}
-    dump_files, signed_in = dump_block(skip | hashed_names)
-    print(f"named:     {len(named):4d} tokens from {named_url}")
+    public = {line.split(":")[0].strip() for line in named + hashed}
+    dump_files, signed_in, signed_in_named = dump_block(skip | public)
+    named += signed_in_named
+    print(f"named:     {len(named):4d} tokens, {len(signed_in_named)} of them from signed-in reports")
     print(f"hashed:    {len(hashed):4d} tokens from {hashed_url}")
-    print(f"signed-in: {len(signed_in):4d} tokens from {len(dump_files)} report(s) in tools/dumps/")
+    print(f"signed-in: {len(signed_in):4d} hashed tokens from {len(dump_files)} report(s) in tools/dumps/")
 
     text = splice(text, "NAMED", named)
     text = splice(text, "HASHED", hashed)

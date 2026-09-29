@@ -43,11 +43,38 @@
     }
   }
 
+  // notification counters: small, saturated red boxes, whatever their class
+  out.push('', 'RED BADGES');
+  const toHsl = c => {
+    const [r, g, b] = nums(c).map(v => v / 255);
+    const mx = Math.max(r, g, b), mn = Math.min(r, g, b), l = (mx + mn) / 2, d = mx - mn;
+    if (!d) return [0, 0, l];
+    const s = d / (1 - Math.abs(2 * l - 1));
+    const h = mx === r ? 60 * (((g - b) / d) % 6) : mx === g ? 60 * ((b - r) / d + 2) : 60 * ((r - g) / d + 4);
+    return [(h + 360) % 360, s, l];
+  };
+  let badges = 0;
+  for (const [root, label] of roots) {
+    for (const el of root.querySelectorAll('*')) {
+      const r = el.getBoundingClientRect();
+      if (!r.width || r.width > 40 || r.height > 30) continue;
+      const cs = (el.ownerDocument.defaultView || window).getComputedStyle(el);
+      if (nums(cs.backgroundColor)[3] === 0) continue;
+      const [h, s] = toHsl(cs.backgroundColor);
+      if (s < 0.5 || (h > 20 && h < 330)) continue;
+      const chain = [];
+      for (let e = el; e && chain.length < 4; e = e.parentElement) chain.push(`${e.tagName.toLowerCase()}.${[...e.classList].slice(0, 4).join('.')}`);
+      out.push(`${label} ${chain.join(' < ')}\n    bg=${cs.backgroundColor} color=${cs.color} ${Math.round(r.width)}x${Math.round(r.height)} text="${el.textContent.trim().slice(0, 5)}"`);
+      if (++badges > 20) break;
+    }
+  }
+
   // the app runs inside a same-origin iframe, so read every document
   out.push('', 'DUMP');
   const dumped = new Set();
   for (const [root] of roots) {
-    if (!(root instanceof root.defaultView?.Document) || !root.documentElement) continue;
+    // shadow roots have no window; only documents carry the palette
+    if (root.nodeType !== Node.DOCUMENT_NODE || !root.documentElement) continue;
     const cs = root.defaultView.getComputedStyle(root.documentElement);
     for (let i = 0; i < cs.length; i++) {
       const n = cs[i];

@@ -39,14 +39,24 @@ Configurable from the Stylus style settings:
 | Card background | `#24283b` |
 | Body text | `#c0caf5` |
 | Links and actions | `#7aa2f7` |
+| Notification badge | `#ff2a55` (neon red, with a glow) |
 
 The whole grey ramp is derived from these through `color-mix()`, so retinting the
 background or the text retints every grey on the site.
 
+## What is stable and what is not
+
+- **Stable:** the named tokens, the forced dark scheme and the few class rules. Messaging,
+  notifications and the top bar run in LinkedIn's older app, which uses named tokens, so
+  those stay Tokyo Night across LinkedIn releases.
+- **Best effort:** the hashed tokens. LinkedIn renames them on every build, often within
+  days. While they match, the newer pages are full Tokyo Night. When they stop matching,
+  those pages fall back to LinkedIn's own dark palette: dark and readable, but warm grey
+  instead of Tokyo Night.
+
 ## When LinkedIn changes its CSS
 
-The hashed token names can change when LinkedIn ships a new build. The symptom is that the
-newer pages go back to LinkedIn's own colours. To fix it:
+To refresh the hashed tokens:
 
 ```sh
 python tools/linkedin-tokyonight-gen.py
