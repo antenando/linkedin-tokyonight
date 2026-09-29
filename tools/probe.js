@@ -39,8 +39,29 @@
       if (seen.has(key)) continue;
       seen.add(key);
       out.push(`${key}\n    bg=${cs.backgroundColor} scheme=${cs.colorScheme} ${Math.round(r.width)}x${Math.round(r.height)}`);
+      // name the variables that produce this colour: a child inherits them
+      const doc = el.ownerDocument, probe = doc.createElement('i');
+      probe.style.cssText = 'position:absolute;width:0;height:0;';
+      el.appendChild(probe);
+      const pcs = doc.defaultView.getComputedStyle(probe), via = [];
+      for (let i = 0; i < cs.length; i++) {
+        const n = cs[i];
+        if (!n.startsWith('--')) continue;
+        probe.style.backgroundColor = `var(${n})`;
+        if (pcs.backgroundColor === cs.backgroundColor) via.push(n);
+      }
+      probe.remove();
+      // readable names first: they are the stable ones worth fixing
+      via.sort((a, b) => (a.slice(2).includes('-') ? 0 : 1) - (b.slice(2).includes('-') ? 0 : 1));
+      out.push(`    vars(${via.length})=[${via.slice(0, 30).join(' ')}]`);
       if (seen.size > 80) break;
     }
+  }
+
+  // the stylesheets are public, so the generator and fixes can read them offline
+  out.push('', 'STYLESHEETS');
+  for (const [root, label] of roots) {
+    for (const s of root.styleSheets || []) if (s.href) out.push(`${label} ${s.href}`);
   }
 
   // notification counters: small, saturated red boxes, whatever their class

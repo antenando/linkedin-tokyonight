@@ -1,0 +1,542 @@
+--a82f9f88: #c0caf5
+--color-new: #7aa2f7
+--m6fbda: #c0caf5
+--artdeco-button-primary-inverse-hover-background-color: #c0caf5
+--_80a33818: #c0caf5
+--b55e230d: #c0caf5
+--color-button-label-tertiary-emphasis: #7aa2f7
+--color-progress-loading: #7aa2f7
+--color-data-label-caution: #24283b
+--color-shadow-on-dark: rgb(0 0 0 / 0.6)
+--color-input-date-label-checked-hover: #24283b
+--artdeco-reset-link-color-blue7: #7aa2f7
+--m6fbce: #c0caf5
+--auybkg: rgb(0 0 0 / 0.88)
+--color-label-current: #24283b
+--color-presence-indicator-offline: #24283b
+--color-background-container-dark: #24283b
+--auybgx: #c0caf5
+--m6fbjs: #c0caf5
+--color-action: #7aa2f7
+--_28217223: #c0caf5
+--color-background-offset: #1a1b26
+--color-label-current-hover: #24283b
+--color-pill-container-count: #24283b
+--m6fbcd: #1a1b26
+--voyager-color-background-attachment-ppt: #f7768e
+--color-link-active: #7dcfff
+--color-button-container-primary: #7aa2f7
+--color-pill-indicator-checked-hover: #24283b
+--_683802f0: rgb(0 0 0 / 0.89)
+--color-data-label-positive: #24283b
+--color-text-brand: #7aa2f7
+--auya93: #1a1b26
+--system-gray-30: #1a1b26
+--_8b119452: rgb(0 0 0 / 0.03)
+--auybi7: #c0caf5
+--color-logo-mono: #c0caf5
+--m6fbkg: rgb(0 0 0 / 0.88)
+--color-accent-2: #f7768e
+--_922e6862: #c0caf5
+--color-button-container-primary-active: #7dcfff
+--color-border-gap-on-dark: rgb(0 0 0 / 0.6)
+--m6fbfi: #c0caf5
+--color-background-canvas-dark-tint: #24283b
+--post-color-icon-promoted-ct-neutral-on-dark: #c0caf5
+--d6353b99: rgb(0 0 0 / 0.16)
+--color-button-icon-primary-hover: #24283b
+--_4d4ff6c2: rgb(0 0 0 / 0.56)
+--auybj8: rgb(0 0 0 / 0.08)
+--color-input-icon-error: #f7768e
+--_2c138134: #c0caf5
+--color-button-icon-primary: #24283b
+--m6fbbh: #24283b
+--color-data-e-6: #9ece6a
+--e5e2faa5: rgb(0 0 0 / 0.58)
+--m6fbgh: #c0caf5
+--auybem: #c0caf5
+--color-shadow-border: rgb(0 0 0 / 0.16)
+--auyba1: #1a1b26
+--auybe2: #c0caf5
+--babae1d9: rgb(0 0 0 / 0.92)
+--post-color-background-container-icon-promoted-ct-1: #7aa2f7
+--color-background-solid-disabled: #1a1b26
+--m6fbf0: #1a1b26
+--_36b745c7: #c0caf5
+--color-data-sequential-c-7: #7aa2f7
+--color-input-indicator-checked-hover: #24283b
+--auybhh: #7dcfff
+--m6fbdq: #c0caf5
+--color-background-canvas: #1a1b26
+--f6d78a50: #c0caf5
+--m6fbkf: rgb(0 0 0 / 0.84)
+--color-container-alert: #f7768e
+--_82d2d049: rgb(0 0 0 / 0.56)
+--voyager-color-background-comment: #1a1b26
+--color-container-new: #7aa2f7
+--artdeco-button-primary-inverse-static-background-color: #c0caf5
+--color-link-hover: #7dcfff
+--color-button-overlay-container-loading: #1a1b26
+--artdeco-reset-forms-input-blue: #7aa2f7
+--auybki: rgb(0 0 0 / 0.92)
+--color-text-shift-on-dark-flip: #c0caf5
+--voyager-color-background-overlay-active: rgb(0 0 0 / 0.9)
+--color-coach-prompt-contextual-background: #1a1b26
+--_5099381f: #24283b
+--e78fe0a7: rgb(0 0 0 / 0.84)
+--color-brand-alt: #c0caf5
+--voyager-color-action: #7aa2f7
+--auybkb: rgb(0 0 0 / 0.47)
+--auybkf: rgb(0 0 0 / 0.84)
+--color-input-helper-error: #f7768e
+--_51847ae2: rgb(0 0 0 / 0.45)
+--color-label-checked: #24283b
+--color-indicator-knockout-hover: #24283b
+--artdeco-reset-base-get-color-black: #c0caf5
+--_8374064d: rgb(0 0 0 / 0.84)
+--messenger-color-background-input-message-active: #1a1b26
+--m6fa94: #c0caf5
+--_5f29bacd: rgb(0 0 0 / 0.9)
+--color-button-overlay-label-hover: #24283b
+--m6fbj5: rgb(0 0 0 / 0)
+--auybd6: #c0caf5
+--color-logo-brand-alt: #c0caf5
+--white-a100: #24283b
+--m6fbiw: #c0caf5
+--voyager-color-background-coachmark: #24283b
+--m6fbkd: rgb(0 0 0 / 0.58)
+--color-element-shift-on-dark-flip: #c0caf5
+--m6fbfg: #24283b
+--voyager-color-background-attachment-ai: #f7768e
+--color-indicator-knockout: #24283b
+--m6fba0: #24283b
+--auybbh: #24283b
+--m6fbdv: #bb9af7
+--m6fa91: rgb(0 0 0 / 0.75)
+--stories-color-element-accent-2-darker: #f7768e
+--auybh9: #24283b
+--auybdq: #c0caf5
+--system-gray-40: #24283b
+--black-a100: #c0caf5
+--color-pill-container-count-hover: #24283b
+--auybf0: #1a1b26
+--data-viz-color-accent-5: #9ece6a
+--color-background-brand-accent-5: #1a1b26
+--color-data-divergent-status-a-7: #f7768e
+--m6fbgx: #c0caf5
+--post-color-background-container-promoted-ct-neutral: #1a1b26
+--color-button-overlay-container-border-hover: rgb(0 0 0 / 0.9)
+--color-container-brand: #7aa2f7
+--_619065d0: #24283b
+--auybjt: #c0caf5
+--auybhv: #c0caf5
+--auybke: rgb(0 0 0 / 0.8)
+--color-data-progress-accent-2: #f7768e
+--color-label-knockout-hover: #24283b
+--auybce: #c0caf5
+--color-entity-ghost-background: #1a1b26
+--color-element-solid-shift-on-dark-flip: #c0caf5
+--m6fbjr: #c0caf5
+--_98cc4601: #bb9af7
+--color-data-icon-negative: #f7768e
+--m6fa9h: #c0caf5
+--color-data-b-7: #f7768e
+--m6fba1: #1a1b26
+--auya9z: rgb(0 0 0 / 0.45)
+--color-scrim: rgb(0 0 0 / 0.6)
+--a9b4a7da: rgb(0 0 0 / 0.58)
+--color-button-overlay-container-hover: rgb(0 0 0 / 0.9)
+--_66c0402e: #c0caf5
+--color-action-active: #7dcfff
+--_3bf372fc: #24283b
+--color-background-overlay: rgb(0 0 0 / 0.75)
+--voyager-color-qr-code: #c0caf5
+--stories-color-element-accent-4-darker: #7aa2f7
+--auybiw: #c0caf5
+--color-background-container-dark-tint: #24283b
+--color-text-negative: #f7768e
+--color-text-solid-on-dark: #c0caf5
+--color-canvas-tint: #24283b
+--color-badge-label: #24283b
+--color-loading: #7aa2f7
+--artdeco-button-primary-default-hover-color: #24283b
+--color-data-icon-accent-2: #f7768e
+--m6fbj7: rgb(0 0 0 / 0.04)
+--m6fbkb: rgb(0 0 0 / 0.47)
+--color-background-overlay-hover: rgb(0 0 0 / 0.9)
+--auyba0: #24283b
+--a1b17250: rgb(0 0 0 / 0.45)
+--color-button-container-secondary-emphasis-border: #7aa2f7
+--color-border-knockout-hover: #24283b
+--color-icon-accent-2: #f7768e
+--color-button-container-primary-hover: #7dcfff
+--auybda: #c0caf5
+--_922d836e: rgb(0 0 0 / 0.47)
+--_781780ff: #24283b
+--_3cc8252c: rgb(0 0 0 / 0.45)
+--stories-color-element-content-consumption-indicator-fill: #24283b
+--artdeco-button-primary-default-static-color: #24283b
+--m6fbe0: #24283b
+--_4a69b034: #7dcfff
+--voyager-color-background-comment-v3: #1a1b26
+--lbp-color-label-knockout: #24283b
+--m6fbj2: #1a1b26
+--color-link-visited: #bb9af7
+--color-link: #7aa2f7
+--auybdv: #bb9af7
+--messenger-color-background-input-message: #1a1b26
+--voyager-color-action-on-dark: #c0caf5
+--voyager-color-background-input-search-on-dark-active: #24283b
+--color-background: #24283b
+--auya9h: #c0caf5
+--_68615d84: rgb(0 0 0 / 0.6)
+--artdeco-reset-forms-select-focus-border-color: #7aa2f7
+--color-input-date-label-checked: #24283b
+--reactions-color-content-like: #7aa2f7
+--color-input-handle-disabled: #24283b
+--voyager-color-background-overlay: rgb(0 0 0 / 0.6)
+--post-color-text-promoted-ct-1: #7aa2f7
+--color-background-scrim: rgb(0 0 0 / 0.6)
+--color-logo-brand: #7aa2f7
+--m6fbe2: #c0caf5
+--color-button-overlay-label-loading: rgb(0 0 0 / 0.3)
+--m6fbj6: rgb(0 0 0 / 0.03)
+--_2cb9ecd7: rgb(0 0 0 / 0.08)
+--adbebd75: rgb(0 0 0 / 0.6)
+--color-background-knockout-hover: #24283b
+--color-button-overlay-container-active: rgb(0 0 0 / 0.9)
+--auybcd: #1a1b26
+--color-icon-knockout-hover: #24283b
+--auya94: #c0caf5
+--color-canvas: #1a1b26
+--m6fbib: #c0caf5
+--coach-color-background-prompt: #1a1b26
+--auya9x: rgb(0 0 0 / 0.16)
+--live-color-background-like: #24283b
+--fc47e6e7: #24283b
+--auybj3: #24283b
+--e7fd60f8: #c0caf5
+--color-input-indicator-checked: #24283b
+--m6fba2: #c0caf5
+--auybjr: #c0caf5
+--b8bd6503: rgb(0 0 0 / 0.8)
+--color-background-canvas-dark: #1a1b26
+--color-button-overlay-container-disabled: rgb(0 0 0 / 0.08)
+--color-border-gap: #24283b
+--color-pill-icon-checked: #24283b
+--auybib: #c0caf5
+--_88ccb49e: rgb(0 0 0 / 0.04)
+--auya9y: rgb(0 0 0 / 0.3)
+--color-text-accent-2: #f7768e
+--color-element-solid-disabled: #24283b
+--color-data-label-neutral: #24283b
+--color-button-overlay-label: #24283b
+--color-container-accent-2: #f7768e
+--color-icon-knockout: #24283b
+--_317c5191: #c0caf5
+--color-container-negative: #f7768e
+--m6fa9y: rgb(0 0 0 / 0.3)
+--a590d270: #24283b
+--auybkc: rgb(0 0 0 / 0.56)
+--voyager-color-background-overlay-hover: rgb(0 0 0 / 0.75)
+--color-input-switch-ios-indicator: #24283b
+--b32307fb: rgb(0 0 0 / 0.16)
+--m6fbix: #c0caf5
+--b7f1ed78: #c0caf5
+--_1d5285fc: #c0caf5
+--auybj2: #1a1b26
+--auybkh: rgb(0 0 0 / 0.89)
+--_4db40e3a: #c0caf5
+--m6fa92: rgb(0 0 0 / 0.9)
+--live-color-background-comment: #1a1b26
+--color-pill-icon-checked-hover: #24283b
+--_531d4458: #24283b
+--_8b57e317: rgb(0 0 0 / 0.03)
+--warm-red-70: #f7768e
+--auybbi: #c0caf5
+--color-presence-indicator-online: #24283b
+--_32c519c4: rgb(0 0 0 / 0)
+--color-input-switch-ios-indicator-checked: #24283b
+--_3063739c: rgb(0 0 0 / 0.9)
+--_45cc6ea5: rgb(0 0 0 / 0.3)
+--_7347e31a: #24283b
+--m6fa9z: rgb(0 0 0 / 0.45)
+--auybkj: #c0caf5
+--_7722dd23: #c0caf5
+--m6fbkc: rgb(0 0 0 / 0.56)
+--color-button-icon-secondary-emphasis: #7aa2f7
+--_81e87877: #24283b
+--color-button-overlay-icon: #24283b
+--color-button-fab-container-loading: #1a1b26
+--voyager-color-background-attachment-psd: #7aa2f7
+--m6fbkh: rgb(0 0 0 / 0.89)
+--m6fbhu: rgb(0 0 0 / 0)
+--_26c0752c: rgb(0 0 0 / 0.45)
+--voyager-color-background-coachmark-on-dark: #24283b
+--color-divider-solid: #1a1b26
+--auybka: rgb(0 0 0 / 0.45)
+--m6fbem: #c0caf5
+--color-text-on-dark-flip: #c0caf5
+--m6fbhv: #c0caf5
+--e8e1c484: #1a1b26
+--reactions-color-text-love: #f7768e
+--color-background-canvas-mobile: #1a1b26
+--color-input-label-checked: #24283b
+--m6fbam: #c0caf5
+--color-pill-indicator-checked: #24283b
+--voyager-color-qr-code-background: #24283b
+--color-canvas-mobile: #1a1b26
+--auybfi: #c0caf5
+--color-data-h-4: #24283b
+--lbp-color-background: #24283b
+--color-data-c-7: #7aa2f7
+--color-pill-label-checked-hover: #24283b
+--color-button-overlay-icon-disabled: rgb(0 0 0 / 0.3)
+--m6fbj3: #24283b
+--color-icon-negative: #f7768e
+--_0f067603: rgb(0 0 0 / 0.08)
+--voyager-color-background-badge-new: #7aa2f7
+--color-brand: #7aa2f7
+--m6fa93: #1a1b26
+--_647a9ed3: #c0caf5
+--color-button-label-primary-hover: #24283b
+--voyager-color-action-stick: #7aa2f7
+--m6fbjt: #c0caf5
+--m6fbh9: #24283b
+--color-button-icon-tertiary-emphasis: #7aa2f7
+--_9d189fe0: rgb(0 0 0 / 0.8)
+--m6fbfj: #c0caf5
+--c09a5b35: rgb(0 0 0 / 0.16)
+--auybam: #c0caf5
+--f2c833d8: #1a1b26
+--color-data-categorical-5: #9ece6a
+--color-data-h-3: #1a1b26
+--color-data-label-negative: #24283b
+--color-button-overlay-label-disabled: rgb(0 0 0 / 0.3)
+--color-qr-code-background: #24283b
+--auybe0: #24283b
+--_8718c30b: #1a1b26
+--color-border-knockout: #24283b
+--artdeco-reset-link-color-blue8: #7aa2f7
+--auybfj: #c0caf5
+--e0dd6863: #c0caf5
+--_51373ae0: rgb(0 0 0 / 0)
+--_8c363a66: rgb(0 0 0 / 0.75)
+--color-element-solid-on-dark: #c0caf5
+--c99d6c48: #c0caf5
+--color-signal-negative: #f7768e
+--color-icon-brand: #7aa2f7
+--white: #24283b
+--auybj7: rgb(0 0 0 / 0.04)
+--auya92: rgb(0 0 0 / 0.9)
+--dc4a0957: rgb(0 0 0 / 0.47)
+--m6fa9x: rgb(0 0 0 / 0.16)
+--m6fbkj: #c0caf5
+--m6fbhh: #7dcfff
+--_291d5795: rgb(0 0 0 / 0.88)
+--m6fbke: rgb(0 0 0 / 0.8)
+--_9178d329: #c0caf5
+--color-data-container-negative: #f7768e
+--post-color-icon-promoted-ct-1: #7aa2f7
+--color-attachment-label: #24283b
+--auybkd: rgb(0 0 0 / 0.58)
+--color-attachment-icon: #24283b
+--eb7cbc1c: #c0caf5
+--color-background-overlay-active: rgb(0 0 0 / 0.9)
+--m6fbki: rgb(0 0 0 / 0.92)
+--auya90: rgb(0 0 0 / 0.6)
+--color-qr-code: #c0caf5
+--voyager-color-background-brand-accent-5-tint: #1a1b26
+--_3ff8a240: rgb(0 0 0 / 0.89)
+--lime-60: #9ece6a
+--color-input-label-error: #f7768e
+--color-button-overlay-icon-hover: #24283b
+--color-input-container-border-error: #f7768e
+--auybfg: #24283b
+--m6fa90: rgb(0 0 0 / 0.6)
+--color-shadow: rgb(0 0 0 / 0.3)
+--color-background-neutral-strong: #1a1b26
+--_3e557906: #24283b
+--color-button-label-secondary-emphasis: #7aa2f7
+--color-border-grid: #1a1b26
+--blue-70: #7aa2f7
+--color-search-input-background: #1a1b26
+--color-data-divergent-status-b-7: #7aa2f7
+--auyba2: #c0caf5
+--color-logo-brand-lockup-alt: #c0caf5
+--color-button-label-primary: #24283b
+--_5ba0532e: #c0caf5
+--m6fbi7: #c0caf5
+--color-label-knockout: #24283b
+--color-label-checked-hover: #24283b
+--color-container-primary: #7aa2f7
+--color-icon-nav-on-dark-active: #c0caf5
+--reactions-color-text-like: #7aa2f7
+--color-data-progress-negative: #f7768e
+--system-gray-20: #1a1b26
+--black: #c0caf5
+--m6fbd6: #c0caf5
+--auya91: rgb(0 0 0 / 0.75)
+--color-input-label-checked-hover: #24283b
+--d0f9f89d: rgb(0 0 0 / 0.75)
+--color-data-h-2: #1a1b26
+--auybjs: #c0caf5
+--_377c6bfb: #1a1b26
+--_61ba2fe8: #24283b
+--color-background-canvas-tint: #24283b
+--_8985247a: rgb(0 0 0 / 0.88)
+--m6fbj8: rgb(0 0 0 / 0.08)
+--c5034668: #1a1b26
+--_20f210f0: rgb(0 0 0 / 0.3)
+--color-surface: #24283b
+--m6fbj9: rgb(0 0 0 / 0.16)
+--warm-gray-20: #1a1b26
+--reactions-color-content-love: #f7768e
+--m6fbka: rgb(0 0 0 / 0.45)
+--auybgh: #c0caf5
+--auybix: #c0caf5
+--_9ff8e09a: rgb(0 0 0 / 0)
+--color-text-solid: #c0caf5
+--auybj5: rgb(0 0 0 / 0)
+--color-background-knockout: #24283b
+--_219a90ac: #24283b
+--auybj6: rgb(0 0 0 / 0.03)
+--e5155c32: rgb(0 0 0 / 0.92)
+--color-background-scrim-dark: rgb(0 0 0 / 0.9)
+--color-pill-label-checked: #24283b
+--f57b9c8d: #c0caf5
+--_1eb6b417: #c0caf5
+--color-button-overlay-container: rgb(0 0 0 / 0.75)
+--bfc03626: #c0caf5
+--auybhu: rgb(0 0 0 / 0)
+--color-element-on-dark: #c0caf5
+--auybj9: rgb(0 0 0 / 0.16)
+--color-background-neutral-soft: #1a1b26
+--auybhw: #c0caf5
+--_6dec5cea: rgb(0 0 0 / 0.04)
+--m6fbbi: #c0caf5
+--a56a0acd: rgb(0 0 0 / 0.16)
+--m6fbhw: #c0caf5
+--color-background-container: #24283b
+--voyager-color-action-on-dark-hover: #c0caf5
+--color-text: #c0caf5
+--_39af3d4f: rgb(0 0 0 / 0)
+--ddb0a6cb: #c0caf5
+--warm-gray-30: #1a1b26
+--color-coach-prompt-contextual-background-hover: #1a1b26
+--color-container-accent-border-6-active: rgba(0, 0, 0, 0)
+--color-container-border-current: rgba(0, 0, 0, 0)
+--color-container-border-checked-active: rgba(0, 0, 0, 0)
+--color-container-accent-border-4: rgba(0, 0, 0, 0)
+--color-button-container-tertiary-border-loading: rgba(0, 0, 0, 0)
+--color-input-date-container-border: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-3: #ffdfd6
+--color-button-container-tertiary-emphasis-border-active: rgba(0, 0, 0, 0)
+--color-container-brand-border-active: rgba(0, 0, 0, 0)
+--color-input-handle-border: rgba(0, 0, 0, 0)
+--color-container-tertiary: rgba(0, 0, 0, 0)
+--color-container-negative-border-active: rgba(0, 0, 0, 0)
+--color-button-container-secondary-emphasis-border-disabled: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-2: #c1edf4
+--color-button-container-tertiary-emphasis-border-loading: rgba(0, 0, 0, 0)
+--color-container-accent-border-3: rgba(0, 0, 0, 0)
+--color-input-date-container-border-checked: rgba(0, 0, 0, 0)
+--color-pill-container-border-checked-disabled: rgba(0, 0, 0, 0)
+--color-container-border-checked: rgba(0, 0, 0, 0)
+--color-button-container-primary-border: rgba(0, 0, 0, 0)
+--color-container-secondary: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-5: #e2eca8
+--color-container-accent-border-2-active: rgba(0, 0, 0, 0)
+--color-container-border-current-active: rgba(0, 0, 0, 0)
+--color-input-android-container-disabled: rgba(0, 0, 0, 0)
+--color-button-overlay-container-border-loading: rgba(0, 0, 0, 0)
+--color-input-switch-ios-container-border-checked-disabled: rgba(0, 0, 0, 0)
+--color-input-date-container-border-checked-active: rgba(0, 0, 0, 0)
+--color-container-accent-border-1: rgba(0, 0, 0, 0)
+--color-input-date-container-opposite-checked-disabled: rgba(0, 0, 0, 0)
+--color-button-container-tertiary-emphasis-border-disabled: rgba(0, 0, 0, 0)
+--color-input-container-border-checked-active: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-6: #dde7f1
+--color-button-container-tertiary-emphasis: rgba(0, 0, 0, 0)
+--color-button-container-primary-border-disabled: rgba(0, 0, 0, 0)
+--color-input-container: rgba(0, 0, 0, 0)
+--color-container-alt-border-current: rgba(0, 0, 0, 0)
+--color-input-container-border-checked-disabled: rgba(0, 0, 0, 0)
+--color-button-container-tertiary-border-active: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-8: #fcddfb
+--color-button-overlay-container-border-disabled: rgba(0, 0, 0, 0)
+--color-pill-input-entity-container-border-checked-active: rgba(0, 0, 0, 0)
+--color-container-accent-border-5: rgba(0, 0, 0, 0)
+--color-button-container-tertiary-border: rgba(0, 0, 0, 0)
+--color-container-border-checked-disabled: rgba(0, 0, 0, 0)
+--color-container-positive-border-active: rgba(0, 0, 0, 0)
+--color-pill-container-border-checked-active: rgba(0, 0, 0, 0)
+--color-input-switch-ios-container-border-active: rgba(0, 0, 0, 0)
+--color-input-handle-border-active: rgba(0, 0, 0, 0)
+--color-container-border-current-disabled: rgba(0, 0, 0, 0)
+--color-container-neutral-border-active: rgba(0, 0, 0, 0)
+--color-container-negative-border: rgba(0, 0, 0, 0)
+--color-input-switch-ios-container-border-checked: rgba(0, 0, 0, 0)
+--color-container-secondary-border-disabled: rgba(0, 0, 0, 0)
+--color-input-date-container: rgba(0, 0, 0, 0)
+--tw-ring-color: rgb(59 130 246 / 0.5)
+--color-container-accent-border-3-active: rgba(0, 0, 0, 0)
+--color-input-handle-border-disabled: rgba(0, 0, 0, 0)
+--color-input-container-border-disabled: rgba(0, 0, 0, 0)
+--color-container-primary-border-active: rgba(0, 0, 0, 0)
+--color-container-accent-border-7-active: rgba(0, 0, 0, 0)
+--color-input-container-border-checked: rgba(0, 0, 0, 0)
+--color-input-date-container-opposite-checked: rgba(0, 0, 0, 0)
+--color-container-help-border: rgba(0, 0, 0, 0)
+--color-container-brand-border: rgba(0, 0, 0, 0)
+--color-container-neutral-border: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-7: #fde2bc
+--color-button-container-secondary-border-disabled: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-1: #d2e9ff
+--color-input-date-container-border-disabled: rgba(0, 0, 0, 0)
+--color-button-container-tertiary-border-disabled: rgba(0, 0, 0, 0)
+--color-button-container-secondary-emphasis-border-loading: rgba(0, 0, 0, 0)
+--color-button-container-primary-border-active: rgba(0, 0, 0, 0)
+--color-container-caution-border: rgba(0, 0, 0, 0)
+--color-container-tertiary-border: rgba(0, 0, 0, 0)
+--color-pill-input-entity-container-border-checked-disabled: rgba(0, 0, 0, 0)
+--color-input-container-error: rgba(0, 0, 0, 0)
+--color-pill-container-border-checked: rgba(0, 0, 0, 0)
+--color-container-primary-border-disabled: rgba(0, 0, 0, 0)
+--color-container-alert-border: rgba(0, 0, 0, 0)
+--color-button-container-primary-border-loading: rgba(0, 0, 0, 0)
+--color-container-tertiary-border-active: rgba(0, 0, 0, 0)
+--color-container-new-border: rgba(0, 0, 0, 0)
+--color-container-caution-border-active: rgba(0, 0, 0, 0)
+--color-pill-input-entity-container-border-checked: rgba(0, 0, 0, 0)
+--color-button-overlay-container-border-active: rgba(0, 0, 0, 0)
+--color-container-help-border-active: rgba(0, 0, 0, 0)
+--color-pill-container: rgba(0, 0, 0, 0)
+--color-container-accent-border-7: rgba(0, 0, 0, 0)
+--color-container-alt-current: rgba(0, 0, 0, 0)
+--color-container-alt-border-current-disabled: rgba(0, 0, 0, 0)
+--color-container-accent-border-1-active: rgba(0, 0, 0, 0)
+--color-container-alt-border-current-active: rgba(0, 0, 0, 0)
+--color-container-accent-border-5-active: rgba(0, 0, 0, 0)
+--color-container-accent-border-2: rgba(0, 0, 0, 0)
+--color-input-switch-ios-container-border: rgba(0, 0, 0, 0)
+--color-container-accent-border-4-active: rgba(0, 0, 0, 0)
+--color-button-container-tertiary-emphasis-border: rgba(0, 0, 0, 0)
+--color-pill-container-border-disabled: rgba(0, 0, 0, 0)
+--color-input-date-container-disabled: rgba(0, 0, 0, 0)
+--color-data-categorical-tint-4: #eae6df
+--color-button-container-secondary: rgba(0, 0, 0, 0)
+--color-container-positive-border: rgba(0, 0, 0, 0)
+--color-container-accent-border-6: rgba(0, 0, 0, 0)
+--color-input-date-container-border-checked-disabled: rgba(0, 0, 0, 0)
+--color-input-switch-ios-container-border-disabled: rgba(0, 0, 0, 0)
+--color-button-container-secondary-emphasis: rgba(0, 0, 0, 0)
+--color-container-tertiary-border-disabled: rgba(0, 0, 0, 0)
+--color-container-primary-border: rgba(0, 0, 0, 0)
+--color-input-switch-ios-container-border-checked-active: rgba(0, 0, 0, 0)
+--tw-ring-offset-color: #fff
+--color-button-container-tertiary: rgba(0, 0, 0, 0)
+--color-input-container-border-error-disabled: rgba(0, 0, 0, 0)
+--color-button-container-secondary-border-loading: rgba(0, 0, 0, 0)
+--color-input-date-container-border-active: rgba(0, 0, 0, 0)
+--color-button-overlay-container-border: rgba(0, 0, 0, 0)

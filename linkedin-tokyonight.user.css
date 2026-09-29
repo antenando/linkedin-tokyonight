@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           LinkedIn - Tokyo Night Storm
 @namespace      github.com/antenando
-@version        1.1.0
+@version        1.1.1
 @description    Tokyo Night Storm theme for linkedin.com. Remaps both LinkedIn colour systems (the named design tokens and the newer hashed palette) to Tokyo Night, so every page follows the theme whatever the LinkedIn display setting is.
 @author         antenando (https://github.com/antenando)
 @license        MIT
@@ -1840,6 +1840,122 @@ html, body, .theme--light, .theme--dark, .theme--mercado {
   --reactions-color-content-insightful: color-mix(in srgb, var(--ln-orange) 86%, var(--ln-fg)) !important;
   --color-element-solid-on-dark-disabled: var(--ln-n6) !important;
   --sage-40: color-mix(in srgb, var(--ln-green) 30%, var(--ln-bg)) !important;
+  --color-container-accent-border-6-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-border-current: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-border-checked-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-4: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-tertiary-border-loading: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-3: color-mix(in srgb, var(--ln-red) 14%, var(--ln-card)) !important;
+  --color-button-container-tertiary-emphasis-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-brand-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-handle-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-tertiary: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-negative-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-secondary-emphasis-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-2: color-mix(in srgb, var(--ln-cyan) 14%, var(--ln-card)) !important;
+  --color-button-container-tertiary-emphasis-border-loading: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-3: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-border-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-container-border-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-border-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-primary-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-secondary: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-5: color-mix(in srgb, var(--ln-green) 27%, var(--ln-bg)) !important;
+  --color-container-accent-border-2-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-border-current-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-android-container-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-overlay-container-border-loading: rgb(0 0 0 / 0) !important;
+  --color-input-switch-ios-container-border-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-border-checked-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-1: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-opposite-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-tertiary-emphasis-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container-border-checked-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-6: color-mix(in srgb, var(--ln-blue) 14%, var(--ln-card)) !important;
+  --color-button-container-tertiary-emphasis: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-primary-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-alt-border-current: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container-border-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-tertiary-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-8: color-mix(in srgb, var(--ln-purple) 14%, var(--ln-card)) !important;
+  --color-button-overlay-container-border-disabled: rgb(0 0 0 / 0) !important;
+  --color-pill-input-entity-container-border-checked-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-5: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-tertiary-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-border-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-positive-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-container-border-checked-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-switch-ios-container-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-handle-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-border-current-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-neutral-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-negative-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-switch-ios-container-border-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-secondary-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --tw-ring-color: color-mix(in srgb, color-mix(in srgb, var(--ln-blue) 63%, var(--ln-bg)) 50%, transparent) !important;
+  --color-container-accent-border-3-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-handle-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-primary-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-7-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container-border-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-opposite-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-help-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-brand-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-neutral-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-7: color-mix(in srgb, var(--ln-orange) 14%, var(--ln-card)) !important;
+  --color-button-container-secondary-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-1: color-mix(in srgb, var(--ln-blue) 14%, var(--ln-card)) !important;
+  --color-input-date-container-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-tertiary-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-secondary-emphasis-border-loading: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-primary-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-caution-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-tertiary-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-input-entity-container-border-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container-error: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-container-border-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-primary-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-alert-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-primary-border-loading: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-tertiary-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-new-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-caution-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-input-entity-container-border-checked: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-overlay-container-border-active: rgb(0 0 0 / 0) !important;
+  --color-container-help-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-container: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-7: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-alt-current: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-alt-border-current-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-1-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-alt-border-current-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-5-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-2: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-switch-ios-container-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-4-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-tertiary-emphasis-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-pill-container-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-data-categorical-tint-4: var(--ln-bg) !important;
+  --color-button-container-secondary: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-positive-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-accent-border-6: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-border-checked-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-switch-ios-container-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-secondary-emphasis: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-tertiary-border-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-container-primary-border: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-switch-ios-container-border-checked-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --tw-ring-offset-color: var(--ln-card) !important;
+  --color-button-container-tertiary: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-container-border-error-disabled: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-container-secondary-border-loading: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-input-date-container-border-active: color-mix(in srgb, var(--ln-fg) 0%, transparent) !important;
+  --color-button-overlay-container-border: rgb(0 0 0 / 0) !important;
 /* GENERATED:NAMED:END */
 }
 
@@ -2277,6 +2393,32 @@ input.search-global-typeahead__input {
 }
 input.search-global-typeahead__input::placeholder { color: var(--ln-n8) !important; }
 input.search-global-typeahead__input:focus { border-color: var(--ln-cyan) !important; }
+
+/* LinkedIn paints these with --color-text-on-dark-flip, a token it uses a
+   dozen times as text on dark surfaces. Retinting the token would darken
+   that text, so the two surfaces get the card colour here instead */
+.msg-conversations-container__conversations-list,
+.msg-sponsored-conversation-thread {
+  background-color: var(--ln-card) !important;
+}
+
+/* the sidebar ad is its own about:blank document with inline styles, so
+   no token reaches it */
+div.da {
+  color: var(--ln-fg) !important;
+  background-color: var(--ln-card) !important;
+}
+div.da :is(p, span, h1, h2, h3, div) { color: inherit !important; }
+div.da [class*="tooltip"] { background-color: var(--ln-n4) !important; }
+div.da :is(a, button) {
+  color: var(--ln-blue) !important;
+  background-color: transparent !important;
+  border-color: var(--ln-blue) !important;
+}
+div.da :is(a, button):hover {
+  color: var(--ln-cyan) !important;
+  border-color: var(--ln-cyan) !important;
+}
 
 /* notification counters in the nav and the messaging list: neon red that
    glows, so a new notification is the first thing the eye finds */
