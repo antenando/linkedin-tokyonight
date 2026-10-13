@@ -1,0 +1,1215 @@
+--a82f9f88: #c0caf5
+--gfleh: light-dark(#FCE0B6, #523A51)
+--gflg3: light-dark(rgb(51 153 168 / 0.2), rgb(51 153 168 / 0.25))
+--color-new: #7aa2f7
+--gfleg: light-dark(rgb(255 255 255 / 0.3), rgb(255 255 255 / 0.3))
+--m6fbda: #c0caf5
+--gflfe: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--gfley: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gfla02: #283132
+--artdeco-button-primary-inverse-hover-background-color: #c0caf5
+--gfla5: light-dark(#FFEDFE, #523A51)
+--_80a33818: #c0caf5
+--b55e230d: #c0caf5
+--color-button-label-tertiary-emphasis: #7aa2f7
+--gflgf: light-dark(#1A707E, #94DDE8)
+--gflazs: #FCFAFF
+--color-progress-loading: #7aa2f7
+--color-data-label-caution: #24283b
+--color-shadow-on-dark: rgb(0 0 0 / 0.6)
+--gfliv: light-dark(#004C33, #74E5C0)
+--gflax8: rgb(153 131 177 / 0.2)
+--gflax3: #D9CCE7
+--gflb2: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflcf: light-dark(#C37D16, #C37D16)
+--gfldd: light-dark(#FFFFFF, #FFFFFF)
+--color-input-date-label-checked-hover: #24283b
+--artdeco-reset-link-color-blue7: #7aa2f7
+--m6fbce: #c0caf5
+--gflfg: light-dark(#666666, #B2B2B2)
+--gflaw7: #F4C7BB
+--auybkg: rgb(0 0 0 / 0.88)
+--gfla1c: rgb(140 140 140 / 0.2)
+--color-label-current: #24283b
+--gflazb: #251C24
+--gflaw4: #FDF9F8
+--gfla1v: rgb(15 159 111 / 0.2)
+--gflex: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflcd: light-dark(#F9C982, #F9C982)
+--color-presence-indicator-offline: #24283b
+--color-background-container-dark: #24283b
+--gflaxn: #A7E18B
+--gflgc: light-dark(#715E86, #D9CCE7)
+--auybgx: #c0caf5
+--gflav0: rgb(55 143 233 / 0.3)
+--gflaxr: rgb(95 155 65 / 0.15)
+--gflh0: light-dark(rgb(224 106 26 / 0.2), rgb(224 106 26 / 0.25))
+--m6fbjs: #c0caf5
+--gflawq: #DDE7F1
+--gfla46: rgb(0 65 130 / 0.3)
+--gfle9: light-dark(#666666, #B2B2B2)
+--gflaz3: rgb(168 113 234 / 0.35)
+--gflfa: light-dark(#1F1F1F, #E4E4E4)
+--color-action: #7aa2f7
+--_28217223: #c0caf5
+--gflfb: light-dark(#1F1F1F, #E4E4E4)
+--gflfr: light-dark(#5C3B09, #F9C982)
+--gfla5d: #FFFFFF
+--gflar: light-dark(#C8A1F6, #BDABD2)
+--gflix: light-dark(rgb(15 159 111 / 0.1), rgb(15 159 111 / 0.15))
+--gflayb: rgb(153 131 177 / 0.35)
+--color-background-offset: #1a1b26
+--gfla0f: rgb(123 147 112 / 0.15)
+--gflf7: light-dark(#A734A1, #EA95E5)
+--color-label-current-hover: #24283b
+--gfla5h: #D8D6D5
+--gfla9: light-dark(#D160CB, #E5C8E4)
+--gfleu: light-dark(rgb(0 0 0 / 0.3), rgb(0 0 0 / 0.6))
+--color-pill-container-count: #24283b
+--gflayk: #ACBA5F
+--m6fbcd: #1a1b26
+--voyager-color-background-attachment-ppt: #f7768e
+--gflc6: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--color-link-active: #7dcfff
+--color-button-container-primary: #7aa2f7
+--gfldm: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--color-pill-indicator-checked-hover: #24283b
+--_683802f0: rgb(0 0 0 / 0.89)
+--gfljb: light-dark(#715E86, #D9CCE7)
+--color-data-label-positive: #24283b
+--color-text-brand: #7aa2f7
+--gfla57: rgb(255 255 255 / 0.96)
+--auya93: #1a1b26
+--gflawy: rgb(120 143 165 / 0.3)
+--gflh1: light-dark(#FFDEC8, #702F03)
+--gfle1: light-dark(#FFFFFF, #FFFFFF)
+--gflazc: #FFF8FF
+--gfla0w: rgb(113 145 150 / 0.2)
+--system-gray-30: #1a1b26
+--gflhv: light-dark(rgb(140 140 140 / 0.3), rgb(178 178 178 / 0.3))
+--gflg1: light-dark(rgb(120 143 165 / 0.2), rgb(120 143 165 / 0.25))
+--gfla5f: #F6F4F4
+--gfldx: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--gflavw: rgb(55 143 233 / 0.1)
+--gfljh: light-dark(#004C33, #74E5C0)
+--gfla2c: rgb(224 106 26 / 0.25)
+--gflazi: rgb(209 96 203 / 0.1)
+--gfl3: light-dark(#5EC0CF, #98B8BD)
+--gflawe: rgb(138 143 108 / 0.1)
+--gflbe: light-dark(#FCE0B6, #6E6558)
+--_8b119452: rgb(0 0 0 / 0.03)
+--auybi7: #c0caf5
+--color-logo-mono: #c0caf5
+--gfldw: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--gflawf: rgb(138 143 108 / 0.15)
+--gflak: light-dark(#378FE9, #C2D3E4)
+--gflfd: light-dark(#523A51, #FDC2B1)
+--gfl5: light-dark(#1A707E, #D5E8EA)
+--m6fbkg: rgb(0 0 0 / 0.88)
+--gflh5: light-dark(#004C33, #74E5C0)
+--gflazx: #A871EA
+--color-accent-2: #f7768e
+--gflee: light-dark(#FFFFFF, #FFFFFF)
+--gfljn: light-dark(#AAD6FF, #4A65B0)
+--gfla3b: #1A707E
+--_922e6862: #c0caf5
+--color-button-container-primary-active: #7dcfff
+--gfldz: light-dark(#1F1F1F, #E4E4E4)
+--gflaw5: #FDEFEC
+--color-border-gap-on-dark: rgb(0 0 0 / 0.6)
+--gflawz: rgb(120 143 165 / 0.35)
+--gflavp: #000000
+--gfl9: light-dark(#FFDDD3, #8F5849)
+--gflg9: light-dark(#004182, #AAD6FF)
+--gflal: light-dark(#0A66C2, #DDE7F1)
+--gfla3u: #474139
+--gflazr: #341232
+--gflao: light-dark(#F7EFFF, #493D57)
+--gfla4r: #222E4E
+--m6fbfi: #c0caf5
+--gfla1: light-dark(#85942F, #CFD5AF)
+--gflba: light-dark(#A734A1, #F1DFF0)
+--gflig: light-dark(#CB112D, #FD93A3)
+--gflawp: #EDF3F8
+--gflc7: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflfy: light-dark(#56687A, #9EB5CA)
+--gfla6c: rgb(255 255 255 / 0.39)
+--color-background-canvas-dark-tint: #24283b
+--gfla5v: rgb(0 0 0 / 0.16)
+--gfla2a: rgb(224 106 26 / 0.15)
+--post-color-icon-promoted-ct-neutral-on-dark: #c0caf5
+--gflax2: #EAE2F3
+--gflow: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 50%
+--gfla03: #1B2021
+--d6353b99: rgb(0 0 0 / 0.16)
+--gflhq: light-dark(#D160CB, #EA95E5)
+--color-button-icon-primary-hover: #24283b
+--gfla3h: #FBFAF8
+--_4d4ff6c2: rgb(0 0 0 / 0.56)
+--gflbv: light-dark(rgb(140 140 140 / 0.1), rgb(140 140 140 / 0.15))
+--gfla4g: rgb(255 255 255 / 0.75)
+--gflc0: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--auybj8: rgb(0 0 0 / 0.08)
+--color-input-icon-error: #f7768e
+--gfl8: light-dark(#FFEFEA, #5D392F)
+--_2c138134: #c0caf5
+--color-button-icon-primary: #24283b
+--m6fbbh: #24283b
+--gflazp: #711C6D
+--gflb1: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-data-e-6: #9ece6a
+--gfli4: light-dark(#000000, #FFFFFF)
+--gfla0x: rgb(113 145 150 / 0.25)
+--gflbc: light-dark(#FDFAF5, #322F29)
+--e5e2faa5: rgb(0 0 0 / 0.58)
+--m6fbgh: #c0caf5
+--gflaxc: rgb(190 123 106 / 0.2)
+--gflaxd: rgb(190 123 106 / 0.25)
+--gfla23: #5EC0CF
+--gflay9: #523A51
+--gflayg: #F9FCE4
+--auybem: #c0caf5
+--gflav9: #F1F3E5
+--color-shadow-border: rgb(0 0 0 / 0.16)
+--auyba1: #1a1b26
+--auybe2: #c0caf5
+--babae1d9: rgb(0 0 0 / 0.92)
+--gfldo: light-dark(#C37D16, #F9C982)
+--gflb7: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--gfla3e: #0B2226
+--post-color-background-container-icon-promoted-ct-1: #7aa2f7
+--gflazl: rgb(209 96 203 / 0.25)
+--color-background-solid-disabled: #1a1b26
+--m6fbf0: #1a1b26
+--gflha: light-dark(#004182, #AAD6FF)
+--gfla11: #013726
+--gflcc: light-dark(#FFFFFF, #FFFFFF)
+--gfla4: light-dark(#FFF8FF, #3A2A39)
+--gfl4: light-dark(#3399A8, #BCD6DA)
+--gfljo: light-dark(#F6FBFF, #181D2A)
+--gflaxi: #412922
+--gfldu: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--_36b745c7: #c0caf5
+--color-data-sequential-c-7: #7aa2f7
+--color-input-indicator-checked-hover: #24283b
+--gflio: light-dark(#E9E3DC, #38434F)
+--auybhh: #7dcfff
+--gflhy: light-dark(#702F03, #FFC5A0)
+--gflax1: #F4F1F8
+--m6fbdq: #c0caf5
+--gfla2u: rgb(243 83 107 / 0.35)
+--color-background-canvas: #1a1b26
+--f6d78a50: #c0caf5
+--m6fbkf: rgb(0 0 0 / 0.84)
+--gfla5e: #F8F7F7
+--gfla56: rgb(255 255 255 / 0.97)
+--gflb6: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--gfla08: #B2B2B2
+--color-container-alert: #f7768e
+--gflbp: light-dark(#8C8C8C, #D1D1D1)
+--_82d2d049: rgb(0 0 0 / 0.56)
+--gfla27: rgb(51 153 168 / 0.2)
+--gfler: light-dark(#004182, #AAD6FF)
+--voyager-color-background-comment: #1a1b26
+--color-container-new: #7aa2f7
+--artdeco-button-primary-inverse-static-background-color: #c0caf5
+--gfli6: light-dark(rgb(255 255 255 / 0.6), rgb(140 140 140 / 0.25))
+--color-link-hover: #7dcfff
+--color-button-overlay-container-loading: #1a1b26
+--gflazv: #E0C7FC
+--artdeco-reset-forms-input-blue: #7aa2f7
+--gfla41: #092C8F
+--gfla0e: rgb(123 147 112 / 0.1)
+--auybki: rgb(0 0 0 / 0.92)
+--gflawl: #414335
+--color-button-overlay-container-border-loading: rgb(0 0 0 / 0)
+--gflau: light-dark(#592099, #F4F1F8)
+--color-text-shift-on-dark-flip: #c0caf5
+--gflcw: light-dark(rgb(140 140 140 / 0.4), rgb(140 140 140 / 0.45))
+--gfle3: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflou: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 100%
+--gflbx: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--gfla3k: #D6CEC2
+--gflazk: rgb(209 96 203 / 0.2)
+--voyager-color-background-overlay-active: rgb(0 0 0 / 0.9)
+--gfla2t: rgb(243 83 107 / 0.3)
+--gflbs: light-dark(#FFFFFF, #1B1F23)
+--gfla52: rgb(0 0 0 / 0.88)
+--gflgi: light-dark(#FFDDD3, #5D392F)
+--gflaw1: #38434F
+--color-coach-prompt-contextual-background: #1a1b26
+--gflawb: #CFD5AF
+--gflde: light-dark(#FFFFFF, #FFFFFF)
+--gfla2d: rgb(224 106 26 / 0.3)
+--gfla3c: #114951
+--e78fe0a7: rgb(0 0 0 / 0.84)
+--gflazf: #F6C0F3
+--color-brand-alt: #c0caf5
+--gflavg: #5C3B09
+--gfla40: #003CE0
+--gflg4: light-dark(rgb(168 113 234 / 0.1), rgb(168 113 234 / 0.15))
+--voyager-color-action: #7aa2f7
+--auybkb: rgb(0 0 0 / 0.47)
+--auybkf: rgb(0 0 0 / 0.84)
+--color-input-helper-error: #f7768e
+--_51847ae2: rgb(0 0 0 / 0.45)
+--gfla13: #FFF9F5
+--gfliz: light-dark(#D6FAEE, #013726)
+--gflayw: #FBFAFB
+--color-label-checked: #24283b
+--gflhi: light-dark(#E06847, #F69B81)
+--gflgr: light-dark(#F4F1F8, #332C3C)
+--gflic: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--color-indicator-knockout-hover: #24283b
+--gfla0: light-dark(#ACBA5F, #B0B68C)
+--gfla1a: rgb(140 140 140 / 0.1)
+--artdeco-reset-base-get-color-black: #c0caf5
+--_8374064d: rgb(0 0 0 / 0.84)
+--gflau7: #E9A53F
+--gflfo: light-dark(rgb(255 255 255 / 0.45), rgb(255 255 255 / 0.45))
+--gflf1: light-dark(#1A707E, #5EC0CF)
+--gflaz2: rgb(168 113 234 / 0.3)
+--gfla3n: rgb(149 139 123 / 0.1)
+--gfla6g: rgb(255 255 255 / 0.04)
+--gflawh: rgb(138 143 108 / 0.25)
+--messenger-color-background-input-message-active: #1a1b26
+--m6fa94: #c0caf5
+--_5f29bacd: rgb(0 0 0 / 0.9)
+--gfla1g: rgb(140 140 140 / 0.4)
+--gflavb: rgb(195 125 22 / 0.2)
+--gfloz: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 75%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0)) 100%
+--color-button-overlay-label-hover: #24283b
+--m6fbj5: rgb(0 0 0 / 0)
+--gflai: light-dark(#AAD6FF, #788FA5)
+--auybd6: #c0caf5
+--gfla10: #004C33
+--gflawm: #2F3027
+--color-logo-brand-alt: #c0caf5
+--white-a100: #24283b
+--m6fbiw: #c0caf5
+--gflayt: #3F4618
+--gfla2i: #2F1A0D
+--gfldf: light-dark(#FFFFFF, #FFFFFF)
+--gflhf: light-dark(#0A66C2, #FFFFFF)
+--gflavj: rgb(0 0 0 / 0.16)
+--voyager-color-background-coachmark: #24283b
+--gflf6: light-dark(#592099, #E0C7FC)
+--gflf8: light-dark(#711C6D, #F6C0F3)
+--gfla20: #DDF7FB
+--m6fbkd: rgb(0 0 0 / 0.58)
+--gfla47: rgb(200 161 246 / 0.3)
+--gflb5: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.3))
+--gfld7: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gfla37: rgb(224 104 71 / 0.3)
+--gflfn: light-dark(rgb(255 255 255 / 0.45), rgb(255 255 255 / 0.45))
+--gflavc: rgb(195 125 22 / 0.25)
+--gfla0j: rgb(123 147 112 / 0.35)
+--gfla0d: #7B9370
+--color-element-shift-on-dark-flip: #c0caf5
+--gflc2: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--m6fbfg: #24283b
+--voyager-color-background-attachment-ai: #f7768e
+--gfla36: rgb(224 104 71 / 0.25)
+--color-indicator-knockout: #24283b
+--m6fba0: #24283b
+--auybbh: #24283b
+--gflawv: rgb(120 143 165 / 0.15)
+--gfla04: #FAFAFA
+--gfla0h: rgb(123 147 112 / 0.25)
+--gfla4b: #512012
+--gflbd: light-dark(#FDF0DE, #474139)
+--gflhs: light-dark(#5C3B09, #F9C982)
+--gfla2q: rgb(243 83 107 / 0.15)
+--m6fbdv: #bb9af7
+--gflfs: light-dark(#B24020, #F69B81)
+--gflac: light-dark(#E06847, #F4C7BB)
+--gflaz0: rgb(168 113 234 / 0.2)
+--gflavx: rgb(55 143 233 / 0.15)
+--gflavf: #915907
+--gfla1s: #0F9F6F
+--gfla6a: rgb(255 255 255 / 0.51)
+--m6fa91: rgb(0 0 0 / 0.75)
+--stories-color-element-accent-2-darker: #f7768e
+--gflayf: #221D26
+--auybh9: #24283b
+--gflcu: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--auybdq: #c0caf5
+--gflcp: light-dark(#E4E4E4, #38434F)
+--system-gray-40: #24283b
+--gflawo: #F8FAFD
+--black-a100: #c0caf5
+--gfla2b: rgb(224 106 26 / 0.2)
+--gflcg: light-dark(#523A51, #FDC2B1)
+--gfla5s: rgb(0 0 0 / 0.03)
+--color-pill-container-count-hover: #24283b
+--gflef: light-dark(#FFFFFF, #FFFFFF)
+--auybf0: #1a1b26
+--gflc3: light-dark(#FFFFFF, #1B1F23)
+--data-viz-color-accent-5: #9ece6a
+--color-background-brand-accent-5: #1a1b26
+--color-data-divergent-status-a-7: #f7768e
+--m6fbgx: #c0caf5
+--gfla5m: #343232
+--post-color-background-container-promoted-ct-neutral: #1a1b26
+--gfla24: #3399A8
+--gfla1w: rgb(15 159 111 / 0.25)
+--color-button-overlay-container-border-hover: rgb(0 0 0 / 0.9)
+--_619065d0: #24283b
+--color-container-brand: #7aa2f7
+--auybjt: #c0caf5
+--gflie: light-dark(#0A66C2, #71B7FB)
+--gfldv: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--gfli0: light-dark(#8443CE, #C8A1F6)
+--gflhp: light-dark(rgb(97 108 32 / 0.3), rgb(133 148 47 / 0.3))
+--gflavq: #F6FBFF
+--auybhv: #c0caf5
+--auybke: rgb(0 0 0 / 0.8)
+--gfla05: #F2F2F2
+--gflg6: light-dark(rgb(209 96 203 / 0.1), rgb(209 96 203 / 0.15))
+--gfla6: light-dark(#FCDAFA, #80597E)
+--color-data-progress-accent-2: #f7768e
+--gflfw: light-dark(#3F4618, #CBD978)
+--gfld5: light-dark(#FFFFFF, #666666)
+--color-label-knockout-hover: #24283b
+--gflcr: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--auybce: #c0caf5
+--gfla2k: #FFEEF1
+--color-entity-ghost-background: #1a1b26
+--gflaxo: #81C360
+--color-element-solid-shift-on-dark-flip: #c0caf5
+--gflcn: light-dark(#F8FAFD, #293037)
+--gflazg: #EA95E5
+--gflau5: #FCE0B6
+--gfldl: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--gfla3q: rgb(149 139 123 / 0.25)
+--m6fbjr: #c0caf5
+--_98cc4601: #bb9af7
+--color-data-icon-negative: #f7768e
+--gflaxk: #F4FDF0
+--gfldt: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gfljc: light-dark(#1A707E, #94DDE8)
+--gfla16: #FFC5A0
+--gfla0g: rgb(123 147 112 / 0.2)
+--gfleb: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--m6fa9h: #c0caf5
+--gfla2p: rgb(243 83 107 / 0.1)
+--color-data-b-7: #f7768e
+--gfla53: rgb(0 0 0 / 0.89)
+--gfla22: #94DDE8
+--gfla3g: rgb(0 0 0 / 0)
+--gflaz6: #40176F
+--m6fba1: #1a1b26
+--auya9z: rgb(0 0 0 / 0.45)
+--gfldy: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--gfla0n: #1D201B
+--color-scrim: rgb(0 0 0 / 0.6)
+--a9b4a7da: rgb(0 0 0 / 0.58)
+--color-button-overlay-container-hover: rgb(0 0 0 / 0.9)
+--gfldh: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--gfla6i: rgb(255 255 255 / 0)
+--gfla5q: #151414
+--gflazd: #FFEDFE
+--_66c0402e: #c0caf5
+--gflaz9: #EDF4EA
+--gfla7: light-dark(#F6C0F3, #AC7DA9)
+--gflap: light-dark(#EDDEFE, #715E86)
+--gfli1: light-dark(#592099, #E0C7FC)
+--gfla5y: rgb(0 0 0 / 0.56)
+--color-button-overlay-container-border-disabled: rgb(0 0 0 / 0)
+--color-action-active: #7dcfff
+--_3bf372fc: #24283b
+--gfla09: #8C8C8C
+--gflda: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--color-background-overlay: rgb(0 0 0 / 0.75)
+--gfled: light-dark(#FFFFFF, #FFFFFF)
+--gflgh: light-dark(#FDF0DE, #322F29)
+--gflcy: light-dark(rgb(0 0 0 / 0.45), rgb(255 255 255 / 0.45))
+--voyager-color-qr-code: #c0caf5
+--gfla1j: #424242
+--gfla51: rgb(0 0 0 / 0.84)
+--gflgn: light-dark(#EDF3F8, #293037)
+--stories-color-element-accent-4-darker: #7aa2f7
+--gflawj: rgb(138 143 108 / 0.35)
+--gflazn: rgb(209 96 203 / 0.35)
+--gfla2m: #FFC1CA
+--gfla1n: #F0FDF9
+--auybiw: #c0caf5
+--gflaza: #3A2A39
+--gfl6: light-dark(#114951, #E9F4F6)
+--gfla18: #E06A1A
+--color-background-container-dark-tint: #24283b
+--gfldj: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-text-negative: #f7768e
+--gfldg: light-dark(rgb(255 255 255 / 0.3), rgb(255 255 255 / 0.3))
+--color-text-solid-on-dark: #c0caf5
+--gfld3: light-dark(#424242, #D1D1D1)
+--gfla2w: #8A0015
+--color-canvas-tint: #24283b
+--gflz: light-dark(#EEFDFF, #283132)
+--gflce: light-dark(#E9A53F, #E9A53F)
+--gflgm: light-dark(#DDE7F1, #38434F)
+--gflis: light-dark(rgb(55 143 233 / 0.4), rgb(55 143 233 / 0.45))
+--gfla3o: rgb(149 139 123 / 0.15)
+--gfle2: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--gfla3f: rgb(255 255 255 / 0)
+--gfla5j: #8A8785
+--color-badge-label: #24283b
+--gflid: light-dark(rgb(140 140 140 / 0.1), rgb(140 140 140 / 0.15))
+--gfla6f: rgb(255 255 255 / 0.09)
+--color-loading: #7aa2f7
+--gflag: light-dark(#E8F3FF, #38434F)
+--artdeco-button-primary-default-hover-color: #24283b
+--gfla2n: #FD93A3
+--gflin: light-dark(#F4F2EE, #293037)
+--color-data-icon-accent-2: #f7768e
+--m6fbj7: rgb(0 0 0 / 0.04)
+--gflazh: #D160CB
+--gflci: light-dark(#523A51, #FDC2B1)
+--m6fbkb: rgb(0 0 0 / 0.47)
+--color-background-overlay-hover: rgb(0 0 0 / 0.9)
+--gflb0: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--gfla1q: #74E5C0
+--auyba0: #24283b
+--gflc4: light-dark(#523A51, #FDC2B1)
+--gfli8: light-dark(#915907, #F9C982)
+--a1b17250: rgb(0 0 0 / 0.45)
+--gflds: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflgy: light-dark(rgb(133 148 47 / 0.1), rgb(133 148 47 / 0.15))
+--gflh3: light-dark(#01754F, #37C898)
+--color-button-container-secondary-emphasis-border: #7aa2f7
+--gfla1y: rgb(15 159 111 / 0.35)
+--gflax9: rgb(153 131 177 / 0.25)
+--gflgd: light-dark(#523A51, #E5C8E4)
+--gflaxw: #44712E
+--gflez: light-dark(#FFFFFF, #FFFFFF)
+--color-border-knockout-hover: #24283b
+--color-icon-accent-2: #f7768e
+--gfld4: light-dark(#FFFFFF, #1B1F23)
+--color-button-container-primary-hover: #7dcfff
+--auybda: #c0caf5
+--_922d836e: rgb(0 0 0 / 0.47)
+--_3cc8252c: rgb(0 0 0 / 0.45)
+--gflh2: light-dark(#FFEFE5, #4C240A)
+--gflam: light-dark(#004182, #EDF3F8)
+--stories-color-element-content-consumption-indicator-fill: #24283b
+--gflcz: light-dark(rgb(0 0 0 / 0.45), rgb(255 255 255 / 0.45))
+--gflbu: light-dark(rgb(255 255 255 / 0), rgb(0 0 0 / 0))
+--artdeco-button-primary-default-static-color: #24283b
+--gflca: light-dark(#E4E4E4, #424242)
+--gflaw: light-dark(#F9FCE4, #2F3027)
+--m6fbe0: #24283b
+--gfla2g: #702F03
+--gflh9: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gfla0a: #D8E9CF
+--gflb9: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--_4a69b034: #7dcfff
+--voyager-color-background-comment-v3: #1a1b26
+--gflaxq: rgb(95 155 65 / 0.1)
+--gfla5i: #8F8C8A
+--lbp-color-label-knockout: #24283b
+--m6fbj2: #1a1b26
+--gflayc: #715E86
+--gfla5g: #EBE9E9
+--gfla0p: #E9F4F6
+--color-link-visited: #bb9af7
+--color-link: #7aa2f7
+--auybdv: #bb9af7
+--gfla32: #E06847
+--gflfc: light-dark(#B2B2B2, #666666)
+--gflil: light-dark(#FFDBE1, #8A0015)
+--messenger-color-background-input-message: #1a1b26
+--gflavl: rgb(0 0 0 / 0.45)
+--gflav4: #0A66C2
+--gflazo: #A734A1
+--gflg8: light-dark(#0A66C2, #71B7FB)
+--gflava: rgb(195 125 22 / 0.15)
+--gfla4l: #DAE3F6
+--voyager-color-action-on-dark: #c0caf5
+--gfla2o: #F3536B
+--gflaz8: #F9FBF8
+--gflho: light-dark(#616C20, #85942F)
+--gfla6d: rgb(255 255 255 / 0.37)
+--gfla4s: #181D2A
+--gflem: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--gflf4: light-dark(#8443CE, #C8A1F6)
+--gfla01: #364547
+--gflavh: #402B0C
+--gflaya: rgb(153 131 177 / 0.3)
+--gflep: light-dark(#0A66C2, #71B7FB)
+--voyager-color-background-input-search-on-dark-active: #24283b
+--gflaxp: #5F9B41
+--gflfz: light-dark(#38434F, #C2D3E4)
+--gflct: light-dark(rgb(255 255 255 / 0), rgb(0 0 0 / 0))
+--gflayl: #85942F
+--gfla5a: rgb(249 201 130 / 0.3)
+--gflaze: #FCDAFA
+--gfla3y: #FFEFEA
+--auya9h: #c0caf5
+--color-background: #24283b
+--gflit: light-dark(#01754F, #37C898)
+--gflfq: light-dark(#5C3B09, #F9C982)
+--gflaz1: rgb(168 113 234 / 0.25)
+--gflas: light-dark(#A871EA, #D9CCE7)
+--gflay5: rgb(172 125 169 / 0.25)
+--_68615d84: rgb(0 0 0 / 0.6)
+--artdeco-reset-forms-select-focus-border-color: #7aa2f7
+--gfla4f: rgb(255 255 255 / 0.6)
+--gfle6: light-dark(#1F1F1F, #E4E4E4)
+--color-input-date-label-checked: #24283b
+--gflayy: #F1DFF0
+--reactions-color-content-like: #7aa2f7
+--color-input-handle-disabled: #24283b
+--gflaz5: #592099
+--gflavs: #CEE7FF
+--voyager-color-background-overlay: rgb(0 0 0 / 0.6)
+--post-color-text-promoted-ct-1: #7aa2f7
+--color-background-scrim: rgb(0 0 0 / 0.6)
+--gfldq: light-dark(#C37D16, #F9C982)
+--color-logo-brand: #7aa2f7
+--gflcj: light-dark(#FCE0B6, #523A51)
+--m6fbe2: #c0caf5
+--gflij: light-dark(rgb(243 83 107 / 0.1), rgb(243 83 107 / 0.15))
+--gfla4y: #5C8DFF
+--color-button-overlay-label-loading: rgb(0 0 0 / 0.3)
+--m6fbj6: rgb(0 0 0 / 0.03)
+--gflayz: #E5C8E4
+--_2cb9ecd7: rgb(0 0 0 / 0.08)
+--gflh4: light-dark(#004C33, #74E5C0)
+--adbebd75: rgb(0 0 0 / 0.6)
+--gfla38: rgb(224 104 71 / 0.35)
+--color-background-knockout-hover: #24283b
+--gflbq: light-dark(#666666, #E4E4E4)
+--color-button-overlay-container-active: rgb(0 0 0 / 0.9)
+--auybcd: #1a1b26
+--color-icon-knockout-hover: #24283b
+--auya94: #c0caf5
+--gfla0s: #98B8BD
+--gflhx: light-dark(#702F03, #FFC5A0)
+--gflgv: light-dark(rgb(195 125 22 / 0.2), rgb(195 125 22 / 0.25))
+--color-canvas: #1a1b26
+--m6fbib: #c0caf5
+--coach-color-background-prompt: #1a1b26
+--gflavk: rgb(0 0 0 / 0.3)
+--gfld2: light-dark(#B2B2B2, #666666)
+--auya9x: rgb(0 0 0 / 0.16)
+--auybj3: #24283b
+--live-color-background-like: #24283b
+--gflawx: rgb(120 143 165 / 0.25)
+--gfla5k: #72706E
+--gfla5c: rgb(178 178 178 / 0.3)
+--gfldp: light-dark(#C37D16, #F9C982)
+--gflawi: rgb(138 143 108 / 0.3)
+--e7fd60f8: #c0caf5
+--gfla4h: rgb(255 255 255 / 0.9)
+--gflhh: light-dark(rgb(26 112 126 / 0.3), rgb(51 153 168 / 0.3))
+--color-input-indicator-checked: #24283b
+--m6fba2: #c0caf5
+--gfla4j: #F8F9FC
+--auybjr: #c0caf5
+--gflayx: #F8EFF8
+--gfla55: rgb(255 255 255 / 1)
+--gflay1: #AC7DA9
+--gflfx: light-dark(#3F4618, #CBD978)
+--gflfh: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--gfla1r: #37C898
+--gflayn: rgb(133 148 47 / 0.15)
+--gflv: light-dark(#FCE0B6, #474139)
+--b8bd6503: rgb(0 0 0 / 0.8)
+--color-background-canvas-dark: #1a1b26
+--color-button-overlay-container-disabled: rgb(0 0 0 / 0.08)
+--gflia: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflja: light-dark(#B24020, #FDC2B1)
+--gfld9: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--gfla29: rgb(51 153 168 / 0.3)
+--gfli2: light-dark(#592099, #E0C7FC)
+--gflc8: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gfla1l: #2F2F2F
+--gfljq: light-dark(#71B7FB, #6D8AD5)
+--gfla3z: #FFDDD3
+--gflay: light-dark(#E0EAA2, #65684E)
+--gflel: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflfv: light-dark(#616C20, #ACBA5F)
+--gflif: light-dark(#000000, #FFFFFF)
+--color-border-gap: #24283b
+--gfle4: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-pill-icon-checked: #24283b
+--gfla00: #526A6E
+--gfla2r: rgb(243 83 107 / 0.2)
+--gfljg: light-dark(#01754F, #37C898)
+--gflhw: light-dark(#AD4601, #FE9958)
+--gflazj: rgb(209 96 203 / 0.15)
+--auybib: #c0caf5
+--gfla1k: rgb(66 66 66 / 0.85)
+--_88ccb49e: rgb(0 0 0 / 0.04)
+--gfla1z: #01754F
+--gflaxz: #192115
+--gflaww: rgb(120 143 165 / 0.2)
+--gflch: light-dark(#80597E, #FFDDD3)
+--gflc5: light-dark(#FCE0B6, #523A51)
+--gflje: light-dark(#702F03, #FFC5A0)
+--gflhc: light-dark(rgb(55 143 233 / 0.2), rgb(55 143 233 / 0.25))
+--gfla0y: rgb(113 145 150 / 0.3)
+--gflavu: #71B7FB
+--gflgg: light-dark(#FCE0B6, #474139)
+--gfla3s: rgb(149 139 123 / 0.35)
+--gflbr: light-dark(#424242, #F2F2F2)
+--gflbb: light-dark(#711C6D, #F8EFF8)
+--gfla0k: #5A6B51
+--gfla0o: #F5FBFC
+--gflgb: light-dark(#56687A, #C2D3E4)
+--auya9y: rgb(0 0 0 / 0.3)
+--color-text-accent-2: #f7768e
+--gfld1: light-dark(#1F1F1F, #E4E4E4)
+--gfla1p: #AAF3DB
+--color-element-solid-disabled: #24283b
+--gflavd: rgb(195 125 22 / 0.3)
+--gflir: light-dark(rgb(55 143 233 / 0.3), rgb(55 143 233 / 0.35))
+--gfla44: rgb(246 155 129 / 0.3)
+--color-data-label-neutral: #24283b
+--gflfj: light-dark(#FFFFFF, #FFFFFF)
+--color-button-overlay-label: #24283b
+--gflaw0: #56687A
+--gflen: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--gflft: light-dark(#762812, #FDC2B1)
+--gflcm: light-dark(#FAFAFA, #666666)
+--color-container-accent-2: #f7768e
+--gflay3: rgb(172 125 169 / 0.15)
+--gflgo: light-dark(#D5E8EA, #364547)
+--gfljm: light-dark(#E8F3FF, #222E4E)
+--gflaz7: #2A1245
+--gflbl: light-dark(#F2F2F2, #424242)
+--gfljd: light-dark(#C37D16, #F9C982)
+--gflayv: #1E2110
+--gflw: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--gflf3: light-dark(#114951, #94DDE8)
+--gflcq: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-icon-knockout: #24283b
+--gfla59: rgb(255 255 255 / 0.82)
+--_317c5191: #c0caf5
+--gfla1u: rgb(15 159 111 / 0.15)
+--gfldb: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--color-container-negative: #f7768e
+--gfla06: #E4E4E4
+--gflax5: #9983B1
+--gflayr: rgb(133 148 47 / 0.35)
+--gflaxt: rgb(95 155 65 / 0.25)
+--gflad: light-dark(#B24020, #FADED6)
+--m6fa9y: rgb(0 0 0 / 0.3)
+--gfla4z: #2962FF
+--gflf2: light-dark(#114951, #94DDE8)
+--gflau9: rgb(195 125 22 / 0.1)
+--gfla3l: #BBB1A1
+--gflg0: light-dark(rgb(120 143 165 / 0.1), rgb(120 143 165 / 0.15))
+--gflawc: #B0B68C
+--gflim: light-dark(#FFEEF1, #640312)
+--gfla2l: #FFDBE1
+--gflaye: #332C3C
+--gfla30: #FDC2B1
+--auybkc: rgb(0 0 0 / 0.56)
+--voyager-color-background-overlay-hover: rgb(0 0 0 / 0.75)
+--color-input-switch-ios-indicator: #24283b
+--gfla0b: #C0D8B4
+--b32307fb: rgb(0 0 0 / 0.16)
+--m6fbix: #c0caf5
+--b7f1ed78: #c0caf5
+--gfla2x: #640312
+--gflfl: light-dark(#FFFFFF, #FFFFFF)
+--_1d5285fc: #c0caf5
+--auybj2: #1a1b26
+--gflhg: light-dark(#1A707E, #3399A8)
+--gflgw: light-dark(rgb(224 104 71 / 0.1), rgb(224 104 71 / 0.15))
+--auybkh: rgb(0 0 0 / 0.89)
+--gfla2: light-dark(#616C20, #E2E7CA)
+--_4db40e3a: #c0caf5
+--gfla1m: #1F1F1F
+--gflck: light-dark(#FCE0B6, #523A51)
+--m6fa92: rgb(0 0 0 / 0.9)
+--gflawt: #788FA5
+--gflawr: #C2D3E4
+--gfla2s: rgb(243 83 107 / 0.25)
+--gfla39: #B24020
+--live-color-background-comment: #1a1b26
+--color-pill-icon-checked-hover: #24283b
+--gflej: light-dark(rgb(0 0 0 / 0.6), rgb(255 255 255 / 0.6))
+--gfla4a: #762812
+--gflco: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--_531d4458: #24283b
+--gfli7: light-dark(#44712E, #A7E18B)
+--gflaws: #9EB5CA
+--_8b57e317: rgb(0 0 0 / 0.03)
+--gflcv: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.35))
+--gfld6: light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75))
+--warm-red-70: #f7768e
+--auybbi: #c0caf5
+--gfla6h: rgb(255 255 255 / 0.03)
+--gfloy: rgb(from light-dark(#FCE0B6, #51164E) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(#F9C982, #711C6D) r g b / calc(alpha * 1)) 100%
+--gfla4k: #EDF2FD
+--gfldc: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--gflfm: light-dark(rgb(255 255 255 / 0.3), rgb(255 255 255 / 0.3))
+--gfla4e: rgb(255 255 255 / 0.45)
+--color-presence-indicator-online: #24283b
+--gflazw: #C8A1F6
+--gflaxh: #5D392F
+--gflaw2: #293037
+--gflays: #616C20
+--gflavo: rgb(0 0 0 / 0.9)
+--_32c519c4: rgb(0 0 0 / 0)
+--gfla1b: rgb(140 140 140 / 0.15)
+--gflbz: light-dark(rgb(140 140 140 / 0.4), rgb(140 140 140 / 0.45))
+--gfljj: light-dark(rgb(0 0 0 / 0.16), rgb(0 0 0 / 0.3))
+--_3063739c: rgb(0 0 0 / 0.9)
+--color-input-switch-ios-indicator-checked: #24283b
+--gfljl: light-dark(#CEE7FF, #32416C)
+--gflax7: rgb(153 131 177 / 0.15)
+--_45cc6ea5: rgb(0 0 0 / 0.3)
+--gflfu: light-dark(#762812, #FDC2B1)
+--gfla3t: #6E6558
+--gfla4o: #6D8AD5
+--_7347e31a: #24283b
+--gfla4n: #9BB1E9
+--m6fa9z: rgb(0 0 0 / 0.45)
+--gflaxs: rgb(95 155 65 / 0.2)
+--auybkj: #c0caf5
+--gfla4u: #EBF1FF
+--_7722dd23: #c0caf5
+--m6fbkc: rgb(0 0 0 / 0.56)
+--gflbi: light-dark(#915907, #E9E3DC)
+--gflcb: light-dark(#AAF3DB, #004C33)
+--color-button-icon-secondary-emphasis: #7aa2f7
+--_81e87877: #24283b
+--color-button-overlay-icon: #24283b
+--color-button-fab-container-loading: #1a1b26
+--gfla1d: rgb(140 140 140 / 0.25)
+--gfla3x: #FFF9F7
+--gflayj: #CBD978
+--gfla3i: #F4F2EE
+--gflgl: light-dark(#EDF4EA, #2A3127)
+--gflbk: light-dark(#FAFAFA, #2F2F2F)
+--voyager-color-background-attachment-psd: #7aa2f7
+--gfla54: rgb(0 0 0 / 0.92)
+--gfla45: rgb(170 214 255 / 0.3)
+--gfldr: light-dark(#C37D16, #F9C982)
+--m6fbkh: rgb(0 0 0 / 0.89)
+--gfla49: rgb(234 149 229 / 0.3)
+--m6fbhu: rgb(0 0 0 / 0)
+--_26c0752c: rgb(0 0 0 / 0.45)
+--gflawn: #1F1F1C
+--gfla2j: #FFF9FA
+--gflbo: light-dark(#B2B2B2, #B2B2B2)
+--voyager-color-background-coachmark-on-dark: #24283b
+--auybka: rgb(0 0 0 / 0.45)
+--color-divider-solid: #1a1b26
+--gfla3w: #211F1C
+--gflawd: #8A8F6C
+--gflb4: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.3))
+--gfla3: light-dark(#3F4618, #F1F3E5)
+--m6fbem: #c0caf5
+--gflei: light-dark(#523A51, #FDC2B1)
+--color-text-on-dark-flip: #c0caf5
+--gflii: light-dark(#8A0015, #FFC1CA)
+--gflov: rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 0.25)) 0%, rgb(from light-dark(#FFFFFF, #1B1F23) r g b / calc(alpha * 1)) 100%
+--gflaq: light-dark(#E0C7FC, #9983B1)
+--gflg7: light-dark(rgb(209 96 203 / 0.2), rgb(209 96 203 / 0.25))
+--gflavr: #E8F3FF
+--m6fbhv: #c0caf5
+--gfla1i: #666666
+--gfle8: light-dark(#1F1F1F, #E4E4E4)
+--e8e1c484: #1a1b26
+--gflay6: rgb(172 125 169 / 0.3)
+--reactions-color-text-love: #f7768e
+--color-background-canvas-mobile: #1a1b26
+--gfla26: rgb(51 153 168 / 0.15)
+--color-input-label-checked: #24283b
+--gflcx: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--m6fbam: #c0caf5
+--color-pill-indicator-checked: #24283b
+--voyager-color-qr-code-background: #24283b
+--gflga: light-dark(#44712E, #A7E18B)
+--color-canvas-mobile: #1a1b26
+--gfla21: #BBEDF5
+--gfla4c: #321811
+--gflayq: rgb(133 148 47 / 0.3)
+--auybfi: #c0caf5
+--gflan: light-dark(#FCFAFF, #332C3C)
+--gfla5w: rgb(0 0 0 / 0.45)
+--gflay8: #80597E
+--color-data-h-4: #24283b
+--lbp-color-background: #24283b
+--gfl0: light-dark(#DDF7FB, #364547)
+--gflgs: light-dark(#F1DFF0, #523A51)
+--gfla2f: #AD4601
+--color-data-c-7: #7aa2f7
+--gflavn: rgb(0 0 0 / 0.75)
+--color-pill-label-checked-hover: #24283b
+--color-button-overlay-icon-disabled: rgb(0 0 0 / 0.3)
+--gflgz: light-dark(rgb(133 148 47 / 0.2), rgb(133 148 47 / 0.25))
+--gfla0q: #D5E8EA
+--gfleq: light-dark(#004182, #AAD6FF)
+--gflaw6: #FADED6
+--m6fbj3: #24283b
+--gflhr: light-dark(rgb(209 96 203 / 0.3), rgb(234 149 229 / 0.3))
+--gflaxe: rgb(190 123 106 / 0.3)
+--gflayi: #E0EAA2
+--gfla5z: rgb(0 0 0 / 0.58)
+--gfla5u: rgb(0 0 0 / 0.08)
+--gflhz: light-dark(rgb(224 106 26 / 0.1), rgb(224 106 26 / 0.15))
+--gflo2: rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0)) 100%
+--gflcl: light-dark(#F2F2F2, #424242)
+--gflhd: light-dark(#CB112D, #FD93A3)
+--color-icon-negative: #f7768e
+--gflawa: #E2E7CA
+--gfla12: #022419
+--gfla3r: rgb(149 139 123 / 0.3)
+--gfla0r: #BCD6DA
+--gflhn: light-dark(rgb(168 113 234 / 0.3), rgb(200 161 246 / 0.3))
+--gfla1o: #D6FAEE
+--gfla43: rgb(26 112 126 / 0.3)
+--gfla07: #D1D1D1
+--gflhk: light-dark(#004182, #AAD6FF)
+--gflgp: light-dark(#E9F4F6, #283132)
+--gflave: rgb(195 125 22 / 0.35)
+--gfla28: rgb(51 153 168 / 0.25)
+--gflavv: #378FE9
+--gfla3p: rgb(149 139 123 / 0.2)
+--_0f067603: rgb(0 0 0 / 0.08)
+--voyager-color-background-badge-new: #7aa2f7
+--gflg5: light-dark(rgb(168 113 234 / 0.2), rgb(168 113 234 / 0.25))
+--gflayo: rgb(133 148 47 / 0.2)
+--color-brand: #7aa2f7
+--gflaym: rgb(133 148 47 / 0.1)
+--m6fa93: #1a1b26
+--gflayp: rgb(133 148 47 / 0.25)
+--gflbm: light-dark(#E4E4E4, #666666)
+--gflox: rgb(from light-dark(#FDF0DE, #523A51) r g b / calc(alpha * 1)) 0%, rgb(from light-dark(#FCE0B6, #51164E) r g b / calc(alpha * 1)) 100%
+--gflbf: light-dark(#F9C982, #958B7B)
+--gflazm: rgb(209 96 203 / 0.3)
+--gflav6: #053059
+--_647a9ed3: #c0caf5
+--gfla5n: #2A2929
+--color-button-label-primary-hover: #24283b
+--gflc9: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--gfli3: light-dark(#C37D16, #E9A53F)
+--gfla3m: #958B7B
+--gflgk: light-dark(#D8E9CF, #3A4535)
+--gflg2: light-dark(rgb(51 153 168 / 0.1), rgb(51 153 168 / 0.15))
+--gfla5l: #6D6A69
+--voyager-color-action-stick: #7aa2f7
+--m6fbh9: #24283b
+--m6fbjt: #c0caf5
+--color-button-icon-tertiary-emphasis: #7aa2f7
+--gflek: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflay2: rgb(172 125 169 / 0.1)
+--_9d189fe0: rgb(0 0 0 / 0.8)
+--gflaxj: #2A1C18
+--m6fbfj: #c0caf5
+--gflazy: rgb(168 113 234 / 0.1)
+--c09a5b35: rgb(0 0 0 / 0.16)
+--gflev: light-dark(rgb(140 140 140 / 0.2), rgb(0 0 0 / 0.45))
+--gflaz: light-dark(#CBD978, #8A8F6C)
+--auybam: #c0caf5
+--gfla1t: rgb(15 159 111 / 0.1)
+--f2c833d8: #1a1b26
+--color-data-categorical-5: #9ece6a
+--gflby: light-dark(rgb(140 140 140 / 0.3), rgb(140 140 140 / 0.35))
+--color-button-overlay-container-border-active: rgb(0 0 0 / 0)
+--color-data-h-3: #1a1b26
+--gfliy: light-dark(#AAF3DB, #004C33)
+--color-data-label-negative: #24283b
+--color-button-overlay-label-disabled: rgb(0 0 0 / 0.3)
+--gfla2z: #EEFDFF
+--gfljr: light-dark(#E4E4E4, #424242)
+--color-qr-code-background: #24283b
+--gflavi: #271D10
+--gflav3: rgb(55 143 233 / 0.45)
+--gflav7: #0A2037
+--auybe0: #24283b
+--_8718c30b: #1a1b26
+--gflazq: #51164E
+--gfla50: rgb(0 0 0 / 0.8)
+--gflhe: light-dark(#F9C982, #F9C982)
+--color-border-knockout: #24283b
+--artdeco-reset-link-color-blue8: #7aa2f7
+--gflav: light-dark(#000000, #000000)
+--gfla3j: #E9E3DC
+--e0dd6863: #c0caf5
+--auybfj: #c0caf5
+--gflaa: light-dark(#FDC2B1, #BE7B6A)
+--gfl1: light-dark(#BBEDF5, #526A6E)
+--_51373ae0: rgb(0 0 0 / 0)
+--gflih: light-dark(#8A0015, #FFC1CA)
+--_8c363a66: rgb(0 0 0 / 0.75)
+--gfla5r: rgb(0 0 0 / 0)
+--color-element-solid-on-dark: #c0caf5
+--gfly: light-dark(#666666, #B2B2B2)
+--c99d6c48: #c0caf5
+--gfld8: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--color-icon-brand: #7aa2f7
+--color-signal-negative: #f7768e
+--gflaxx: #2E4921
+--white: #24283b
+--auybj7: rgb(0 0 0 / 0.04)
+--gflay0: #CEA5CC
+--gfljp: light-dark(#71B7FB, #6D8AD5)
+--gflax4: #BDABD2
+--gflf5: light-dark(#592099, #E0C7FC)
+--auya92: rgb(0 0 0 / 0.9)
+--dc4a0957: rgb(0 0 0 / 0.47)
+--m6fbkj: #c0caf5
+--gfliu: light-dark(#004C33, #74E5C0)
+--gflx: light-dark(#01754F, #37C898)
+--m6fa9x: rgb(0 0 0 / 0.16)
+--m6fbhh: #7dcfff
+--_291d5795: rgb(0 0 0 / 0.88)
+--m6fbke: rgb(0 0 0 / 0.8)
+--_9178d329: #c0caf5
+--gflawu: rgb(120 143 165 / 0.1)
+--gfle7: light-dark(#1F1F1F, #E4E4E4)
+--gflaj: light-dark(#71B7FB, #9EB5CA)
+--gflet: light-dark(rgb(66 66 66 / 0.85), rgb(66 66 66 / 0.85))
+--gfla0c: #9FBA91
+--gflh8: light-dark(#0F9F6F, #74E5C0)
+--color-data-container-negative: #f7768e
+--post-color-icon-promoted-ct-1: #7aa2f7
+--color-attachment-label: #24283b
+--gfla1h: rgb(140 140 140 / 0.45)
+--gfla5b: rgb(92 59 9 / 0.3)
+--gfles: light-dark(rgb(0 0 0 / 0.6), rgb(0 0 0 / 0.6))
+--gfleo: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--auybkd: rgb(0 0 0 / 0.58)
+--gflaw3: #1B1F23
+--gflhm: light-dark(#A871EA, #C8A1F6)
+--color-attachment-icon: #24283b
+--gfla0u: rgb(113 145 150 / 0.1)
+--eb7cbc1c: #c0caf5
+--gfla31: #F69B81
+--gfla2y: #410911
+--gflh6: light-dark(rgb(15 159 111 / 0.1), rgb(15 159 111 / 0.15))
+--color-background-overlay-active: rgb(0 0 0 / 0.9)
+--gflo1: rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.16)) 25%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.4)) 50%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.6)) 75%
+--gflaf: light-dark(#F6FBFF, #293037)
+--gfla4m: #C4D3F2
+--m6fbki: rgb(0 0 0 / 0.92)
+--auya90: rgb(0 0 0 / 0.6)
+--color-qr-code: #c0caf5
+--gfla4v: #D7E3FE
+--gflay7: rgb(172 125 169 / 0.35)
+--gflaxb: rgb(190 123 106 / 0.15)
+--gfla4d: rgb(255 255 255 / 0.3)
+--voyager-color-background-brand-accent-5-tint: #1a1b26
+--gfla25: rgb(51 153 168 / 0.1)
+--gfliq: light-dark(rgb(55 143 233 / 0.2), rgb(55 143 233 / 0.25))
+--gflau3: #FDFAF5
+--gflav5: #004182
+--_3ff8a240: rgb(0 0 0 / 0.89)
+--lime-60: #9ece6a
+--color-input-label-error: #f7768e
+--color-button-overlay-icon-hover: #24283b
+--color-input-container-border-error: #f7768e
+--auybfg: #24283b
+--gfla4q: #32416C
+--gflazu: #EDDEFE
+--m6fa90: rgb(0 0 0 / 0.6)
+--gflazz: rgb(168 113 234 / 0.15)
+--color-shadow: rgb(0 0 0 / 0.3)
+--gfla34: rgb(224 104 71 / 0.15)
+--color-background-neutral-strong: #1a1b26
+--gflat: light-dark(#8443CE, #EAE2F3)
+--gfla2v: #CB112D
+--_3e557906: #24283b
+--color-button-label-secondary-emphasis: #7aa2f7
+--color-border-grid: #1a1b26
+--gfldn: light-dark(#C37D16, #F9C982)
+--gflaw9: #BE7B6A
+--blue-70: #7aa2f7
+--gfla0l: #3A4535
+--gflaxv: rgb(95 155 65 / 0.35)
+--gflau6: #F9C982
+--color-search-input-background: #1a1b26
+--gflavy: rgb(55 143 233 / 0.2)
+--color-data-divergent-status-b-7: #7aa2f7
+--gflhu: light-dark(#8C8C8C, #B2B2B2)
+--gflf9: light-dark(#711C6D, #F6C0F3)
+--gflhl: light-dark(rgb(0 65 130 / 0.3), rgb(170 214 255 / 0.3))
+--auyba2: #c0caf5
+--color-logo-brand-lockup-alt: #c0caf5
+--gflaxg: #8F5849
+--gflgu: light-dark(rgb(195 125 22 / 0.1), rgb(195 125 22 / 0.15))
+--color-data-categorical-tint-4: #1a1b26
+--color-button-label-primary: #24283b
+--gflayu: #2D3118
+--_5ba0532e: #c0caf5
+--gfla58: rgb(255 255 255 / 0.91)
+--m6fbi7: #c0caf5
+--gfla35: rgb(224 104 71 / 0.2)
+--gfla0i: rgb(123 147 112 / 0.3)
+--color-label-knockout: #24283b
+--color-label-checked-hover: #24283b
+--gflau8: #C37D16
+--gflgq: light-dark(#EAE2F3, #493D57)
+--gflah: light-dark(#CEE7FF, #56687A)
+--color-container-primary: #7aa2f7
+--gflab: light-dark(#F69B81, #E0A494)
+--gflae: light-dark(#762812, #FDEFEC)
+--gflav2: rgb(55 143 233 / 0.4)
+--gfla5t: rgb(0 0 0 / 0.04)
+--color-icon-nav-on-dark-active: #c0caf5
+--reactions-color-text-like: #7aa2f7
+--gfliw: light-dark(rgb(15 159 111 / 0.2), rgb(15 159 111 / 0.25))
+--color-data-progress-negative: #f7768e
+--system-gray-20: #1a1b26
+--gflc1: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--gflbj: light-dark(#5C3B09, #F4F2EE)
+--gfla5x: rgb(0 0 0 / 0.47)
+--black: #c0caf5
+--gfla14: #FFEFE5
+--gflawg: rgb(138 143 108 / 0.2)
+--gfla4p: #4A65B0
+--gflb3: light-dark(rgb(0 0 0 / 0), rgb(0 0 0 / 0))
+--gflff: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--gfla4t: #FAFBFF
+--m6fbd6: #c0caf5
+--gfla48: rgb(97 108 32 / 0.3)
+--gfla6e: rgb(255 255 255 / 0.13)
+--gflew: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--auya91: rgb(0 0 0 / 0.75)
+--gfla1f: rgb(140 140 140 / 0.35)
+--color-input-label-checked-hover: #24283b
+--gflib: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflea: light-dark(#FFFFFF, rgb(0 0 0 / 0.9))
+--d0f9f89d: rgb(0 0 0 / 0.75)
+--gflaxu: rgb(95 155 65 / 0.3)
+--color-data-h-2: #1a1b26
+--gflax0: #FBFAFC
+--gflaxm: #C7F0B2
+--gflayh: #F0F6CB
+--auybjs: #c0caf5
+--_377c6bfb: #1a1b26
+--gfla3v: #322F29
+--gfla33: rgb(224 104 71 / 0.1)
+--gfla2h: #4C240A
+--gfla19: rgb(224 106 26 / 0.1)
+--gfla4i: #FFFFFF
+--gflip: light-dark(#0A66C2, #71B7FB)
+--gfle0: light-dark(#FFFFFF, #FFFFFF)
+--color-background-canvas-tint: #24283b
+--_8985247a: rgb(0 0 0 / 0.88)
+--m6fbj8: rgb(0 0 0 / 0.08)
+--gfla0m: #2A3127
+--c5034668: #1a1b26
+--_20f210f0: rgb(0 0 0 / 0.3)
+--gfla1x: rgb(15 159 111 / 0.3)
+--color-surface: #24283b
+--gfla0z: rgb(113 145 150 / 0.35)
+--m6fbj9: rgb(0 0 0 / 0.16)
+--gfla15: #FFDEC8
+--gfla0v: rgb(113 145 150 / 0.15)
+--reactions-color-content-love: #f7768e
+--m6fbka: rgb(0 0 0 / 0.45)
+--auybgh: #c0caf5
+--auybix: #c0caf5
+--gflfk: light-dark(#FFFFFF, #FFFFFF)
+--warm-gray-20: #1a1b26
+--_9ff8e09a: rgb(0 0 0 / 0)
+--color-text-solid: #c0caf5
+--gflbn: light-dark(#D1D1D1, #8C8C8C)
+--color-background-knockout: #24283b
+--auybj5: rgb(0 0 0 / 0)
+--gfla4x: #94B2FF
+--gfla4w: #BED1FE
+--gflavm: rgb(0 0 0 / 0.6)
+--gflavt: #AAD6FF
+--gfla6b: rgb(255 255 255 / 0.49)
+--gflgx: light-dark(rgb(224 104 71 / 0.2), rgb(224 104 71 / 0.25))
+--gfld0: light-dark(#1F1F1F, #E4E4E4)
+--gfli9: light-dark(#0A66C2, #AAD6FF)
+--gflax: light-dark(#F0F6CB, #414335)
+--gflgt: light-dark(#F8EFF8, #3A2A39)
+--auybj6: rgb(0 0 0 / 0.03)
+--e5155c32: rgb(0 0 0 / 0.92)
+--gflhb: light-dark(rgb(55 143 233 / 0.1), rgb(55 143 233 / 0.15))
+--gflge: light-dark(#8F5849, #F4C7BB)
+--gflax6: rgb(153 131 177 / 0.1)
+--gfla5o: #1F1E1E
+--color-background-scrim-dark: rgb(0 0 0 / 0.9)
+--gflbw: light-dark(rgb(140 140 140 / 0.2), rgb(140 140 140 / 0.25))
+--gflaz4: #8443CE
+--gflji: light-dark(#004C33, #74E5C0)
+--gflazt: #F7EFFF
+--gfl7: light-dark(#FFF9F7, #412922)
+--color-pill-label-checked: #24283b
+--gflaw8: #E0A494
+--gfla3a: rgb(51 153 168 / 0.35)
+--gflcs: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--gflaxf: rgb(190 123 106 / 0.35)
+--gflawk: #65684E
+--f57b9c8d: #c0caf5
+--_1eb6b417: #c0caf5
+--color-button-overlay-container: rgb(0 0 0 / 0.75)
+--gfla17: #FE9958
+--bfc03626: #c0caf5
+--gfla42: #061E61
+--tw-ring-offset-color: #24283b
+--color-element-on-dark: #c0caf5
+--auybhu: rgb(0 0 0 / 0)
+--gflau4: #FDF0DE
+--gflb8: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--gflavz: rgb(55 143 233 / 0.25)
+--gfli5: light-dark(#6E6558, #FFFFFF)
+--gfljf: light-dark(#01754F, rgb(15 159 111 / 0.15))
+--gflayd: #493D57
+--gflaxl: #E1F9D5
+--gflgj: light-dark(#FFEFEA, #412922)
+--gflbh: light-dark(#C37D16, #D6CEC2)
+--gflh7: light-dark(rgb(15 159 111 / 0.2), rgb(15 159 111 / 0.25))
+--auybj9: rgb(0 0 0 / 0.16)
+--color-background-neutral-soft: #1a1b26
+--auybhw: #c0caf5
+--gfla1e: rgb(140 140 140 / 0.3)
+--gflav1: rgb(55 143 233 / 0.35)
+--gflht: light-dark(rgb(92 59 9 / 0.3), rgb(249 201 130 / 0.3))
+--gflav8: #FAFBF5
+--gfla2e: rgb(224 106 26 / 0.35)
+--_6dec5cea: rgb(0 0 0 / 0.04)
+--gflhj: light-dark(rgb(224 104 71 / 0.3), rgb(246 155 129 / 0.3))
+--gfla8: light-dark(#EA95E5, #CEA5CC)
+--gflbt: light-dark(#F4F2EE, #000000)
+--gfldi: light-dark(rgb(0 0 0 / 0.9), rgb(255 255 255 / 0.9))
+--gflfi: light-dark(#FFFFFF, #FFFFFF)
+--color-button-overlay-container-border: rgb(0 0 0 / 0)
+--m6fbbi: #c0caf5
+--gflay4: rgb(172 125 169 / 0.2)
+--a56a0acd: rgb(0 0 0 / 0.16)
+--gflbg: light-dark(#E9A53F, #BBB1A1)
+--m6fbhw: #c0caf5
+--gflo0: rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0)) 0%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.2)) 30%, rgb(from light-dark(rgb(0 0 0 / 0.75), rgb(255 255 255 / 0.75)) r g b / calc(alpha * 0.8)) 90%
+--gflfp: light-dark(#915907, #E9A53F)
+--gfl2: light-dark(#94DDE8, #719196)
+--gfla3d: #0E343A
+--gflik: light-dark(rgb(243 83 107 / 0.2), rgb(243 83 107 / 0.25))
+--gfla0t: #719196
+--color-background-container: #24283b
+--voyager-color-action-on-dark-hover: #c0caf5
+--gflaxa: rgb(190 123 106 / 0.1)
+--gfljk: light-dark(#0A66C2, #71B7FB)
+--gfldk: light-dark(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9))
+--gflaxy: #24331C
+--gflf0: light-dark(#38434F, #C2D3E4)
+--color-text: #c0caf5
+--gfle5: light-dark(rgb(0 0 0 / 0.3), rgb(255 255 255 / 0.3))
+--_39af3d4f: rgb(0 0 0 / 0)
+--ddb0a6cb: #c0caf5
+--warm-gray-30: #1a1b26
+--color-coach-prompt-contextual-background-hover: #1a1b26
+--gflec: light-dark(rgb(255 255 255 / 0.6), rgb(0 0 0 / 0.6))
+--gfla5p: #1D1C1B
+--artdeco-button-secondary-default-static-border-color: #7aa2f7
+--artdeco-button-secondary-default-active-border-color: #7dcfff
+--artdeco-button-secondary-default-active-color: #7dcfff
+--artdeco-button-tertiary-default-active-color: #7dcfff
+--artdeco-button-primary-default-static-background-color: #7aa2f7
+--lbp-color-action-active: #7dcfff
+--artdeco-button-primary-default-active-background-color: #7dcfff
+--artdeco-button-secondary-default-static-color: #7aa2f7
+--lbp-color-text: #c0caf5
+--lbp-color-action: #7aa2f7
+--artdeco-button-tertiary-default-static-color: #7aa2f7

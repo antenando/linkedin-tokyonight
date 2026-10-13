@@ -22,6 +22,26 @@ GitHub is what userstyles.world mirrors and what Stylus installs from the raw li
 Metadata mirroring is off on purpose (see below). A change to the name or the description
 in the header does **not** reach the listing. Edit those on userstyles.world by hand.
 
+## When the colours drift
+
+LinkedIn renames its hashed tokens every few weeks. The symptom is that the newer pages
+(the feed, "My network") drift back to LinkedIn's own colours, while messaging and the top
+bar stay Tokyo Night (they use stable named tokens). To fix it:
+
+1. On a signed-in LinkedIn page, open DevTools → Sources → Snippets and run
+   `tools/probe.js` (Ctrl+Enter). A Snippet is not disturbed by the console noise
+   LinkedIn produces. Run it on `/feed` and `/messaging`, plus any page that looks wrong.
+   Keep the style on at its default colours, or turn it off.
+2. Each run downloads `YYYY-MM-DD-<page>.txt`. Keep only its `DUMP` section:
+
+   ```sh
+   sed -n '/^DUMP$/,$p' 2026-10-13-feed.txt | grep '^--' > tools/dumps/2026-10-13-feed.txt
+   ```
+
+3. Run `python tools/linkedin-tokyonight-gen.py`. The `signed-in:` line should report
+   tens or hundreds of hashed tokens. `0` means every report is older than 14 days.
+4. Release as above: raise `@version`, commit, push.
+
 ## The userstyles.world listing
 
 Stylus → *Find styles* searches userstyles.world, not GitHub, so the listing is what
