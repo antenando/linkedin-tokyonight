@@ -24,9 +24,20 @@ in the header does **not** reach the listing. Edit those on userstyles.world by 
 
 ## When the colours drift
 
-LinkedIn renames its hashed tokens every few weeks. The symptom is that the newer pages
-(the feed, "My network") drift back to LinkedIn's own colours, while messaging and the top
-bar stay Tokyo Night (they use stable named tokens). To fix it:
+LinkedIn renames its hashed tokens on every build, sometimes a day apart. The symptom is
+that the feed, "My network" and the top bar drift back to LinkedIn's own colours (every
+surface `#1B1F23`), while messaging stays Tokyo Night (it uses stable named tokens).
+
+**Try the generator alone first.** The feed's main stylesheet is the same public file the
+sign-in page loads, so `python tools/linkedin-tokyonight-gen.py` usually picks up the new
+palette names with no probe. Check that the `hashed:` line names a new `assets/*.css` file
+and that the new prefix appears in the style:
+
+```sh
+grep -oE '^  --[a-z_]{3}' linkedin-tokyonight.user.css | sort | uniq -c | sort -rn | head -3
+```
+
+If a page still looks wrong after that, collect probe reports:
 
 1. On a signed-in LinkedIn page, open DevTools → Sources → Snippets and run
    `tools/probe.js` (Ctrl+Enter). A Snippet is not disturbed by the console noise
@@ -39,7 +50,9 @@ bar stay Tokyo Night (they use stable named tokens). To fix it:
    ```
 
 3. Run `python tools/linkedin-tokyonight-gen.py`. The `signed-in:` line should report
-   tens or hundreds of hashed tokens. `0` means every report is older than 14 days.
+   tens or hundreds of hashed tokens. `0` means every report is older than 14 days. The
+   report's `SURFACES` section lists large areas the theme does not reach, with the
+   variables behind each one and the theme classes of every document.
 4. Release as above: raise `@version`, commit, push.
 
 ## The userstyles.world listing

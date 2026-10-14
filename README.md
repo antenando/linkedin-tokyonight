@@ -53,13 +53,15 @@ background or the text retints every grey on the site.
 
 ## What is stable and what is not
 
-- **Stable:** the named tokens, the forced dark scheme and the few class rules. Messaging,
-  notifications and the top bar run in LinkedIn's older app, which uses named tokens, so
-  those stay Tokyo Night across LinkedIn releases.
-- **Best effort:** the hashed tokens. LinkedIn renames them on every build, often within
-  days. While they match, the newer pages are full Tokyo Night. When they stop matching,
-  those pages fall back to LinkedIn's own dark palette: dark and readable, but warm grey
-  instead of Tokyo Night.
+- **Stable:** the named tokens, the forced dark scheme and the few class rules. Messaging
+  runs in LinkedIn's older app, which uses named tokens, so it stays Tokyo Night across
+  LinkedIn releases.
+- **Best effort:** the hashed tokens. The feed, "My network" and the top bar run in the
+  newer app, which uses them. LinkedIn renames them on every build, sometimes a day apart.
+  Only the 3-letter prefix changes (`--gflavp` becomes `--hcbavp`), but CSS cannot match a
+  variable by part of its name. While the names match, those pages are full Tokyo Night.
+  When they stop matching, they fall back to LinkedIn's own dark palette: dark and
+  readable, but not Tokyo Night, until the next release.
 
 ## When LinkedIn changes its CSS
 

@@ -14,6 +14,13 @@
   const walk = (root, label) => {
     roots.push([root, label]);
     out.push(`ROOT ${label} stylus-styles=${root.querySelectorAll('style.stylus, style[id^="stylus"]').length}`);
+    // each document's theme hooks: LinkedIn's dark mode is a class or attribute here
+    if (root.nodeType === Node.DOCUMENT_NODE && root.documentElement) {
+      for (const e of [root.documentElement, root.body].filter(Boolean)) {
+        const scope = e.getAttribute('data-color-scheme');
+        out.push(`  ${e.tagName.toLowerCase()} class="${e.className}"${scope ? ` data-color-scheme=${scope}` : ''} scheme=${root.defaultView.getComputedStyle(e).colorScheme}`);
+      }
+    }
     for (const el of root.querySelectorAll('*')) {
       if (el.shadowRoot) walk(el.shadowRoot, `${label} > ${el.tagName.toLowerCase()}#shadow`);
       if (el.tagName === 'IFRAME') {
@@ -129,6 +136,28 @@
       out.push(`    ${describe(varsFor(el, 'color', fg))}`);
       out.push(`    parents:\n${chainOf(el)}`);
       if (lowSeen.size > 60) break;
+    }
+  }
+
+  // large opaque areas painted in a colour the style does not use: where the
+  // theme is not reaching (LinkedIn's own dark greys, for example)
+  out.push('', 'SURFACES');
+  const ours = new Set(['rgb(26, 27, 38)', 'rgb(36, 40, 59)', 'rgb(31, 35, 53)', 'rgb(41, 46, 66)']);
+  const surfSeen = new Set();
+  for (const [root, label] of roots) {
+    for (const el of root.querySelectorAll('*')) {
+      const r = el.getBoundingClientRect();
+      if (r.width < 200 || r.height < 60) continue;
+      const cs = el.ownerDocument.defaultView.getComputedStyle(el);
+      const bg = cs.backgroundColor;
+      if (rgba(bg)[3] < 0.99 || ours.has(bg) || lum(bg) > 0.7) continue;
+      const key = `${label} ${bg}`;
+      if (surfSeen.has(key)) continue;
+      surfSeen.add(key);
+      out.push(`${label} ${el.tagName.toLowerCase()}.${[...el.classList].slice(0, 5).join('.')}\n    bg=${bg} ${Math.round(r.width)}x${Math.round(r.height)}`);
+      out.push(`    ${describe(varsFor(el, 'backgroundColor', bg))}`);
+      out.push(`    parents:\n${chainOf(el)}`);
+      if (surfSeen.size > 30) break;
     }
   }
 
